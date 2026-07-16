@@ -1,137 +1,122 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" alt="Conroy — creator and maintainer of MissionChief Map Command Toolkit" width="100%">
+<img src="./assets/profile-banner.svg" alt="Conroy — independent builder from Edinburgh" width="100%">
 
 <br>
 
-# Building the operational layer MissionChief should have
+# Hi, I'm Conroy
 
-**Edinburgh-based independent developer focused on map intelligence, responsive interfaces, reliable automation and verified releases.**
+**I build practical tools, automations and interfaces around the systems I actually use.**
 
-[![Latest release](https://img.shields.io/github/v/release/Conroy1988/missionchief-toolkit-assets?display_name=release&label=latest%20release&color=2563eb)](https://github.com/Conroy1988/missionchief-toolkit-assets/releases/latest)
-[![Greasy Fork version](https://img.shields.io/greasyfork/v/586018?label=Greasy%20Fork&color=7f1d1d)](https://greasyfork.org/en/scripts/586018-missionchief-map-command-toolkit)
-[![Total installs](https://img.shields.io/greasyfork/dt/586018?label=total%20installs&color=0f766e)](https://greasyfork.org/en/scripts/586018-missionchief-map-command-toolkit)
-[![Validation](https://github.com/Conroy1988/missionchief-toolkit-assets/actions/workflows/validate-userscript.yml/badge.svg)](https://github.com/Conroy1988/missionchief-toolkit-assets/actions/workflows/validate-userscript.yml)
-[![Licence](https://img.shields.io/badge/licence-MIT-111827)](https://github.com/Conroy1988/missionchief-toolkit-assets#licence-and-attribution)
+Based in **Edinburgh, Scotland** · Interested in browser tooling, self-hosting, gaming technology, interface design and dependable automation.
 
-[![Install Toolkit](https://img.shields.io/badge/INSTALL%20TOOLKIT-GREASY%20FORK-8B0000?style=for-the-badge&logo=tampermonkey&logoColor=white)](https://update.greasyfork.org/scripts/586018/MissionChief%20Map%20Command%20Toolkit.user.js)
-[![Open Documentation](https://img.shields.io/badge/OPEN-DOCUMENTATION-1677A3?style=for-the-badge&logo=readthedocs&logoColor=white)](https://conroy1988.github.io/missionchief-toolkit-assets/)
-[![View Releases](https://img.shields.io/badge/VIEW-RELEASES-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Conroy1988/missionchief-toolkit-assets/releases)
+![Independent Builder](https://img.shields.io/badge/INDEPENDENT%20BUILDER-111827?style=for-the-badge)
+![Edinburgh](https://img.shields.io/badge/EDINBURGH-SCOTLAND-0B6E99?style=for-the-badge)
+![Always Tinkering](https://img.shields.io/badge/ALWAYS-TINKERING-6D4AFF?style=for-the-badge)
 
 </div>
 
 ---
 
-## 🚨 Flagship project
+## 👋 About me
 
-### [MissionChief Map Command Toolkit](https://github.com/Conroy1988/missionchief-toolkit-assets)
+I am not interested in building technology purely for the sake of it. Most of my projects begin with a recurring annoyance, an inefficient workflow or an interface that could work considerably better.
 
-A configurable userscript that transforms the standard MissionChief map into a complete operational command centre. It consolidates mission intelligence, fleet awareness, geographic coverage, transport demand, financial reporting and cinematic presentation into one responsive interface.
+That usually leads me into one of four areas:
 
 <table>
 <tr>
-<td width="25%" align="center"><strong>🚨 Mission intelligence</strong><br><sub>Mission Age Watch, Critical View, Mission Inspector, incident feeds and rapid navigation.</sub></td>
-<td width="25%" align="center"><strong>🚓 Fleet awareness</strong><br><sub>Vehicle code status, unit counts, transport demand and automatic vehicle loading.</sub></td>
-<td width="25%" align="center"><strong>🗺️ Map operations</strong><br><sub>Coverage heat maps, rings, bookmarks, visibility controls and map profiles.</sub></td>
-<td width="25%" align="center"><strong>⚙️ Responsive command</strong><br><sub>Dedicated Desktop, Tablet and iOS layouts with portable settings.</sub></td>
+<td width="25%" align="center"><strong>⚙️ Automation</strong><br><sub>Removing repetitive work and connecting systems that should already cooperate.</sub></td>
+<td width="25%" align="center"><strong>🖥️ Interfaces</strong><br><sub>Making complex tools clearer, faster and more responsive across devices.</sub></td>
+<td width="25%" align="center"><strong>🏠 Self-hosting</strong><br><sub>Running and maintaining useful services through Docker and home-lab infrastructure.</sub></td>
+<td width="25%" align="center"><strong>🎮 Gaming tech</strong><br><sub>Userscripts, Linux gaming, handheld systems, launchers and community tooling.</sub></td>
 </tr>
 </table>
 
-### Core operational systems
-
-| System | Purpose |
-|---|---|
-| **Mission Age Watch** | Finds, filters and prioritises missions by age, distance, state and ownership. |
-| **Major Incident Feed** | Surfaces high-priority incidents with direct map navigation. |
-| **Vehicle Code Status** | Summarises the live fleet by response code and availability. |
-| **Transport Watcher** | Identifies outstanding patient transport demand. |
-| **Coverage Heat Map** | Visualises the operational footprint directly on the Leaflet map. |
-| **Financial Intelligence** | Produces daily, weekly and monthly reporting with Discord-ready output. |
-| **Smart Bookmarks** | Creates compact location controls with desktop and touch-safe behaviour. |
-| **Settings Portability** | Moves the complete configuration between devices and operating modes. |
+My preferred approach is simple: understand the real problem, change one thing carefully, test it properly, and leave the system easier to maintain than I found it.
 
 ---
 
-## 🎨 Seven complete interface identities
+## 🧭 What I spend time on
 
-Each theme is a complete interface treatment rather than a simple colour preset. Operational semantics remain consistent while typography, surfaces, controls, alerts and payout presentation change around them.
+### Browser tools and community utilities
 
-<div align="center">
+I enjoy extending existing web applications with features that feel native rather than bolted on. That includes userscripts, map controls, responsive panels, data overlays, workflow shortcuts and persistent settings.
 
-![Map Command](https://img.shields.io/badge/MAP%20COMMAND-0B6E99?style=for-the-badge)
-![Cyberpunk](https://img.shields.io/badge/CYBERPUNK-B5179E?style=for-the-badge)
-![Fallout 4](https://img.shields.io/badge/FALLOUT%204-4F772D?style=for-the-badge)
-![Umbrella Containment](https://img.shields.io/badge/UMBRELLA%20CONTAINMENT-A41320?style=for-the-badge)
-![Factorio](https://img.shields.io/badge/FACTORIO-A65F1B?style=for-the-badge)
-![007 Intelligence](https://img.shields.io/badge/007%20INTELLIGENCE-8C7A47?style=for-the-badge)
-![Hyrule Command](https://img.shields.io/badge/HYRULE%20COMMAND-168AAD?style=for-the-badge)
+### Automation and bots
 
-</div>
+I have built Discord automation, scheduled reporting, webhook integrations, release notifications, dashboards and supporting tools that turn fragmented processes into predictable workflows.
 
-The Toolkit also contains a separate library of mission-completion presentations, hosted visual packages, optional audio cues, emergency effects and persistent payout history.
+### Home lab and media systems
 
----
+I run and troubleshoot self-hosted services, Docker workloads, remote-access tools and media automation. I am particularly interested in making these systems reliable enough to disappear into the background and simply work.
 
-## 🛡️ Release engineering
+### PC and Linux gaming
 
-The project is maintained as a production system rather than a loose userscript file.
-
-```text
-Canonical source
-      ↓
-Automated validation and full audit
-      ↓
-Immutable GitHub Release
-      ↓
-Greasy Fork synchronisation and live verification
-      ↓
-Private recovery backup
-      ↓
-Discord release confirmation
-```
-
-Every formal release is checked for source integrity, asset availability, version alignment and distribution parity before it is treated as complete.
-
-[![Canonical validation](https://github.com/Conroy1988/missionchief-toolkit-assets/actions/workflows/validate-userscript.yml/badge.svg)](https://github.com/Conroy1988/missionchief-toolkit-assets/actions/workflows/validate-userscript.yml)
-[![Full userscript audit](https://github.com/Conroy1988/missionchief-toolkit-assets/actions/workflows/full-userscript-audit.yml/badge.svg)](https://github.com/Conroy1988/missionchief-toolkit-assets/actions/workflows/full-userscript-audit.yml)
-[![Last commit](https://img.shields.io/github/last-commit/Conroy1988/missionchief-toolkit-assets?label=last%20project%20update&color=334155)](https://github.com/Conroy1988/missionchief-toolkit-assets/commits/main)
+I regularly experiment with Windows and Linux gaming environments, including CachyOS, Proton, Wine, Lutris, Gamescope, handheld performance tuning and launcher compatibility.
 
 ---
 
-## 🧰 Working stack
+## 🚨 Featured project
+
+### [MissionChief Map Command Toolkit](https://github.com/Conroy1988/missionchief-toolkit-assets)
+
+A configurable userscript that transforms the MissionChief map into a responsive operational interface with mission intelligence, fleet monitoring, map utilities, financial reporting, device-specific layouts and a full release pipeline.
+
+[![Install Toolkit](https://img.shields.io/badge/INSTALL-GREASY%20FORK-8B0000?style=for-the-badge&logo=tampermonkey&logoColor=white)](https://update.greasyfork.org/scripts/586018/MissionChief%20Map%20Command%20Toolkit.user.js)
+[![Documentation](https://img.shields.io/badge/OPEN-DOCUMENTATION-1677A3?style=for-the-badge&logo=readthedocs&logoColor=white)](https://conroy1988.github.io/missionchief-toolkit-assets/)
+[![Releases](https://img.shields.io/badge/VIEW-RELEASES-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Conroy1988/missionchief-toolkit-assets/releases)
+
+[![Latest release](https://img.shields.io/github/v/release/Conroy1988/missionchief-toolkit-assets?display_name=release&label=latest&color=2563eb)](https://github.com/Conroy1988/missionchief-toolkit-assets/releases/latest)
+[![Total installs](https://img.shields.io/greasyfork/dt/586018?label=installs&color=0f766e)](https://greasyfork.org/en/scripts/586018-missionchief-map-command-toolkit)
+[![Validation](https://github.com/Conroy1988/missionchief-toolkit-assets/actions/workflows/validate-userscript.yml/badge.svg)](https://github.com/Conroy1988/missionchief-toolkit-assets/actions/workflows/validate-userscript.yml)
+
+The project is where most of my current development work is concentrated, but it represents only one part of the wider technical work and experimentation documented on this profile.
+
+---
+
+## 🧰 Tools I regularly work with
 
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6)
+![PowerShell](https://img.shields.io/badge/PowerShell-111827?style=for-the-badge&logo=powershell&logoColor=5391FE)
+![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-111827?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+![Discord](https://img.shields.io/badge/Discord-111827?style=for-the-badge&logo=discord&logoColor=5865F2)
+![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624)
 ![Leaflet](https://img.shields.io/badge/Leaflet-111827?style=for-the-badge&logo=leaflet&logoColor=7ABF43)
 ![Tampermonkey](https://img.shields.io/badge/Tampermonkey-111827?style=for-the-badge&logo=tampermonkey&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-111827?style=for-the-badge&logo=githubactions&logoColor=2088FF)
-![Discord](https://img.shields.io/badge/Discord%20Automation-111827?style=for-the-badge&logo=discord&logoColor=5865F2)
 
 </div>
 
 ---
 
-## 🔗 Project routes
+## 🔩 How I like to build
 
-| Route | Use it for |
-|---|---|
-| **[Install from Greasy Fork](https://update.greasyfork.org/scripts/586018/MissionChief%20Map%20Command%20Toolkit.user.js)** | Supported installation and automatic updates. |
-| **[Documentation](https://conroy1988.github.io/missionchief-toolkit-assets/)** | Setup, feature guidance and troubleshooting. |
-| **[GitHub Releases](https://github.com/Conroy1988/missionchief-toolkit-assets/releases)** | Immutable release archives and version history. |
-| **[Feature ideas](https://github.com/Conroy1988/missionchief-toolkit-assets/discussions/categories/feature-ideas)** | Community proposals and early discussion. |
-| **[Help and troubleshooting](https://github.com/Conroy1988/missionchief-toolkit-assets/discussions/categories/help-and-troubleshooting)** | Installation or configuration support. |
-| **[Confirmed issues](https://github.com/Conroy1988/missionchief-toolkit-assets/issues)** | Actionable bugs and tracked development work. |
-| **[Public roadmap](https://github.com/users/Conroy1988/projects)** | Investigation, development and release state. |
+- **Practical first** — the feature must solve a real problem.
+- **Complete changes** — working files and tested behaviour rather than vague patches.
+- **Responsive by design** — desktop, tablet and mobile should be considered from the start.
+- **Measured automation** — automate repeatable work without hiding important state.
+- **Recoverable systems** — releases, backups and clear migration paths matter.
+- **Polish after correctness** — make it work reliably, then make it feel excellent.
+
+---
+
+## 🎧 Away from the editor
+
+I am usually somewhere around PC gaming, home-server maintenance, interface ideas, music experiments or another piece of technology that has decided it needs fixing.
+
+Development is also routinely supervised by **Eli and Nala**, who provide no technical assistance but maintain strong opinions about keyboard access.
 
 ---
 
 <div align="center">
 
-### One major project. Built deeply, maintained properly.
+### Useful technology should remove friction, not create another layer of it.
 
-<sub>MissionChief Map Command Toolkit is an independent community project and is not affiliated with MissionChief or its operators.</sub>
+<sub>This profile contains independent personal projects and community tools.</sub>
 
 </div>
