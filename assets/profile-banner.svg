@@ -1,0 +1,110 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 520" role="img" aria-labelledby="title desc">
+  <title id="title">Conroy — MissionChief Map Command Toolkit</title>
+  <desc id="desc">A multi-theme operational command banner representing Map Command, Cyberpunk, Fallout 4, Umbrella Containment, Factorio, 007 Intelligence and Hyrule Command.</desc>
+  <defs>
+    <linearGradient id="background" x1="80" y1="20" x2="1510" y2="500" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#050910"/>
+      <stop offset="0.5" stop-color="#0b1420"/>
+      <stop offset="1" stop-color="#07090d"/>
+    </linearGradient>
+    <radialGradient id="cyanGlow" cx="0" cy="0" r="1" gradientTransform="translate(1220 220) rotate(135) scale(500 330)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#2ad7ff" stop-opacity="0.23"/>
+      <stop offset="1" stop-color="#2ad7ff" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="goldGlow" cx="0" cy="0" r="1" gradientTransform="translate(1430 430) rotate(-150) scale(360 210)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#f4c45c" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#f4c45c" stop-opacity="0"/>
+    </radialGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" fill="none" stroke="#8de8ff" stroke-opacity="0.045"/>
+    </pattern>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="7" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="180%">
+      <feDropShadow dx="0" dy="18" stdDeviation="20" flood-color="#000" flood-opacity="0.58"/>
+    </filter>
+    <clipPath id="screen"><rect x="1000" y="55" width="515" height="360" rx="28"/></clipPath>
+  </defs>
+
+  <rect width="1600" height="520" rx="30" fill="url(#background)"/>
+  <rect width="1600" height="520" rx="30" fill="url(#grid)"/>
+  <rect width="1600" height="520" rx="30" fill="url(#cyanGlow)"/>
+  <rect width="1600" height="520" rx="30" fill="url(#goldGlow)"/>
+
+  <g transform="translate(72 66)">
+    <g>
+      <circle cx="29" cy="29" r="28" fill="#0a2532" stroke="#42dff6" stroke-width="2"/>
+      <path d="M29 10 39 27H19L29 10Zm-10 22h20L29 49 19 32Z" fill="#79efff" filter="url(#glow)"/>
+      <text x="75" y="22" fill="#74e9ff" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="4">INDEPENDENT DEVELOPER</text>
+      <text x="75" y="49" fill="#8299aa" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600" letter-spacing="2.2">EDINBURGH · SCOTLAND</text>
+    </g>
+
+    <text x="0" y="151" fill="#f6fbff" font-family="Segoe UI,Arial,sans-serif" font-size="90" font-weight="900" letter-spacing="-4">CONROY</text>
+    <text x="4" y="207" fill="#52dcff" font-family="Segoe UI,Arial,sans-serif" font-size="31" font-weight="800" letter-spacing="0.6">MISSIONCHIEF MAP COMMAND TOOLKIT</text>
+    <text x="4" y="259" fill="#afc0cc" font-family="Segoe UI,Arial,sans-serif" font-size="21">Creator, maintainer and release engineer of a complete</text>
+    <text x="4" y="291" fill="#afc0cc" font-family="Segoe UI,Arial,sans-serif" font-size="21">operational command layer for the MissionChief map.</text>
+
+    <g transform="translate(4 334)">
+      <rect width="202" height="50" rx="14" fill="#0d2535" stroke="#35cce9" stroke-opacity="0.7"/>
+      <circle cx="25" cy="25" r="7" fill="#50e1ff"/>
+      <text x="44" y="31" fill="#e4faff" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700">MISSION INTELLIGENCE</text>
+      <g transform="translate(219)">
+        <rect width="173" height="50" rx="14" fill="#11291f" stroke="#5ee2a3" stroke-opacity="0.65"/>
+        <circle cx="25" cy="25" r="7" fill="#68f0ae"/>
+        <text x="44" y="31" fill="#ecfff4" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700">FLEET AWARENESS</text>
+      </g>
+      <g transform="translate(409)">
+        <rect width="180" height="50" rx="14" fill="#251d10" stroke="#e7b952" stroke-opacity="0.7"/>
+        <circle cx="25" cy="25" r="7" fill="#ffd36a"/>
+        <text x="44" y="31" fill="#fff5d9" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700">VERIFIED RELEASES</text>
+      </g>
+    </g>
+  </g>
+
+  <g clip-path="url(#screen)" filter="url(#shadow)">
+    <rect x="1000" y="55" width="515" height="360" rx="28" fill="#07131f" stroke="#39cfe9" stroke-opacity="0.45" stroke-width="2"/>
+    <g opacity="0.42" fill="none" stroke="#42c9df" stroke-width="2">
+      <path d="M970 145c111-59 176 4 264-43 92-49 191-22 325 28"/>
+      <path d="M966 198c120-45 178 21 270-17 100-41 195-17 331 38"/>
+      <path d="M970 255c106-32 177 27 271-2 103-32 198-4 323 47"/>
+      <path d="M980 321c101-27 166 26 263 8 97-18 186 5 305 49"/>
+    </g>
+    <path d="M1040 362c80-91 141-70 207-150 57-69 124-73 218-125" fill="none" stroke="#68efad" stroke-width="3" stroke-dasharray="10 10" opacity="0.62"/>
+
+    <g transform="translate(1255 220)">
+      <circle r="94" fill="#0a1c2a" stroke="#4ddbf0" stroke-opacity="0.6" stroke-width="2"/>
+      <circle r="66" fill="none" stroke="#4ddbf0" stroke-opacity="0.24" stroke-width="2" stroke-dasharray="8 9"/>
+      <circle r="16" fill="#dffcff" stroke="#48e3f4" stroke-width="7" filter="url(#glow)"/>
+      <path d="M0-132v38M0 94v38M-132 0h38M94 0h38" stroke="#63e4f4" stroke-width="4" stroke-linecap="round"/>
+      <path d="M-71-71-48-48M48 48l23 23M71-71 48-48M-48 48l-23 23" stroke="#63e4f4" stroke-width="3" opacity="0.6"/>
+    </g>
+
+    <g transform="translate(1060 92)">
+      <rect width="160" height="54" rx="14" fill="#0b1a28" stroke="#2bc5e5" stroke-opacity="0.55"/>
+      <text x="16" y="21" fill="#6fe8ff" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.6">SYSTEM STATUS</text>
+      <text x="16" y="42" fill="#f1fbff" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="800">OPERATIONAL</text>
+    </g>
+    <g transform="translate(1323 326)">
+      <rect width="151" height="53" rx="14" fill="#111e18" stroke="#61e7a6" stroke-opacity="0.55"/>
+      <text x="15" y="20" fill="#7cf1b8" font-family="Segoe UI,Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="1.5">RELEASE PATH</text>
+      <text x="15" y="41" fill="#ecfff5" font-family="Segoe UI,Arial,sans-serif" font-size="18" font-weight="800">VERIFIED</text>
+    </g>
+  </g>
+
+  <g transform="translate(52 457)">
+    <rect width="1496" height="38" rx="12" fill="#080d14" stroke="#ffffff" stroke-opacity="0.08"/>
+    <g font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="800" letter-spacing="1.1">
+      <rect x="10" y="8" width="188" height="22" rx="7" fill="#0b3448"/><text x="104" y="24" text-anchor="middle" fill="#79e9ff">MAP COMMAND</text>
+      <rect x="210" y="8" width="188" height="22" rx="7" fill="#341438"/><text x="304" y="24" text-anchor="middle" fill="#ff76e6">CYBERPUNK</text>
+      <rect x="410" y="8" width="188" height="22" rx="7" fill="#18321b"/><text x="504" y="24" text-anchor="middle" fill="#a8f06f">FALLOUT 4</text>
+      <rect x="610" y="8" width="188" height="22" rx="7" fill="#3c1116"/><text x="704" y="24" text-anchor="middle" fill="#ff7a83">UMBRELLA</text>
+      <rect x="810" y="8" width="188" height="22" rx="7" fill="#3a250f"/><text x="904" y="24" text-anchor="middle" fill="#f4af50">FACTORIO</text>
+      <rect x="1010" y="8" width="188" height="22" rx="7" fill="#292418"/><text x="1104" y="24" text-anchor="middle" fill="#f0cf7b">007 INTELLIGENCE</text>
+      <rect x="1210" y="8" width="276" height="22" rx="7" fill="#0c3040"/><text x="1348" y="24" text-anchor="middle" fill="#76e5ff">HYRULE COMMAND</text>
+    </g>
+  </g>
+
+  <rect x="1" y="1" width="1598" height="518" rx="29" fill="none" stroke="#8deaff" stroke-opacity="0.15" stroke-width="2"/>
+</svg>
