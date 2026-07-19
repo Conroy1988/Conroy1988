@@ -6,7 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/PORTFOLIO-ACTIVE-151b2b?style=for-the-badge&labelColor=080d17)](#active-portfolio)
 [![Location](https://img.shields.io/badge/EDINBURGH-SCOTLAND-3fc7dc?style=for-the-badge&labelColor=080d17)](#operational-perspective)
-[![Organisation](https://img.shields.io/badge/TEAM_KILLING_BASTARDS-MEMBER-785cf6?style=for-the-badge&labelColor=080d17)](#team-killing-bastards)
+[![Organisation](https://img.shields.io/badge/TEAM_KILLING_BASTARDS-FOUNDER_%26_LEADER-785cf6?style=for-the-badge&labelColor=080d17)](#team-killing-bastards)
 [![Focus](https://img.shields.io/badge/BUILD_FOR-REAL_USE-d06bf0?style=for-the-badge&labelColor=080d17)](#how-i-build)
 
 ### I build and operate practical digital systems around real workflows.
@@ -198,7 +198,34 @@ Conroy1988
 
 ## Team Killing Bastards
 
-I am involved in **[Team Killing Bastards](https://github.com/Team-Killing-Bastards)**, an independent engineering organisation hosting public software and private community infrastructure.
+I founded and originally created **[Team Killing Bastards](https://github.com/Team-Killing-Bastards)**, a Scottish-run gaming community whose technical projects and community infrastructure are hosted through GitHub.
+
+### Community Leadership
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### Conroy1988
+
+**Founder · Original owner · Community leader**
+
+I created TKB and retain founder and original-owner responsibility for the community, its identity, overall direction and long-term stewardship.
+
+</td>
+<td width="50%" valign="top">
+
+#### [MartyBlyth](https://github.com/Martyblyth)
+
+**Community leader · My right-hand**
+
+Marty leads the community alongside me as my principal leadership partner and right-hand. He also holds technical direction and release authority for MissionChief Command Nexus.
+
+</td>
+</tr>
+</table>
+
+Together, Marty and I lead Team Killing Bastards. My founder and original-owner role remains distinct, while Marty is my right-hand and fellow leader in the day-to-day direction of the community.
 
 <table>
 <tr>
