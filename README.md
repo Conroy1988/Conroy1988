@@ -1,122 +1,359 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" alt="Conroy — independent builder from Edinburgh" width="100%">
+<img src="./assets/profile-banner.svg" alt="Conroy — systems builder and project operator" width="100%">
 
 <br>
 
-# Hi, I'm Conroy
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-ACTIVE-151b2b?style=for-the-badge&labelColor=080d17)](#active-portfolio)
+[![Location](https://img.shields.io/badge/EDINBURGH-SCOTLAND-3fc7dc?style=for-the-badge&labelColor=080d17)](#operational-perspective)
+[![Organisation](https://img.shields.io/badge/TEAM_KILLING_BASTARDS-MEMBER-785cf6?style=for-the-badge&labelColor=080d17)](#team-killing-bastards)
+[![Focus](https://img.shields.io/badge/BUILD_FOR-REAL_USE-d06bf0?style=for-the-badge&labelColor=080d17)](#how-i-build)
 
-**I build practical tools, automations and interfaces around the systems I actually use.**
+### I build and operate practical digital systems around real workflows.
 
-Based in **Edinburgh, Scotland** · Interested in browser tooling, self-hosting, gaming technology, interface design and dependable automation.
+**Operational browser tooling · Automation · Research platforms · Persistent game systems · Community infrastructure · Self-hosting**
 
-![Independent Builder](https://img.shields.io/badge/INDEPENDENT%20BUILDER-111827?style=for-the-badge)
-![Edinburgh](https://img.shields.io/badge/EDINBURGH-SCOTLAND-0B6E99?style=for-the-badge)
-![Always Tinkering](https://img.shields.io/badge/ALWAYS-TINKERING-6D4AFF?style=for-the-badge)
+[**Explore the portfolio**](#active-portfolio) · [**Open the Map Command Toolkit**](https://github.com/Conroy1988/missionchief-toolkit-assets) · [**Visit Team Killing Bastards**](https://github.com/Team-Killing-Bastards) · [**Read the Achievement Encyclopedia**](https://conroy1988.github.io/Achievements/)
 
 </div>
 
 ---
 
-## 👋 About me
+## About Me
 
-I am not interested in building technology purely for the sake of it. Most of my projects begin with a recurring annoyance, an inefficient workflow or an interface that could work considerably better.
+I am **Conroy**, an operations-minded builder based in **Edinburgh, Scotland**.
 
-That usually leads me into one of four areas:
+My projects usually begin with a system that is fragmented, repetitive, difficult to read or harder to maintain than it should be. I map the real workflow, identify the missing control layer, and build something that makes the underlying operation clearer and more dependable.
 
 <table>
 <tr>
-<td width="25%" align="center"><strong>⚙️ Automation</strong><br><sub>Removing repetitive work and connecting systems that should already cooperate.</sub></td>
-<td width="25%" align="center"><strong>🖥️ Interfaces</strong><br><sub>Making complex tools clearer, faster and more responsive across devices.</sub></td>
-<td width="25%" align="center"><strong>🏠 Self-hosting</strong><br><sub>Running and maintaining useful services through Docker and home-lab infrastructure.</sub></td>
-<td width="25%" align="center"><strong>🎮 Gaming tech</strong><br><sub>Userscripts, Linux gaming, handheld systems, launchers and community tooling.</sub></td>
+<td width="25%" align="center" valign="top">
+
+### ⚙️ Automate
+
+Remove repetitive work without hiding important state or operator control.
+
+</td>
+<td width="25%" align="center" valign="top">
+
+### 🧭 Clarify
+
+Turn scattered information into interfaces that support faster decisions.
+
+</td>
+<td width="25%" align="center" valign="top">
+
+### 🛡️ Stabilise
+
+Build validation, auditability, recovery paths and controlled releases into the system.
+
+</td>
+<td width="25%" align="center" valign="top">
+
+### ◈ Operate
+
+Maintain the finished platform as a live product rather than abandoning it after launch.
+
+</td>
 </tr>
 </table>
 
-My preferred approach is simple: understand the real problem, change one thing carefully, test it properly, and leave the system easier to maintain than I found it.
+My work crosses software development, product direction, technical documentation, release engineering, repository administration, interface design and day-to-day operational ownership.
 
 ---
 
-## 🧭 What I spend time on
+## Active Portfolio
 
-### Browser tools and community utilities
+### MissionChief Map Command Toolkit
 
-I enjoy extending existing web applications with features that feel native rather than bolted on. That includes userscripts, map controls, responsive panels, data overlays, workflow shortcuts and persistent settings.
+<table>
+<tr>
+<td width="68%" valign="top">
 
-### Automation and bots
+#### A complete operational command layer for MissionChief
 
-I have built Discord automation, scheduled reporting, webhook integrations, release notifications, dashboards and supporting tools that turn fragmented processes into predictable workflows.
+The **MissionChief Map Command Toolkit** transforms the standard map into a responsive operations console. It combines mission intelligence, specialist fleet identity, map control, financial monitoring, device-specific layouts and multiple complete interface systems in one configurable userscript.
 
-### Home lab and media systems
+**Current capability includes:**
 
-I run and troubleshoot self-hosted services, Docker workloads, remote-access tools and media automation. I am particularly interested in making these systems reliable enough to disappear into the background and simply work.
+- Live mission requirements and response-state intelligence
+- Specialist vehicle identity and custom operational badges
+- Mission age, priority, transport and attendance indicators
+- Coverage rings, heat maps, bookmarks and focused map states
+- Financial reporting, payout tracking and session performance
+- Desktop, tablet and mobile interface modes
+- Structured issues, validation workflows, release archives and update manifests
 
-### PC and Linux gaming
+</td>
+<td width="32%" align="center" valign="top">
 
-I regularly experiment with Windows and Linux gaming environments, including CachyOS, Proton, Wine, Lutris, Gamescope, handheld performance tuning and launcher compatibility.
+### FLAGSHIP PROJECT
+
+[![Release](https://img.shields.io/github/v/release/Conroy1988/missionchief-toolkit-assets?display_name=release&label=release&color=785cf6&style=flat-square)](https://github.com/Conroy1988/missionchief-toolkit-assets/releases/latest)
+[![Greasy Fork](https://img.shields.io/greasyfork/v/586018?label=Greasy%20Fork&color=3fc7dc&style=flat-square)](https://greasyfork.org/en/scripts/586018-missionchief-map-command-toolkit)
+[![Licence](https://img.shields.io/badge/LICENCE-MIT-d06bf0?style=flat-square&labelColor=151b2b)](https://github.com/Conroy1988/missionchief-toolkit-assets/blob/main/LICENSE)
+
+**Creator and maintainer**  
+Conroy1988
+
+[**⬇ Install current release**](https://update.greasyfork.org/scripts/586018/MissionChief%20Map%20Command%20Toolkit.user.js)
+
+[Repository](https://github.com/Conroy1988/missionchief-toolkit-assets) · [Documentation](https://conroy1988.github.io/missionchief-toolkit-assets/)  
+[Releases](https://github.com/Conroy1988/missionchief-toolkit-assets/releases) · [Issues](https://github.com/Conroy1988/missionchief-toolkit-assets/issues)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### GitHub Achievement Encyclopedia
+
+<table>
+<tr>
+<td width="68%" valign="top">
+
+#### Evidence-led research into GitHub profile achievements
+
+The **GitHub Achievement Encyclopedia** is a maintained research and reference platform covering active and retired GitHub achievements, verified behaviour, community-reported thresholds, uncertainty, historical evidence and reproducible research tasks.
+
+It is designed to separate confirmed evidence from folklore rather than repeating unsupported badge guides.
+
+**Platform capability includes:**
+
+- Maintained guides for active and retired achievements
+- Evidence classifications, confidence levels and dated review records
+- Searchable GitHub Pages reference site
+- Machine-readable datasets and public API endpoints
+- Research tasks with privacy and reproducibility controls
+- Automated content-quality, source-inventory and repository-health audits
+
+</td>
+<td width="32%" align="center" valign="top">
+
+### RESEARCH PLATFORM
+
+[![Release](https://img.shields.io/github/v/release/Conroy1988/Achievements?display_name=release&label=release&color=785cf6&style=flat-square)](https://github.com/Conroy1988/Achievements/releases/latest)
+[![Pages](https://img.shields.io/badge/GITHUB_PAGES-LIVE-3fc7dc?style=flat-square&labelColor=151b2b)](https://conroy1988.github.io/Achievements/)
+[![Licence](https://img.shields.io/badge/LICENCE-MIT-d06bf0?style=flat-square&labelColor=151b2b)](https://github.com/Conroy1988/Achievements/blob/main/LICENSE)
+
+**Creator and maintainer**  
+Conroy1988
+
+[**◈ Explore the encyclopedia**](https://conroy1988.github.io/Achievements/)
+
+[Repository](https://github.com/Conroy1988/Achievements) · [Search](https://conroy1988.github.io/Achievements/search/)  
+[Evidence register](https://github.com/Conroy1988/Achievements/blob/main/docs/evidence-register.md) · [Research hub](https://github.com/Conroy1988/Achievements/blob/main/docs/research-hub.md)
+
+</td>
+</tr>
+</table>
+
+<br>
+
+### UK Fire Command
+
+<table>
+<tr>
+<td width="68%" valign="top">
+
+#### A persistent, map-first UK emergency-service management game
+
+**UK Fire Command** is an active private development project building a MissionChief-like management game around UK Fire and Rescue Service operations.
+
+The current development build supports regional commander accounts, station placement, appliance purchasing, specialist training, automated incident allocation, real-road routing, escalation, authoritative resolution timers, vehicle maintenance and a persistent credit ledger.
+
+**Technical foundation:**
+
+- Next.js and TypeScript web client
+- NestJS authoritative game server
+- PostgreSQL with PostGIS
+- MapLibre GL JS and OpenFreeMap
+- OSRM road routing
+- Persistent lifecycle worker
+- Docker Compose and GitHub Actions
+- Responsive and installable web-app interface
+
+</td>
+<td width="32%" align="center" valign="top">
+
+### PRIVATE DEVELOPMENT
+
+[![Status](https://img.shields.io/badge/STATUS-ACTIVE-785cf6?style=flat-square&labelColor=151b2b)](#uk-fire-command)
+[![Architecture](https://img.shields.io/badge/STATE-SERVER_AUTHORITATIVE-3fc7dc?style=flat-square&labelColor=151b2b)](#uk-fire-command)
+[![Platform](https://img.shields.io/badge/PLATFORM-WEB-d06bf0?style=flat-square&labelColor=151b2b)](#uk-fire-command)
+
+**Creator and project owner**  
+Conroy1988
+
+`Edinburgh · Glasgow · Manchester`
+
+<sub>The source repository remains private while the game architecture and initial operational systems are developed.</sub>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚨 Featured project
+## Team Killing Bastards
 
-### [MissionChief Map Command Toolkit](https://github.com/Conroy1988/missionchief-toolkit-assets)
+I am involved in **[Team Killing Bastards](https://github.com/Team-Killing-Bastards)**, an independent engineering organisation hosting public software and private community infrastructure.
 
-A configurable userscript that transforms the MissionChief map into a responsive operational interface with mission intelligence, fleet monitoring, map utilities, financial reporting, device-specific layouts and a full release pipeline.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-[![Install Toolkit](https://img.shields.io/badge/INSTALL-GREASY%20FORK-8B0000?style=for-the-badge&logo=tampermonkey&logoColor=white)](https://update.greasyfork.org/scripts/586018/MissionChief%20Map%20Command%20Toolkit.user.js)
-[![Documentation](https://img.shields.io/badge/OPEN-DOCUMENTATION-1677A3?style=for-the-badge&logo=readthedocs&logoColor=white)](https://conroy1988.github.io/missionchief-toolkit-assets/)
-[![Releases](https://img.shields.io/badge/VIEW-RELEASES-24292F?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Conroy1988/missionchief-toolkit-assets/releases)
+### TKB Discord Bot
 
-[![Latest release](https://img.shields.io/github/v/release/Conroy1988/missionchief-toolkit-assets?display_name=release&label=latest&color=2563eb)](https://github.com/Conroy1988/missionchief-toolkit-assets/releases/latest)
-[![Total installs](https://img.shields.io/greasyfork/dt/586018?label=installs&color=0f766e)](https://greasyfork.org/en/scripts/586018-missionchief-map-command-toolkit)
-[![Validation](https://github.com/Conroy1988/missionchief-toolkit-assets/actions/workflows/validate-userscript.yml/badge.svg)](https://github.com/Conroy1988/missionchief-toolkit-assets/actions/workflows/validate-userscript.yml)
+**Sole maintainer and operational owner**
 
-The project is where most of my current development work is concentrated, but it represents only one part of the wider technical work and experimentation documented on this profile.
+A rebuilt private Discord automation platform with:
+
+- Secure FastAPI administration dashboard
+- Encrypted integration and credential storage
+- Discord command, event and audit logging
+- AI, Giphy and Battlefield integrations
+- Levels, ranks, leaderboards, title cards and starboard
+- Scheduled activity, service probes and Docker deployment
+
+The bot is a standalone community system and is not connected to MissionChief.
+
+</td>
+<td width="50%" valign="top">
+
+### [MissionChief Command Nexus](https://github.com/Team-Killing-Bastards/MissionChief-Command-Nexus)
+
+**Repository infrastructure, documentation and general project support**
+
+Command Nexus is a unified MissionChief UK userscript combining resource administration, trained-personnel intelligence, mission interpretation and dispatch automation.
+
+Technical direction and userscript development belong to **[MartyBlyth](https://github.com/Martyblyth)**. My role is deliberately limited to repository setup, documentation, organisation support and general project assistance.
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+[![Open organisation](https://img.shields.io/badge/OPEN-TEAM_KILLING_BASTARDS-785cf6?style=for-the-badge&labelColor=080d17)](https://github.com/Team-Killing-Bastards)
+[![Command Nexus](https://img.shields.io/badge/VIEW-COMMAND_NEXUS-3fc7dc?style=for-the-badge&labelColor=080d17)](https://github.com/Team-Killing-Bastards/MissionChief-Command-Nexus)
+
+</div>
 
 ---
 
-## 🧰 Tools I regularly work with
+## Operational Perspective
+
+Outside GitHub, I work in **office and operations management**. That background directly influences the systems I build.
+
+Scheduling, customer communication, financial control, documentation, exception handling, accountability and repeatable processes are not abstract software concepts to me; they are operational requirements. I tend to approach development as a working system owner rather than as someone producing isolated code.
+
+```text
+Observe the real workflow
+        ↓
+Identify friction and failure points
+        ↓
+Design a visible control layer
+        ↓
+Build, validate and document it
+        ↓
+Operate it long enough to discover what was missed
+        ↓
+Improve the system without losing stability
+```
+
+---
+
+## Infrastructure and Experimentation
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🏠 Self-hosting
+
+Docker services, media automation, remote access, persistent storage, private dashboards, deployment recovery and home-lab reliability.
+
+</td>
+<td width="33%" valign="top">
+
+### 🎮 Gaming technology
+
+Windows and Linux gaming, CachyOS, Proton, Wine, Lutris, Gamescope, handheld tuning, userscripts and community tools.
+
+</td>
+<td width="33%" valign="top">
+
+### 🎛️ Interface systems
+
+Responsive dashboards, map-first controls, theme systems, operational overlays and interfaces designed around real decision-making.
+
+</td>
+</tr>
+</table>
+
+My private infrastructure includes **ConroyMedia**, a self-hosted media and automation environment used to test deployment, networking, remote access and service-maintenance workflows in real conditions.
+
+---
+
+## Technology
 
 <div align="center">
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-111827?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Python](https://img.shields.io/badge/Python-111827?style=for-the-badge&logo=python&logoColor=3776AB)
 ![HTML5](https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css3&logoColor=1572B6)
 ![PowerShell](https://img.shields.io/badge/PowerShell-111827?style=for-the-badge&logo=powershell&logoColor=5391FE)
+
+![Next.js](https://img.shields.io/badge/Next.js-111827?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-111827?style=for-the-badge&logo=nestjs&logoColor=E0234E)
+![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=009688)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![Docker](https://img.shields.io/badge/Docker-111827?style=for-the-badge&logo=docker&logoColor=2496ED)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-111827?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-111827?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+
+![MapLibre](https://img.shields.io/badge/MapLibre-111827?style=for-the-badge&logo=maplibre&logoColor=396CB2)
+![OpenStreetMap](https://img.shields.io/badge/OpenStreetMap-111827?style=for-the-badge&logo=openstreetmap&logoColor=7EBC6F)
 ![Discord](https://img.shields.io/badge/Discord-111827?style=for-the-badge&logo=discord&logoColor=5865F2)
 ![Linux](https://img.shields.io/badge/Linux-111827?style=for-the-badge&logo=linux&logoColor=FCC624)
-![Leaflet](https://img.shields.io/badge/Leaflet-111827?style=for-the-badge&logo=leaflet&logoColor=7ABF43)
 ![Tampermonkey](https://img.shields.io/badge/Tampermonkey-111827?style=for-the-badge&logo=tampermonkey&logoColor=white)
 
 </div>
 
 ---
 
-## 🔩 How I like to build
+## How I Build
 
-- **Practical first** — the feature must solve a real problem.
-- **Complete changes** — working files and tested behaviour rather than vague patches.
-- **Responsive by design** — desktop, tablet and mobile should be considered from the start.
-- **Measured automation** — automate repeatable work without hiding important state.
-- **Recoverable systems** — releases, backups and clear migration paths matter.
-- **Polish after correctness** — make it work reliably, then make it feel excellent.
+| Principle | What it means in practice |
+|---|---|
+| **Solve the operational problem** | Features begin with a real failure, delay or information gap rather than a technology looking for a use. |
+| **Keep authority visible** | Users should understand what the system knows, what it changed and what still requires human judgement. |
+| **Validate the live result** | A successful request is not the same as a successful outcome; important writes and releases should be verified. |
+| **Design for maintenance** | Canonical branches, clear ownership, changelogs, issue structure, backups and migration paths are part of the product. |
+| **Treat responsive behaviour as core** | Desktop, tablet and mobile use should be considered during design rather than patched in afterwards. |
+| **Polish after correctness** | Reliability comes first, but a mature system should also feel deliberate, coherent and professional. |
 
 ---
 
-## 🎧 Away from the editor
+## Away From the Repository
 
-I am usually somewhere around PC gaming, home-server maintenance, interface ideas, music experiments or another piece of technology that has decided it needs fixing.
+I am usually somewhere around PC gaming, self-hosted infrastructure, interface ideas, music experiments or another piece of technology that has decided it needs diagnosing.
 
-Development is also routinely supervised by **Eli and Nala**, who provide no technical assistance but maintain strong opinions about keyboard access.
+Development is routinely supervised by **Eli and Nala**, who contribute no code but maintain strict control over keyboard availability.
 
 ---
 
 <div align="center">
 
-### Useful technology should remove friction, not create another layer of it.
+## Conroy1988
 
-<sub>This profile contains independent personal projects and community tools.</sub>
+### Build useful systems. Operate them seriously. Improve them with evidence.
+
+**Software · Automation · Operations · Research · Game systems · Community infrastructure**
+
+<sub>Personal projects and community systems developed independently from the platforms they extend or reference.</sub>
 
 </div>
