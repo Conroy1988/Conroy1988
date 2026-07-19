@@ -1,108 +1,93 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 520" role="img" aria-labelledby="title desc">
-  <title id="title">Conroy — independent builder from Edinburgh</title>
-  <desc id="desc">A dark technical banner representing automation, interface design, self-hosting and gaming technology.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520" role="img" aria-labelledby="title desc">
+  <title id="title">Conroy — systems builder and project operator</title>
+  <desc id="desc">A dark technical banner representing operational software, automation, research platforms, game systems and community infrastructure.</desc>
   <defs>
-    <linearGradient id="bg" x1="60" y1="20" x2="1540" y2="500" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#050810"/>
-      <stop offset="0.48" stop-color="#0b1422"/>
-      <stop offset="1" stop-color="#10101d"/>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070b14"/>
+      <stop offset="0.48" stop-color="#0d1727"/>
+      <stop offset="1" stop-color="#171126"/>
     </linearGradient>
-    <radialGradient id="cyanGlow" cx="0" cy="0" r="1" gradientTransform="translate(1160 185) rotate(135) scale(520 330)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#2fd7ff" stop-opacity=".24"/>
-      <stop offset="1" stop-color="#2fd7ff" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="violetGlow" cx="0" cy="0" r="1" gradientTransform="translate(1450 420) rotate(-145) scale(430 270)" gradientUnits="userSpaceOnUse">
-      <stop stop-color="#9c6cff" stop-opacity=".21"/>
-      <stop offset="1" stop-color="#9c6cff" stop-opacity="0"/>
-    </radialGradient>
-    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
-      <path d="M44 0H0V44" fill="none" stroke="#9beaff" stroke-opacity=".045"/>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#65e6f5"/>
+      <stop offset="0.48" stop-color="#7970f6"/>
+      <stop offset="1" stop-color="#d06bf0"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.09"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.025"/>
+    </linearGradient>
+    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
+      <path d="M48 0H0V48" fill="none" stroke="#b5eaff" stroke-opacity="0.035"/>
     </pattern>
-    <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1">
-      <stop stop-color="#9af7ff"/>
-      <stop offset=".5" stop-color="#36d0ef"/>
-      <stop offset="1" stop-color="#3377d8"/>
-    </linearGradient>
-    <linearGradient id="violet" x1="0" y1="0" x2="1" y2="1">
-      <stop stop-color="#d5b5ff"/>
-      <stop offset=".55" stop-color="#9b6cff"/>
-      <stop offset="1" stop-color="#6542c7"/>
-    </linearGradient>
-    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
-      <feGaussianBlur stdDeviation="7" result="b"/>
-      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-    <filter id="shadow" x="-30%" y="-30%" width="160%" height="180%">
-      <feDropShadow dx="0" dy="18" stdDeviation="20" flood-color="#000" flood-opacity=".62"/>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="18"/>
     </filter>
   </defs>
 
-  <rect width="1600" height="520" rx="30" fill="url(#bg)"/>
+  <rect width="1600" height="520" rx="30" fill="url(#background)"/>
   <rect width="1600" height="520" rx="30" fill="url(#grid)"/>
-  <rect width="1600" height="520" rx="30" fill="url(#cyanGlow)"/>
-  <rect width="1600" height="520" rx="30" fill="url(#violetGlow)"/>
+  <rect x="1" y="1" width="1598" height="518" rx="29" fill="none" stroke="#ffffff" stroke-opacity="0.10"/>
 
-  <g transform="translate(72 67)">
-    <g>
-      <circle cx="29" cy="29" r="28" fill="#0b2634" stroke="#42dff6" stroke-width="2"/>
-      <path d="M16 19h26v20H16z" fill="none" stroke="#8cf3ff" stroke-width="3"/>
-      <path d="m21 26 5 4-5 4M30 35h7" fill="none" stroke="#8cf3ff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
-      <text x="75" y="22" fill="#79ebff" font-family="Segoe UI,Arial,sans-serif" font-size="17" font-weight="700" letter-spacing="4">INDEPENDENT BUILDER</text>
-      <text x="75" y="49" fill="#879cac" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600" letter-spacing="2.2">EDINBURGH · SCOTLAND</text>
-    </g>
+  <circle cx="1270" cy="72" r="170" fill="#665bf0" opacity="0.12" filter="url(#glow)"/>
+  <circle cx="1470" cy="430" r="190" fill="#d06bf0" opacity="0.09" filter="url(#glow)"/>
+  <circle cx="130" cy="500" r="130" fill="#65e6f5" opacity="0.07" filter="url(#glow)"/>
 
-    <text x="0" y="151" fill="#f6fbff" font-family="Segoe UI,Arial,sans-serif" font-size="90" font-weight="900" letter-spacing="-4">CONROY</text>
-    <text x="4" y="209" fill="url(#cyan)" font-family="Segoe UI,Arial,sans-serif" font-size="35" font-weight="800">Building useful things from everyday friction.</text>
-    <text x="4" y="263" fill="#afc0cc" font-family="Segoe UI,Arial,sans-serif" font-size="21">Automation, interfaces, home-lab systems and gaming technology —</text>
-    <text x="4" y="295" fill="#afc0cc" font-family="Segoe UI,Arial,sans-serif" font-size="21">designed to be practical, polished and maintainable.</text>
-
-    <g transform="translate(4 338)">
-      <g><rect width="154" height="50" rx="14" fill="#0d2535" stroke="#35cce9" stroke-opacity=".7"/><circle cx="25" cy="25" r="7" fill="#50e1ff"/><text x="44" y="31" fill="#e4faff" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700">AUTOMATION</text></g>
-      <g transform="translate(171)"><rect width="155" height="50" rx="14" fill="#1d1730" stroke="#a980ff" stroke-opacity=".7"/><circle cx="25" cy="25" r="7" fill="#b792ff"/><text x="44" y="31" fill="#f4edff" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700">INTERFACES</text></g>
-      <g transform="translate(343)"><rect width="162" height="50" rx="14" fill="#11291f" stroke="#5ee2a3" stroke-opacity=".65"/><circle cx="25" cy="25" r="7" fill="#68f0ae"/><text x="44" y="31" fill="#ecfff4" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700">SELF-HOSTING</text></g>
-      <g transform="translate(522)"><rect width="166" height="50" rx="14" fill="#2a2112" stroke="#e7b952" stroke-opacity=".7"/><circle cx="25" cy="25" r="7" fill="#ffd36a"/><text x="44" y="31" fill="#fff5d9" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="700">GAMING TECH</text></g>
-    </g>
+  <g transform="translate(74 70)">
+    <rect width="76" height="76" rx="19" fill="url(#panel)" stroke="#ffffff" stroke-opacity="0.13"/>
+    <path d="M20 24h36v8H43v25H33V32H20z" fill="url(#accent)"/>
+    <path d="M20 49h36v8H20z" fill="#ffffff" opacity="0.92"/>
   </g>
 
-  <g transform="translate(990 61)" filter="url(#shadow)">
-    <rect width="532" height="374" rx="30" fill="#08121f" stroke="#44d8ef" stroke-opacity=".42" stroke-width="2"/>
-    <path d="M28 72h476M266 72v274M28 209h476" stroke="#7cecff" stroke-opacity=".11" stroke-width="2"/>
+  <text x="176" y="97" fill="#93a2b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="3.8">SYSTEMS BUILDER · EDINBURGH, SCOTLAND</text>
+  <text x="72" y="207" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="86" font-weight="850" letter-spacing="-3">CONROY</text>
+  <rect x="74" y="232" width="700" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="74" y="284" fill="#d2d9e4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="600">Turning operational friction into dependable digital systems.</text>
+  <text x="74" y="324" fill="#9caabd" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19">Browser tooling · Automation · Research platforms · Game systems · Self-hosting</text>
 
-    <g transform="translate(55 104)">
-      <rect width="162" height="74" rx="15" fill="#0c1c2c" stroke="#39cdea" stroke-opacity=".55"/>
-      <circle cx="23" cy="21" r="4" fill="#ff6b7d"/><circle cx="38" cy="21" r="4" fill="#ffd56a"/><circle cx="53" cy="21" r="4" fill="#65e6a6"/>
-      <path d="m24 44 12 9-12 9M45 62h36" fill="none" stroke="#8cf4ff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
-      <text x="111" y="53" text-anchor="middle" fill="#dffaff" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1">BUILD</text>
-    </g>
+  <g transform="translate(74 374)">
+    <rect width="176" height="48" rx="24" fill="url(#panel)" stroke="#ffffff" stroke-opacity="0.12"/>
+    <circle cx="25" cy="24" r="5" fill="#65e6f5"/>
+    <text x="43" y="30" fill="#edf3fa" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="750" letter-spacing="1.2">BUILD</text>
 
-    <g transform="translate(315 99)">
-      <rect x="18" y="9" width="116" height="86" rx="12" fill="#15132a" stroke="#a47aff" stroke-opacity=".6"/>
-      <rect x="31" y="23" width="90" height="16" rx="5" fill="#241f42"/><circle cx="108" cy="31" r="4" fill="#b999ff"/>
-      <rect x="31" y="45" width="90" height="16" rx="5" fill="#241f42"/><circle cx="108" cy="53" r="4" fill="#72e5ff"/>
-      <rect x="31" y="67" width="90" height="16" rx="5" fill="#241f42"/><circle cx="108" cy="75" r="4" fill="#68eda9"/>
-      <text x="76" y="116" text-anchor="middle" fill="#dcd2ff" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1">HOST</text>
-    </g>
+    <rect x="192" width="188" height="48" rx="24" fill="url(#panel)" stroke="#ffffff" stroke-opacity="0.12"/>
+    <circle cx="217" cy="24" r="5" fill="#7970f6"/>
+    <text x="235" y="30" fill="#edf3fa" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="750" letter-spacing="1.2">OPERATE</text>
 
-    <g transform="translate(56 241)">
-      <path d="M28 23c17-16 75-16 92 0 11 10 20 39 13 55-5 12-17 9-27-2l-13-14H55L42 76c-10 11-22 14-27 2-7-16 2-45 13-55Z" fill="#102923" stroke="#64e7aa" stroke-width="3"/>
-      <path d="M48 39v24M36 51h24" stroke="#b9ffda" stroke-width="5" stroke-linecap="round"/>
-      <circle cx="99" cy="45" r="5" fill="#b9ffda"/><circle cx="113" cy="59" r="5" fill="#b9ffda"/>
-      <text x="74" y="107" text-anchor="middle" fill="#cffff0" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1">PLAY</text>
-    </g>
-
-    <g transform="translate(325 238)">
-      <circle cx="72" cy="52" r="38" fill="#241d10" stroke="#e7ba55" stroke-width="3"/>
-      <circle cx="72" cy="52" r="10" fill="#ffe39a" filter="url(#glow)"/>
-      <circle cx="23" cy="30" r="8" fill="#49d7f0"/><circle cx="121" cy="28" r="8" fill="#a77dff"/><circle cx="116" cy="89" r="8" fill="#67e7aa"/><circle cx="28" cy="91" r="8" fill="#ffcf65"/>
-      <path d="M30 32 64 48M114 31 80 48M109 85 79 58M35 87 65 58" stroke="#d8c57f" stroke-opacity=".72" stroke-width="3"/>
-      <text x="72" y="123" text-anchor="middle" fill="#fff0c4" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="1">CONNECT</text>
-    </g>
-
-    <g transform="translate(33 25)">
-      <circle cx="8" cy="8" r="6" fill="#61e5a5" filter="url(#glow)"/>
-      <text x="25" y="13" fill="#7df0b8" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="800" letter-spacing="1.8">SYSTEMS ONLINE</text>
-    </g>
+    <rect x="396" width="186" height="48" rx="24" fill="url(#panel)" stroke="#ffffff" stroke-opacity="0.12"/>
+    <circle cx="421" cy="24" r="5" fill="#d06bf0"/>
+    <text x="439" y="30" fill="#edf3fa" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="750" letter-spacing="1.2">IMPROVE</text>
   </g>
 
-  <rect x="1" y="1" width="1598" height="518" rx="29" fill="none" stroke="#8deaff" stroke-opacity=".15" stroke-width="2"/>
+  <g transform="translate(970 72)">
+    <rect width="550" height="374" rx="27" fill="url(#panel)" stroke="#ffffff" stroke-opacity="0.10"/>
+    <text x="34" y="48" fill="#8f9db2" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2.5">ACTIVE PORTFOLIO</text>
+
+    <g transform="translate(34 76)">
+      <rect width="482" height="58" rx="14" fill="#071522" stroke="#65e6f5" stroke-opacity="0.32"/>
+      <circle cx="29" cy="29" r="7" fill="#65e6f5"/>
+      <text x="50" y="25" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="750">MISSIONCHIEF MAP COMMAND TOOLKIT</text>
+      <text x="50" y="44" fill="#8797aa" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">OPERATIONAL BROWSER PLATFORM</text>
+    </g>
+
+    <g transform="translate(34 148)">
+      <rect width="482" height="58" rx="14" fill="#111126" stroke="#7970f6" stroke-opacity="0.34"/>
+      <circle cx="29" cy="29" r="7" fill="#7970f6"/>
+      <text x="50" y="25" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="750">GITHUB ACHIEVEMENT ENCYCLOPEDIA</text>
+      <text x="50" y="44" fill="#8797aa" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">EVIDENCE-LED RESEARCH PLATFORM</text>
+    </g>
+
+    <g transform="translate(34 220)">
+      <rect width="482" height="58" rx="14" fill="#151020" stroke="#d06bf0" stroke-opacity="0.32"/>
+      <circle cx="29" cy="29" r="7" fill="#d06bf0"/>
+      <text x="50" y="25" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="750">UK FIRE COMMAND</text>
+      <text x="50" y="44" fill="#8797aa" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">PERSISTENT EMERGENCY-SERVICE GAME</text>
+    </g>
+
+    <g transform="translate(34 292)">
+      <rect width="482" height="58" rx="14" fill="#101723" stroke="#ffffff" stroke-opacity="0.14"/>
+      <circle cx="29" cy="29" r="7" fill="#b7c2d1"/>
+      <text x="50" y="25" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="750">TEAM KILLING BASTARDS</text>
+      <text x="50" y="44" fill="#8797aa" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">COMMUNITY SOFTWARE &amp; INFRASTRUCTURE</text>
+    </g>
+  </g>
 </svg>
