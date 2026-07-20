@@ -390,7 +390,7 @@ Improve the system without sacrificing stability
 <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Conroy1988&theme=tokyonight" alt="Conroy1988 public commits by language">
 
 <img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Conroy1988&theme=tokyonight" alt="Conroy1988 public GitHub statistics">
-<img width="47%" src="https://streak-stats.demolab.com?user=Conroy1988&theme=tokyonight&hide_border=true" alt="Conroy1988 GitHub contribution streak">
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Conroy1988&theme=tokyonight&utcOffset=1" alt="Conroy1988 productive contribution time">
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Conroy1988&bg_color=00000000&color=9ca3af&line=7b6cf6&point=45e0ef&area=true&hide_border=true" alt="Conroy1988 contribution activity graph">
 
