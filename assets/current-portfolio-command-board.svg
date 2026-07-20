@@ -1,0 +1,136 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="980" viewBox="0 0 1600 980" role="img" aria-labelledby="title desc">
+  <title id="title">Conroy1988 current technical portfolio command board</title>
+  <desc id="desc">A visual overview of Conroy1988 public products, private systems, Team Killing Bastards leadership and open-source contribution work.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050811"/>
+      <stop offset="0.52" stop-color="#0b1423"/>
+      <stop offset="1" stop-color="#171026"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#45e0ef"/>
+      <stop offset="0.5" stop-color="#7b6cf6"/>
+      <stop offset="1" stop-color="#d866ef"/>
+    </linearGradient>
+    <linearGradient id="public" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#45e0ef" stop-opacity="0.17"/>
+      <stop offset="1" stop-color="#45e0ef" stop-opacity="0.04"/>
+    </linearGradient>
+    <linearGradient id="private" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#7b6cf6" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#7b6cf6" stop-opacity="0.04"/>
+    </linearGradient>
+    <linearGradient id="tkb" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#d866ef" stop-opacity="0.18"/>
+      <stop offset="1" stop-color="#d866ef" stop-opacity="0.04"/>
+    </linearGradient>
+    <linearGradient id="open" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#22d3a6" stop-opacity="0.17"/>
+      <stop offset="1" stop-color="#22d3a6" stop-opacity="0.04"/>
+    </linearGradient>
+    <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.09"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0.025"/>
+    </linearGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" fill="none" stroke="#d8f5ff" stroke-opacity="0.032"/>
+    </pattern>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="16" stdDeviation="22" flood-color="#000000" flood-opacity="0.34"/>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="980" rx="34" fill="url(#bg)"/>
+  <rect width="1600" height="980" rx="34" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1598" height="978" rx="33" fill="none" stroke="#ffffff" stroke-opacity="0.11"/>
+
+  <text x="74" y="76" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="36" font-weight="860">CONROY SYSTEMS PORTFOLIO</text>
+  <text x="74" y="112" fill="#92a2b6" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">Public products · Private platforms · Community operations · Evidence-led open source</text>
+  <rect x="74" y="136" width="1452" height="5" rx="2.5" fill="url(#accent)"/>
+
+  <g filter="url(#shadow)">
+    <rect x="70" y="176" width="710" height="330" rx="30" fill="url(#public)" stroke="#45e0ef" stroke-opacity="0.35"/>
+    <rect x="820" y="176" width="710" height="330" rx="30" fill="url(#private)" stroke="#7b6cf6" stroke-opacity="0.35"/>
+    <rect x="70" y="540" width="710" height="330" rx="30" fill="url(#tkb)" stroke="#d866ef" stroke-opacity="0.35"/>
+    <rect x="820" y="540" width="710" height="330" rx="30" fill="url(#open)" stroke="#22d3a6" stroke-opacity="0.35"/>
+  </g>
+
+  <!-- Public products -->
+  <rect x="102" y="208" width="76" height="76" rx="20" fill="#071621" stroke="#45e0ef" stroke-opacity="0.42"/>
+  <text x="140" y="259" text-anchor="middle" fill="#8ff4ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="37" font-weight="900">P</text>
+  <text x="202" y="229" fill="#8ff4ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="850" letter-spacing="2.5">PUBLIC PRODUCTS</text>
+  <text x="202" y="263" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="850">Published systems with live users</text>
+  <text x="202" y="288" fill="#9eacbe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14">Versioned releases, documentation and operational ownership</text>
+
+  <rect x="102" y="320" width="646" height="76" rx="18" fill="#071720" stroke="#45e0ef" stroke-opacity="0.28"/>
+  <circle cx="132" cy="347" r="6" fill="#45e0ef"/>
+  <text x="151" y="352" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="830" textLength="390" lengthAdjust="spacingAndGlyphs">MISSIONCHIEF MAP COMMAND TOOLKIT</text>
+  <text x="128" y="378" fill="#91a1b4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">FLAGSHIP USERSCRIPT · LIVE OPERATIONS PLATFORM</text>
+  <text x="656" y="352" text-anchor="end" fill="#8ff4ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="850">RELEASED</text>
+
+  <rect x="102" y="410" width="646" height="76" rx="18" fill="#101226" stroke="#7b6cf6" stroke-opacity="0.30"/>
+  <circle cx="132" cy="437" r="6" fill="#7b6cf6"/>
+  <text x="151" y="442" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="830" textLength="360" lengthAdjust="spacingAndGlyphs">GITHUB ACHIEVEMENT ENCYCLOPEDIA</text>
+  <text x="128" y="468" fill="#91a1b4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">PUBLIC RESEARCH · DATASETS · STATIC API · GITHUB PAGES</text>
+  <text x="656" y="442" text-anchor="end" fill="#bbb4ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="850">LIVE</text>
+
+  <!-- Private platforms -->
+  <rect x="852" y="208" width="76" height="76" rx="20" fill="#101226" stroke="#7b6cf6" stroke-opacity="0.42"/>
+  <text x="890" y="259" text-anchor="middle" fill="#bbb4ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="37" font-weight="900">R</text>
+  <text x="952" y="229" fill="#bbb4ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="850" letter-spacing="2.5">PRIVATE R&amp;D</text>
+  <text x="952" y="263" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="850">Controlled systems under active build</text>
+  <text x="952" y="288" fill="#9eacbe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14">Authenticated deployment, persistent state and staged capability</text>
+
+  <rect x="852" y="320" width="646" height="76" rx="18" fill="#0c1820" stroke="#22d3a6" stroke-opacity="0.30"/>
+  <circle cx="882" cy="347" r="6" fill="#22d3a6"/>
+  <text x="901" y="352" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="830">INVESTOR MATRIX</text>
+  <text x="878" y="378" fill="#91a1b4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">AUTHENTICATED DOCKER FOUNDATION · MARKET INTELLIGENCE ROADMAP</text>
+  <text x="1406" y="352" text-anchor="end" fill="#79f0d0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="850">PHASE 0</text>
+
+  <rect x="852" y="410" width="646" height="76" rx="18" fill="#121229" stroke="#7b6cf6" stroke-opacity="0.30"/>
+  <circle cx="882" cy="437" r="6" fill="#7b6cf6"/>
+  <text x="901" y="442" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="830">UK FIRE COMMAND</text>
+  <text x="878" y="468" fill="#91a1b4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">PERSISTENT REGIONAL FIRE &amp; RESCUE MANAGEMENT GAME</text>
+  <text x="1406" y="442" text-anchor="end" fill="#bbb4ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="850">ACTIVE</text>
+
+  <!-- TKB -->
+  <rect x="102" y="572" width="76" height="76" rx="20" fill="#17101f" stroke="#d866ef" stroke-opacity="0.42"/>
+  <text x="140" y="623" text-anchor="middle" fill="#f3b0fb" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="37" font-weight="900">T</text>
+  <text x="202" y="593" fill="#f3b0fb" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="850" letter-spacing="2.5">TEAM KILLING BASTARDS</text>
+  <text x="202" y="627" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="850">Founder, owner and operational authority</text>
+  <text x="202" y="652" fill="#9eacbe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14">Community direction, private infrastructure and organisation governance</text>
+
+  <rect x="102" y="684" width="646" height="76" rx="18" fill="#17101f" stroke="#d866ef" stroke-opacity="0.30"/>
+  <circle cx="132" cy="711" r="6" fill="#d866ef"/>
+  <text x="151" y="716" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="830">TKB DISCORD BOT</text>
+  <text x="128" y="742" fill="#91a1b4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">CONTROL CENTRE 2.0 · HTTPS GATEWAY · COMMUNITY OPERATIONS</text>
+  <text x="656" y="716" text-anchor="end" fill="#f3b0fb" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="850">SOLE OWNER</text>
+
+  <rect x="102" y="774" width="646" height="76" rx="18" fill="#0e1522" stroke="#ffffff" stroke-opacity="0.17"/>
+  <circle cx="132" cy="801" r="6" fill="#ffffff" opacity="0.82"/>
+  <text x="151" y="806" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="830">ORGANISATION GOVERNANCE</text>
+  <text x="128" y="832" fill="#91a1b4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">FOUR TKB SYSTEMS · PUBLIC PROFILE · STANDARDS · SUPPORT</text>
+  <text x="656" y="806" text-anchor="end" fill="#dce5ee" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="850">FOUNDER</text>
+
+  <!-- Open source -->
+  <rect x="852" y="572" width="76" height="76" rx="20" fill="#0d1b1d" stroke="#22d3a6" stroke-opacity="0.42"/>
+  <text x="890" y="623" text-anchor="middle" fill="#79f0d0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="37" font-weight="900">O</text>
+  <text x="952" y="593" fill="#79f0d0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="850" letter-spacing="2.5">OPEN SOURCE &amp; INFRASTRUCTURE</text>
+  <text x="952" y="627" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="850">Upstream work and real deployments</text>
+  <text x="952" y="652" fill="#9eacbe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14">Scoped contributions, self-hosting, Docker and recovery practice</text>
+
+  <rect x="852" y="684" width="646" height="76" rx="18" fill="#0d1b1d" stroke="#22d3a6" stroke-opacity="0.30"/>
+  <circle cx="882" cy="711" r="6" fill="#22d3a6"/>
+  <text x="901" y="716" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="830">LSSM V.4 UPSTREAM CONTRIBUTION</text>
+  <text x="878" y="742" fill="#91a1b4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">FEATURE DEVELOPMENT · LOCALISATION · MAINTAINER REVIEW</text>
+  <text x="1406" y="716" text-anchor="end" fill="#79f0d0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="850">PR #3982</text>
+
+  <rect x="852" y="774" width="646" height="76" rx="18" fill="#0e1522" stroke="#ffffff" stroke-opacity="0.17"/>
+  <circle cx="882" cy="801" r="6" fill="#45e0ef"/>
+  <text x="901" y="806" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="830">CONROYMEDIA &amp; SELF-HOSTING</text>
+  <text x="878" y="832" fill="#91a1b4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">DOCKER · CADDY · DDNS · MEDIA SERVICES · BACKUP &amp; RECOVERY</text>
+  <text x="1406" y="806" text-anchor="end" fill="#8ff4ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="850">LIVE LAB</text>
+
+  <rect x="178" y="910" width="1244" height="42" rx="21" fill="url(#glass)" stroke="#ffffff" stroke-opacity="0.10"/>
+  <text x="800" y="936" text-anchor="middle" fill="#d8e1eb" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="800" letter-spacing="1.25">BUILD USEFUL SYSTEMS · MAKE AUTHORITY VISIBLE · VALIDATE THE LIVE RESULT · OPERATE FOR THE LONG TERM</text>
+</svg>
