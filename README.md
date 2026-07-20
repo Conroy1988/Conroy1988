@@ -17,7 +17,7 @@
 
 **Operational browser platforms · Automation · Research systems · Persistent game architecture · Community infrastructure · Self-hosting**
 
-[**Flagship systems**](#flagship-systems) · [**Team Killing Bastards**](#team-killing-bastards) · [**Open-source work**](#open-source-and-collaboration) · [**Technical stack**](#technical-stack) · [**GitHub activity**](#github-activity)
+[**Flagship systems**](#flagship-systems) · [**Team Killing Bastards**](#team-killing-bastards) · [**Open-source work**](#open-source-and-collaboration) · [**Live operations**](#live-operations-board) · [**GitHub activity**](#github-activity)
 
 </div>
 
@@ -85,7 +85,7 @@ Maintain the finished system as a live product rather than a disposable prototyp
 
 ### A complete operational command layer for MissionChief
 
-The **MissionChief Map Command Toolkit** transforms the standard MissionChief map into a configurable operations console. It combines mission intelligence, specialist fleet identity, geographic coverage, financial reporting, navigation, device-specific layouts and seven complete interface systems inside one maintained userscript.
+The **MissionChief Map Command Toolkit** transforms the standard MissionChief map into a configurable operations console. It combines mission intelligence, specialist fleet identity, geographic coverage, financial reporting, navigation, device-specific layouts and complete interface systems inside one maintained userscript.
 
 **Core capability**
 
@@ -337,6 +337,21 @@ This infrastructure is treated as a live operational environment rather than a d
 
 ---
 
+# Live Operations Board
+
+The following signals are pulled directly from GitHub and update automatically.
+
+| System | Release / state | Repository activity | Work queue |
+|---|---|---|---|
+| **Map Command Toolkit** | [![Release](https://img.shields.io/github/v/release/Conroy1988/missionchief-toolkit-assets?label=release&color=7b6cf6)](https://github.com/Conroy1988/missionchief-toolkit-assets/releases/latest) | [![Last commit](https://img.shields.io/github/last-commit/Conroy1988/missionchief-toolkit-assets?label=last%20commit&color=45e0ef)](https://github.com/Conroy1988/missionchief-toolkit-assets/commits/main) | [![Issues](https://img.shields.io/github/issues/Conroy1988/missionchief-toolkit-assets?label=open%20issues&color=d866ef)](https://github.com/Conroy1988/missionchief-toolkit-assets/issues) |
+| **Achievement Encyclopedia** | [![Release](https://img.shields.io/github/v/release/Conroy1988/Achievements?label=release&color=7b6cf6)](https://github.com/Conroy1988/Achievements/releases/latest) | [![Last commit](https://img.shields.io/github/last-commit/Conroy1988/Achievements?label=last%20commit&color=45e0ef)](https://github.com/Conroy1988/Achievements/commits/main) | [![Issues](https://img.shields.io/github/issues/Conroy1988/Achievements?label=open%20issues&color=d866ef)](https://github.com/Conroy1988/Achievements/issues) |
+| **MissionChief Command Nexus** | [![Release](https://img.shields.io/github/v/release/Team-Killing-Bastards/MissionChief-Command-Nexus?label=release&color=7b6cf6)](https://github.com/Team-Killing-Bastards/MissionChief-Command-Nexus/releases/latest) | [![Last commit](https://img.shields.io/github/last-commit/Team-Killing-Bastards/MissionChief-Command-Nexus?label=last%20commit&color=45e0ef)](https://github.com/Team-Killing-Bastards/MissionChief-Command-Nexus/commits/main) | [![Issues](https://img.shields.io/github/issues/Team-Killing-Bastards/MissionChief-Command-Nexus?label=open%20issues&color=d866ef)](https://github.com/Team-Killing-Bastards/MissionChief-Command-Nexus/issues) |
+| **Personal profile** | [![State](https://img.shields.io/badge/state-live-7b6cf6)](https://github.com/Conroy1988) | [![Last commit](https://img.shields.io/github/last-commit/Conroy1988/Conroy1988?label=last%20commit&color=45e0ef)](https://github.com/Conroy1988/Conroy1988/commits/main) | [![Followers](https://img.shields.io/github/followers/Conroy1988?label=followers&color=d866ef)](https://github.com/Conroy1988?tab=followers) |
+| **TKB Discord platform** | ![Private](https://img.shields.io/badge/repository-private-7b6cf6) | ![Active](https://img.shields.io/badge/development-active-45e0ef) | ![Controlled](https://img.shields.io/badge/operations-controlled-d866ef) |
+| **UK Fire Command** | ![Private](https://img.shields.io/badge/repository-private-7b6cf6) | ![Active](https://img.shields.io/badge/development-active-45e0ef) | ![R&D](https://img.shields.io/badge/state-R%26D-d866ef) |
+
+---
+
 # How I Build
 
 | Principle | What it means in practice |
@@ -369,12 +384,17 @@ Improve the system without sacrificing stability
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Conroy1988&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=true&bg_color=00000000&title_color=7b6cf6&text_color=9ca3af&icon_color=45e0ef" alt="Conroy1988 GitHub statistics">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Conroy1988&layout=compact&hide_border=true&bg_color=00000000&title_color=7b6cf6&text_color=9ca3af&exclude_repo=LSSM-V.4,RED4ext" alt="Conroy1988 most-used public repository languages">
+<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Conroy1988&theme=tokyonight" alt="Conroy1988 public GitHub profile activity summary">
+
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Conroy1988&theme=tokyonight" alt="Conroy1988 public repositories by language">
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Conroy1988&theme=tokyonight" alt="Conroy1988 public commits by language">
+
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Conroy1988&theme=tokyonight" alt="Conroy1988 public GitHub statistics">
+<img width="47%" src="https://streak-stats.demolab.com?user=Conroy1988&theme=tokyonight&hide_border=true" alt="Conroy1988 GitHub contribution streak">
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Conroy1988&bg_color=00000000&color=9ca3af&line=7b6cf6&point=45e0ef&area=true&hide_border=true" alt="Conroy1988 contribution activity graph">
 
-<sub>Live cards are generated by third-party GitHub profile services and may occasionally be unavailable even when the underlying GitHub activity is present.</sub>
+<sub>These panels represent public GitHub activity. Private repositories and some organisation work are not fully visible through public profile APIs.</sub>
 
 </div>
 
