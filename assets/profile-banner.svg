@@ -1,93 +1,104 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="520" viewBox="0 0 1600 520" role="img" aria-labelledby="title desc">
-  <title id="title">Conroy — systems builder and project operator</title>
-  <desc id="desc">A dark technical banner representing operational software, automation, research platforms, game systems and community infrastructure.</desc>
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="600" viewBox="0 0 1600 600" role="img" aria-labelledby="title desc">
+  <title id="title">Conroy — operational systems builder and Team Killing Bastards founder</title>
+  <desc id="desc">A dark technical profile banner representing Conroy's personal software portfolio, Team Killing Bastards systems, open-source contributions and operations-led development.</desc>
   <defs>
-    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#070b14"/>
-      <stop offset="0.48" stop-color="#0d1727"/>
-      <stop offset="1" stop-color="#171126"/>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#050811"/>
+      <stop offset="0.52" stop-color="#0b1423"/>
+      <stop offset="1" stop-color="#171026"/>
     </linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#65e6f5"/>
-      <stop offset="0.48" stop-color="#7970f6"/>
-      <stop offset="1" stop-color="#d06bf0"/>
+      <stop offset="0" stop-color="#45e0ef"/>
+      <stop offset="0.5" stop-color="#7b6cf6"/>
+      <stop offset="1" stop-color="#d866ef"/>
     </linearGradient>
-    <linearGradient id="panel" x1="0" y1="0" x2="0" y2="1">
+    <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1">
       <stop offset="0" stop-color="#ffffff" stop-opacity="0.09"/>
       <stop offset="1" stop-color="#ffffff" stop-opacity="0.025"/>
     </linearGradient>
-    <pattern id="grid" width="48" height="48" patternUnits="userSpaceOnUse">
-      <path d="M48 0H0V48" fill="none" stroke="#b5eaff" stroke-opacity="0.035"/>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M44 0H0V44" fill="none" stroke="#d8f5ff" stroke-opacity="0.035"/>
     </pattern>
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="18"/>
+    <filter id="glow" x="-80%" y="-80%" width="260%" height="260%">
+      <feGaussianBlur stdDeviation="26"/>
     </filter>
   </defs>
 
-  <rect width="1600" height="520" rx="30" fill="url(#background)"/>
-  <rect width="1600" height="520" rx="30" fill="url(#grid)"/>
-  <rect x="1" y="1" width="1598" height="518" rx="29" fill="none" stroke="#ffffff" stroke-opacity="0.10"/>
+  <rect width="1600" height="600" rx="34" fill="url(#bg)"/>
+  <rect width="1600" height="600" rx="34" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1598" height="598" rx="33" fill="none" stroke="#ffffff" stroke-opacity="0.12"/>
 
-  <circle cx="1270" cy="72" r="170" fill="#665bf0" opacity="0.12" filter="url(#glow)"/>
-  <circle cx="1470" cy="430" r="190" fill="#d06bf0" opacity="0.09" filter="url(#glow)"/>
-  <circle cx="130" cy="500" r="130" fill="#65e6f5" opacity="0.07" filter="url(#glow)"/>
+  <circle cx="1330" cy="55" r="220" fill="#7868f6" opacity="0.13" filter="url(#glow)"/>
+  <circle cx="1510" cy="530" r="210" fill="#d866ef" opacity="0.10" filter="url(#glow)"/>
+  <circle cx="80" cy="580" r="170" fill="#45e0ef" opacity="0.08" filter="url(#glow)"/>
 
-  <g transform="translate(74 70)">
-    <rect width="76" height="76" rx="19" fill="url(#panel)" stroke="#ffffff" stroke-opacity="0.13"/>
-    <path d="M20 24h36v8H43v25H33V32H20z" fill="url(#accent)"/>
-    <path d="M20 49h36v8H20z" fill="#ffffff" opacity="0.92"/>
+  <g transform="translate(72 66)">
+    <rect width="74" height="74" rx="20" fill="url(#glass)" stroke="#ffffff" stroke-opacity="0.15"/>
+    <path d="M18 21h38v9H43v27H32V30H18z" fill="url(#accent)"/>
+    <path d="M18 48h38v9H18z" fill="#ffffff" opacity="0.94"/>
   </g>
 
-  <text x="176" y="97" fill="#93a2b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="700" letter-spacing="3.8">SYSTEMS BUILDER · EDINBURGH, SCOTLAND</text>
-  <text x="72" y="207" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="86" font-weight="850" letter-spacing="-3">CONROY</text>
-  <rect x="74" y="232" width="700" height="5" rx="2.5" fill="url(#accent)"/>
-  <text x="74" y="284" fill="#d2d9e4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="600">Turning operational friction into dependable digital systems.</text>
-  <text x="74" y="324" fill="#9caabd" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="19">Browser tooling · Automation · Research platforms · Game systems · Self-hosting</text>
+  <text x="170" y="91" fill="#97a6ba" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="15" font-weight="750" letter-spacing="3.6">OPERATIONS-LED SOFTWARE · EDINBURGH, SCOTLAND</text>
+  <text x="70" y="216" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="92" font-weight="850" letter-spacing="-4">CONROY</text>
+  <rect x="72" y="242" width="706" height="5" rx="2.5" fill="url(#accent)"/>
+  <text x="72" y="296" fill="#d7dee8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="650">I turn operational friction into dependable digital systems.</text>
+  <text x="72" y="338" fill="#96a4b7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18">Browser platforms · Automation · Research · Game systems · Community infrastructure</text>
 
-  <g transform="translate(74 374)">
-    <rect width="176" height="48" rx="24" fill="url(#panel)" stroke="#ffffff" stroke-opacity="0.12"/>
-    <circle cx="25" cy="24" r="5" fill="#65e6f5"/>
-    <text x="43" y="30" fill="#edf3fa" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="750" letter-spacing="1.2">BUILD</text>
+  <g transform="translate(72 390)">
+    <rect width="190" height="54" rx="27" fill="url(#glass)" stroke="#45e0ef" stroke-opacity="0.30"/>
+    <circle cx="28" cy="27" r="6" fill="#45e0ef"/>
+    <text x="48" y="33" fill="#f2f6fb" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="780" letter-spacing="1.3">BUILD</text>
 
-    <rect x="192" width="188" height="48" rx="24" fill="url(#panel)" stroke="#ffffff" stroke-opacity="0.12"/>
-    <circle cx="217" cy="24" r="5" fill="#7970f6"/>
-    <text x="235" y="30" fill="#edf3fa" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="750" letter-spacing="1.2">OPERATE</text>
+    <rect x="206" width="198" height="54" rx="27" fill="url(#glass)" stroke="#7b6cf6" stroke-opacity="0.32"/>
+    <circle cx="234" cy="27" r="6" fill="#7b6cf6"/>
+    <text x="254" y="33" fill="#f2f6fb" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="780" letter-spacing="1.3">OPERATE</text>
 
-    <rect x="396" width="186" height="48" rx="24" fill="url(#panel)" stroke="#ffffff" stroke-opacity="0.12"/>
-    <circle cx="421" cy="24" r="5" fill="#d06bf0"/>
-    <text x="439" y="30" fill="#edf3fa" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="750" letter-spacing="1.2">IMPROVE</text>
+    <rect x="420" width="204" height="54" rx="27" fill="url(#glass)" stroke="#d866ef" stroke-opacity="0.32"/>
+    <circle cx="448" cy="27" r="6" fill="#d866ef"/>
+    <text x="468" y="33" fill="#f2f6fb" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="780" letter-spacing="1.3">IMPROVE</text>
   </g>
 
-  <g transform="translate(970 72)">
-    <rect width="550" height="374" rx="27" fill="url(#panel)" stroke="#ffffff" stroke-opacity="0.10"/>
-    <text x="34" y="48" fill="#8f9db2" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" letter-spacing="2.5">ACTIVE PORTFOLIO</text>
+  <g transform="translate(72 486)">
+    <text x="0" y="0" fill="#77879c" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="700" letter-spacing="2.2">FOUNDER · ORIGINAL OWNER · COMMUNITY LEADER</text>
+    <text x="0" y="29" fill="#f1f4f8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="760">TEAM KILLING BASTARDS</text>
+    <text x="0" y="55" fill="#8998aa" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14">Community direction · Discord platform · Repository governance · Technical infrastructure</text>
+  </g>
 
-    <g transform="translate(34 76)">
-      <rect width="482" height="58" rx="14" fill="#071522" stroke="#65e6f5" stroke-opacity="0.32"/>
-      <circle cx="29" cy="29" r="7" fill="#65e6f5"/>
-      <text x="50" y="25" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="750">MISSIONCHIEF MAP COMMAND TOOLKIT</text>
-      <text x="50" y="44" fill="#8797aa" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">OPERATIONAL BROWSER PLATFORM</text>
+  <g transform="translate(930 54)">
+    <rect width="600" height="492" rx="28" fill="url(#glass)" stroke="#ffffff" stroke-opacity="0.11"/>
+    <text x="32" y="43" fill="#8e9caf" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="750" letter-spacing="2.5">SYSTEM PORTFOLIO</text>
+
+    <g transform="translate(32 68)">
+      <rect width="536" height="78" rx="16" fill="#071621" stroke="#45e0ef" stroke-opacity="0.36"/>
+      <circle cx="31" cy="39" r="8" fill="#45e0ef"/>
+      <text x="55" y="34" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="780">MISSIONCHIEF MAP COMMAND TOOLKIT</text>
+      <text x="55" y="56" fill="#8394a7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">FLAGSHIP PUBLIC OPERATIONAL PLATFORM</text>
     </g>
 
-    <g transform="translate(34 148)">
-      <rect width="482" height="58" rx="14" fill="#111126" stroke="#7970f6" stroke-opacity="0.34"/>
-      <circle cx="29" cy="29" r="7" fill="#7970f6"/>
-      <text x="50" y="25" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="750">GITHUB ACHIEVEMENT ENCYCLOPEDIA</text>
-      <text x="50" y="44" fill="#8797aa" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">EVIDENCE-LED RESEARCH PLATFORM</text>
+    <g transform="translate(32 160)">
+      <rect width="536" height="78" rx="16" fill="#101226" stroke="#7b6cf6" stroke-opacity="0.38"/>
+      <circle cx="31" cy="39" r="8" fill="#7b6cf6"/>
+      <text x="55" y="34" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="780">GITHUB ACHIEVEMENT ENCYCLOPEDIA</text>
+      <text x="55" y="56" fill="#8394a7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">EVIDENCE-LED RESEARCH &amp; PUBLIC DATA</text>
     </g>
 
-    <g transform="translate(34 220)">
-      <rect width="482" height="58" rx="14" fill="#151020" stroke="#d06bf0" stroke-opacity="0.32"/>
-      <circle cx="29" cy="29" r="7" fill="#d06bf0"/>
-      <text x="50" y="25" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="750">UK FIRE COMMAND</text>
-      <text x="50" y="44" fill="#8797aa" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">PERSISTENT EMERGENCY-SERVICE GAME</text>
+    <g transform="translate(32 252)">
+      <rect width="536" height="78" rx="16" fill="#16101f" stroke="#d866ef" stroke-opacity="0.36"/>
+      <circle cx="31" cy="39" r="8" fill="#d866ef"/>
+      <text x="55" y="34" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="780">TEAM KILLING BASTARDS SYSTEMS</text>
+      <text x="55" y="56" fill="#8394a7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">DISCORD PLATFORM · COMMAND NEXUS · GOVERNANCE</text>
     </g>
 
-    <g transform="translate(34 292)">
-      <rect width="482" height="58" rx="14" fill="#101723" stroke="#ffffff" stroke-opacity="0.14"/>
-      <circle cx="29" cy="29" r="7" fill="#b7c2d1"/>
-      <text x="50" y="25" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="750">TEAM KILLING BASTARDS</text>
-      <text x="50" y="44" fill="#8797aa" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">COMMUNITY SOFTWARE &amp; INFRASTRUCTURE</text>
+    <g transform="translate(32 344)">
+      <rect width="536" height="78" rx="16" fill="#101722" stroke="#ffffff" stroke-opacity="0.16"/>
+      <circle cx="31" cy="39" r="8" fill="#dce5ef"/>
+      <text x="55" y="34" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="780">UK FIRE COMMAND &amp; OPEN SOURCE</text>
+      <text x="55" y="56" fill="#8394a7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">PRIVATE R&amp;D · LSSM CONTRIBUTIONS · SELF-HOSTING</text>
+    </g>
+
+    <g transform="translate(32 448)">
+      <rect width="536" height="2" rx="1" fill="url(#accent)" opacity="0.75"/>
+      <text x="0" y="30" fill="#9eacbd" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="650" letter-spacing="1.2">BUILD USEFUL SYSTEMS · OPERATE THEM SERIOUSLY · IMPROVE WITH EVIDENCE</text>
     </g>
   </g>
 </svg>
