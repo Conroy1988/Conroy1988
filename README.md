@@ -606,17 +606,17 @@ Improve the system without sacrificing stability
 
 <div align="center">
 
-<img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Conroy1988&theme=tokyonight" alt="Conroy1988 public GitHub profile activity summary">
+<img width="95%" src="./assets/profile-cards/overview.svg" alt="Conroy1988 repository-owned profile operations snapshot">
 
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Conroy1988&theme=tokyonight" alt="Conroy1988 public repositories by language">
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Conroy1988&theme=tokyonight" alt="Conroy1988 public commits by language">
+<img width="47%" src="./assets/profile-cards/languages-repos.svg" alt="Languages across Conroy1988 public first-party repositories">
+<img width="47%" src="./assets/profile-cards/languages-volume.svg" alt="Language code volume across Conroy1988 public first-party repositories">
 
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Conroy1988&theme=tokyonight" alt="Conroy1988 public GitHub statistics">
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Conroy1988&theme=tokyonight&utcOffset=1" alt="Conroy1988 productive contribution time">
+<img width="47%" src="./assets/profile-cards/public-activity.svg" alt="Conroy1988 recent public GitHub activity">
+<img width="47%" src="./assets/profile-cards/activity-rhythm.svg" alt="Conroy1988 public GitHub activity rhythm">
 
 <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Conroy1988&bg_color=00000000&color=9ca3af&line=7b6cf6&point=45e0ef&area=true&hide_border=true" alt="Conroy1988 contribution activity graph">
 
-<sub>These panels represent public GitHub activity. Private repositories, private runner work, and some organisation contributions are not fully visible through public profile APIs.</sub>
+<sub>These repository-owned cards are regenerated daily from GitHub's API. Private repositories, private runner work, and some organisation contributions remain intentionally outside public profile statistics.</sub>
 
 </div>
 

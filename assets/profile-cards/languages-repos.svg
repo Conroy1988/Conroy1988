@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="430" height="270" viewBox="0 0 430 270" role="img" aria-labelledby="card-title card-desc">
+  <title id="card-title">Languages by Repository</title>
+  <desc id="card-desc">Primary language across public first-party source repositories</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0d1117"/>
+      <stop offset="0.55" stop-color="#151827"/>
+      <stop offset="1" stop-color="#101522"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#45e0ef"/>
+      <stop offset="0.5" stop-color="#7b6cf6"/>
+      <stop offset="1" stop-color="#d866ef"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="428" height="268" rx="18" fill="url(#background)" stroke="#30363d" stroke-width="2"/>
+  <rect x="1" y="1" width="428" height="5" rx="3" fill="url(#accent)"/>
+  <circle cx="29" cy="36" r="7" fill="#45e0ef"/>
+  <text x="48" y="43" fill="#70a5fd" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">Languages by Repository</text>
+  <text x="28" y="67" fill="#a9b1d6" font-family="Segoe UI, Arial, sans-serif" font-size="12">Primary language across public first-party source repositories</text>
+  <text x="28" y="105" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="12">JavaScript</text>
+  <rect x="126" y="94" width="260" height="13" rx="6" fill="#21262d"/>
+  <rect x="126" y="94" width="250" height="13" rx="6" fill="#f7df1e"/>
+  <text x="400" y="105" text-anchor="end" fill="#f7df1e" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">2</text>
+  <text x="28" y="136" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="12">Python</text>
+  <rect x="126" y="125" width="260" height="13" rx="6" fill="#21262d"/>
+  <rect x="126" y="125" width="125" height="13" rx="6" fill="#3776ab"/>
+  <text x="400" y="136" text-anchor="end" fill="#3776ab" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">1</text>
+</svg>
