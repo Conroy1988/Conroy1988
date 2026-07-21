@@ -1,0 +1,71 @@
+name: Refresh profile cards
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - scripts/generate_profile_cards.py
+      - .github/workflows/profile-cards.yml
+  schedule:
+    - cron: "17 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-cards
+  cancel-in-progress: true
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate repository-owned cards
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_USERNAME: Conroy1988
+          PROFILE_ORGANISATION: Team-Killing-Bastards
+          PROFILE_UTC_OFFSET: "1"
+        run: python scripts/generate_profile_cards.py
+
+      - name: Validate generated SVG files
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          from xml.etree import ElementTree
+
+          expected = {
+              "overview.svg",
+              "languages-repos.svg",
+              "languages-volume.svg",
+              "public-activity.svg",
+              "activity-rhythm.svg",
+          }
+          files = {path.name for path in Path("assets/profile-cards").glob("*.svg")}
+          if files != expected:
+              raise SystemExit(f"Unexpected generated files: {sorted(files)}")
+          for path in Path("assets/profile-cards").glob("*.svg"):
+              ElementTree.parse(path)
+          PY
+
+      - name: Commit refreshed cards
+        run: |
+          if git diff --quiet -- README.md assets/profile-cards; then
+            echo "Profile cards are already current."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add README.md assets/profile-cards
+          git commit -m "Refresh repository-owned profile cards"
+          git push
