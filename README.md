@@ -49,7 +49,7 @@ My professional background in **office and operations management** shapes the wa
 
 <div align="center">
 
-<img src="./assets/current-portfolio-command-board.svg" width="100%" alt="Conroy1988 current technical portfolio command board">
+<img src="./assets/current-portfolio-command-board.svg" width="100%" alt="Conroy1988 six-system technical portfolio command board">
 
 </div>
 
@@ -74,7 +74,7 @@ My professional background in **office and operations management** shapes the wa
 | System | Current state | Core purpose |
 |---|---|---|
 | **MissionChief Map Command Toolkit** | Verified `v4.20.28` | Mission intelligence, specialist fleet identity, map coverage, transport, finance, and configurable command interfaces |
-| **MissionChief UK** | Stage 10 framework; Pages live | Evidence-led UK guide, reference database, scripts, compatibility, strategy, planning, and community verification |
+| **MissionChief UK** | Stage 10 framework; Pages live; verified catalogue growing | Evidence-led UK guide, reference database, scripts, compatibility, strategy, planning, and community verification |
 | **GitHub Achievement Encyclopedia** | Formal `v1.4.0`; active `v1.5.0` campaign | Evidence-led achievement research, public guides, timelines, and static API |
 | **TKB Discord Bot** | Operational | Discord automation, Levels 2.1, Control Centre 2.0, GitHub Integration Hub, HTTPS Gateway, moderation, and deployment operations |
 | **Investor Matrix** | Phase 0 | Authenticated market-intelligence and risk-control foundation with tested recovery |
@@ -114,7 +114,7 @@ Version 4.20.28 isolates Mission Inspector, Mission Value, Mission Requirements,
 
 ### The independent UK command knowledgebase for MissionChief
 
-**Current state: Stage 10 framework · GitHub Pages live**
+**Current state: Stage 10 framework · GitHub Pages live · verified catalogue growing**
 
 MissionChief UK is a searchable, evidence-led information platform built to answer practical questions across the complete United Kingdom game.
 
@@ -124,6 +124,7 @@ MissionChief UK is a searchable, evidence-led information platform built to answ
 - Missions, dispatching, buildings, extensions, transport, and game-system architecture
 - Fire, Ambulance, Police, Coastguard/Lifeboat, and specialist-service reference structure
 - Structured vehicle, mission, building, personnel, training, alias, and terminology frameworks
+- A growing catalogue of verified UK mission and resource records
 - Strategy, station placement, staffing, fleet planning, and future calculator programme
 - LSSM and userscript compatibility centre
 - Desktop, tablet, iPhone, and iPad installation and recovery standards
@@ -290,11 +291,11 @@ The original compatibility layer shipped in v1.0.15. Version 1.0.16 hardens stat
 
 ## Blyth Control Centre
 
-**Current version: `0.5.5`**
+**Current version: `0.5.6`**
 
-Blyth Control Centre is Marty's private household command surface. Its current implementation includes Home Assistant actions, Synology telemetry, a fixed furnished two-floor house map, Energy/Hive temperature views, confirmed Hive room mappings, Emby, Radarr, Sonarr, NZBGet, protected external access, and hardened Synology Docker delivery.
+Blyth Control Centre is Marty's private household command surface. Its current implementation includes Home Assistant actions, Synology telemetry, dedicated furnished downstairs and upstairs SVG reference floorplans, live Hive/Kasa overlays, Energy/Temperature views, confirmed Hive room mappings, Emby, Radarr, Sonarr, NZBGet, protected external access, and hardened Synology Docker delivery.
 
-Live mappings include the main `climate.heating` thermostat, Living Room via `climate.front_living_room`, and Marty & Nat Bedroom via `climate.the_cave`. Pending and unavailable zones remain explicit rather than being presented as fabricated live data.
+Live mappings include the main `climate.heating` thermostat, Living Room via `climate.front_living_room`, and Marty & Nat Bedroom via `climate.the_cave`. Betty Bedroom and Hall remain pending, while Bathroom remains visible and unavailable while its existing entity is offline. The dashboard does not fabricate room telemetry.
 
 **MartyBlyth is the creator, project owner, and primary developer.** My role is organisation governance and portfolio support.
 
@@ -382,13 +383,13 @@ This is a live operational environment. Deployment, health, routing, backup, rec
 | System | Release / state | Current posture |
 |---|---|---|
 | **Map Command Toolkit** | [![Release](https://img.shields.io/github/v/release/Conroy1988/missionchief-toolkit-assets?label=release&color=7b6cf6)](https://github.com/Conroy1988/missionchief-toolkit-assets/releases/latest) | v4.20.28 · verified public delivery and private recovery |
-| **MissionChief UK** | Stage 10 | Pages live · strict validation · structured knowledge framework |
+| **MissionChief UK** | Stage 10 | Pages live · strict validation · growing verified catalogue |
 | **Achievement Encyclopedia** | [![Release](https://img.shields.io/github/v/release/Conroy1988/Achievements?label=release&color=7b6cf6)](https://github.com/Conroy1988/Achievements/releases/latest) | v1.5.0 campaign · 100/100 health |
 | **Command Nexus** | [![Release](https://img.shields.io/github/v/release/Team-Killing-Bastards/MissionChief-Command-Nexus?label=release&color=7b6cf6)](https://github.com/Team-Killing-Bastards/MissionChief-Command-Nexus/releases/latest) | Marty-owned v1.0.16 · Conroy iOS Safari contribution |
 | **TKB Discord Bot** | Private | Levels 2.1 · Control Centre · GitHub Hub · Gateway · Tapo Phase 0 |
 | **Investor Matrix** | Private | Phase 0 · authenticated · backed up · recoverable |
 | **UK Fire Command** | Private | Persistent Scotland/England command loop |
-| **Blyth Control Centre** | Private | Marty-owned v0.5.5 · mapped Hive · Energy/Temperature house map |
+| **Blyth Control Centre** | Private | Marty-owned v0.5.6 · reference floorplans · mapped Hive/Kasa overlays |
 | **LSSM contribution** | [PR #3982](https://github.com/LSS-Manager/LSSM-V.4/pull/3982) | Upstream review |
 
 ---
