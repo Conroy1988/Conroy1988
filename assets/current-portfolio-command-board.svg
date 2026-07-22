@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1120" viewBox="0 0 1600 1120" role="img" aria-labelledby="title desc">
   <title id="title">Conroy1988 six-system portfolio command board</title>
-  <desc id="desc">Six first-party systems spanning public operations, command intelligence, research, private infrastructure, market intelligence and a persistent emergency-services game.</desc>
+  <desc id="desc">Six first-party systems spanning public operations, command intelligence, evidence-led research, private community infrastructure, market intelligence and a persistent emergency-services game.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#040811"/>
@@ -13,7 +13,7 @@
       <stop offset="1" stop-color="#d866ef"/>
     </linearGradient>
     <linearGradient id="cyan" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#45e0ef" stop-opacity="0.19"/>
+      <stop offset="0" stop-color="#45e0ef" stop-opacity="0.20"/>
       <stop offset="1" stop-color="#45e0ef" stop-opacity="0.035"/>
     </linearGradient>
     <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1">
@@ -22,15 +22,15 @@
       <stop offset="1" stop-color="#d63345" stop-opacity="0.055"/>
     </linearGradient>
     <linearGradient id="purple" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#7b6cf6" stop-opacity="0.19"/>
+      <stop offset="0" stop-color="#7b6cf6" stop-opacity="0.20"/>
       <stop offset="1" stop-color="#7b6cf6" stop-opacity="0.035"/>
     </linearGradient>
     <linearGradient id="pink" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#d866ef" stop-opacity="0.18"/>
+      <stop offset="0" stop-color="#d866ef" stop-opacity="0.19"/>
       <stop offset="1" stop-color="#d866ef" stop-opacity="0.035"/>
     </linearGradient>
     <linearGradient id="green" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#22d3a6" stop-opacity="0.18"/>
+      <stop offset="0" stop-color="#22d3a6" stop-opacity="0.19"/>
       <stop offset="1" stop-color="#22d3a6" stop-opacity="0.035"/>
     </linearGradient>
     <linearGradient id="glass" x1="0" y1="0" x2="0" y2="1">
@@ -50,10 +50,10 @@
   <rect x="1" y="1" width="1598" height="1118" rx="33" fill="none" stroke="#ffffff" stroke-opacity="0.11"/>
 
   <text x="74" y="76" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="36" font-weight="860">CONROY SYSTEMS PORTFOLIO</text>
-  <text x="74" y="112" fill="#92a2b6" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">Six first-party systems · Production command intelligence · TKB leadership · Live infrastructure</text>
+  <text x="74" y="112" fill="#92a2b6" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">Six first-party systems · Command intelligence · Community operations · Live infrastructure</text>
   <rect x="74" y="136" width="1452" height="5" rx="2.5" fill="url(#accent)"/>
 
-  <g filter="url(#shadow)">
+  <g>
     <rect x="74" y="170" width="340" height="86" rx="22" fill="url(#glass)" stroke="#45e0ef" stroke-opacity="0.24"/>
     <rect x="438" y="170" width="340" height="86" rx="22" fill="url(#glass)" stroke="#7b6cf6" stroke-opacity="0.24"/>
     <rect x="802" y="170" width="340" height="86" rx="22" fill="url(#glass)" stroke="#d866ef" stroke-opacity="0.24"/>
@@ -70,83 +70,85 @@
 
   <text x="74" y="304" fill="#dce5ee" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="850" letter-spacing="2.4">FIRST-PARTY COMMAND GRID</text>
 
-  <g filter="url(#shadow)">
-    <rect x="74" y="330" width="468" height="180" rx="26" fill="url(#cyan)" stroke="#45e0ef" stroke-opacity="0.34"/>
-    <rect x="566" y="330" width="468" height="180" rx="26" fill="url(#blue)" stroke="#5ebcff" stroke-opacity="0.44"/>
-    <rect x="1058" y="330" width="468" height="180" rx="26" fill="url(#pink)" stroke="#d866ef" stroke-opacity="0.34"/>
+  <g>
+    <rect x="74" y="330" width="468" height="184" rx="26" fill="url(#cyan)" stroke="#45e0ef" stroke-opacity="0.34"/>
+    <rect x="566" y="330" width="468" height="184" rx="26" fill="url(#blue)" stroke="#5ebcff" stroke-opacity="0.44"/>
+    <rect x="1058" y="330" width="468" height="184" rx="26" fill="url(#pink)" stroke="#d866ef" stroke-opacity="0.34"/>
   </g>
 
   <circle cx="108" cy="366" r="7" fill="#45e0ef"/>
-  <text x="130" y="371" fill="#8ff4ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="850" letter-spacing="1.8">PUBLIC · RELEASED</text>
+  <text x="130" y="371" fill="#8ff4ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="850" letter-spacing="1.8">PUBLIC · VERIFIED RELEASE</text>
   <text x="104" y="411" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="850">MISSIONCHIEF MAP COMMAND</text>
   <text x="104" y="437" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="850">TOOLKIT</text>
-  <text x="104" y="466" fill="#9eacbe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">Operational userscript · Seven interfaces · v4.20.28</text>
-  <text x="500" y="486" text-anchor="end" fill="#8ff4ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="850">FLAGSHIP</text>
+  <text x="104" y="466" fill="#9eacbe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">v4.20.35 · Seven interfaces · iPhone/iPad hardened</text>
+  <text x="104" y="491" fill="#9eacbe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">Mission Matrix · Rescue Support tracking · Verified delivery</text>
+  <text x="500" y="496" text-anchor="end" fill="#8ff4ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="850">FLAGSHIP</text>
 
   <circle cx="600" cy="366" r="7" fill="#5ebcff"/>
   <text x="622" y="371" fill="#9bdcff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="850" letter-spacing="1.8">PUBLIC · COMMAND INTELLIGENCE</text>
   <text x="596" y="411" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="850">MISSIONCHIEF UK</text>
-  <text x="596" y="439" fill="#c7eaff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">v1.0.1 · Stage 34 · Static API v1 · 137 entities</text>
-  <text x="596" y="466" fill="#9eacbe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">Global Ctrl+K search · Planning tools · iPhone/iPad QA</text>
-  <text x="992" y="486" text-anchor="end" fill="#ff8690" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="850">PRODUCTION</text>
+  <text x="596" y="441" fill="#c7eaff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">v1.0.1 · Stage 34 · Static API v1 · 137 entities</text>
+  <text x="596" y="468" fill="#9eacbe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">Global Ctrl+K search · Planning tools · WebKit QA</text>
+  <text x="992" y="496" text-anchor="end" fill="#ff8690" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="850">PRODUCTION</text>
 
   <circle cx="1092" cy="366" r="7" fill="#d866ef"/>
-  <text x="1114" y="371" fill="#f3b0fb" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="850" letter-spacing="1.8">PUBLIC · RESEARCH</text>
+  <text x="1114" y="371" fill="#f3b0fb" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="850" letter-spacing="1.8">PUBLIC · EVIDENCE RESEARCH</text>
   <text x="1088" y="411" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="850">GITHUB ACHIEVEMENT</text>
   <text x="1088" y="437" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="850">ENCYCLOPEDIA</text>
-  <text x="1088" y="466" fill="#9eacbe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">Evidence · Timelines · Static API · 100/100 health</text>
-  <text x="1484" y="486" text-anchor="end" fill="#f3b0fb" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="850">v1.5 CAMPAIGN</text>
+  <text x="1088" y="466" fill="#9eacbe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">9 guides · 16 API endpoints · 100/100 health</text>
+  <text x="1484" y="496" text-anchor="end" fill="#f3b0fb" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="850">v1.5 CAMPAIGN</text>
 
-  <g filter="url(#shadow)">
-    <rect x="74" y="534" width="468" height="180" rx="26" fill="url(#pink)" stroke="#d866ef" stroke-opacity="0.34"/>
-    <rect x="566" y="534" width="468" height="180" rx="26" fill="url(#green)" stroke="#22d3a6" stroke-opacity="0.34"/>
-    <rect x="1058" y="534" width="468" height="180" rx="26" fill="url(#purple)" stroke="#7b6cf6" stroke-opacity="0.34"/>
+  <g>
+    <rect x="74" y="538" width="468" height="184" rx="26" fill="url(#pink)" stroke="#d866ef" stroke-opacity="0.34"/>
+    <rect x="566" y="538" width="468" height="184" rx="26" fill="url(#green)" stroke="#22d3a6" stroke-opacity="0.34"/>
+    <rect x="1058" y="538" width="468" height="184" rx="26" fill="url(#purple)" stroke="#7b6cf6" stroke-opacity="0.34"/>
   </g>
 
-  <circle cx="108" cy="570" r="7" fill="#d866ef"/>
-  <text x="130" y="575" fill="#f3b0fb" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="850" letter-spacing="1.8">PRIVATE · OPERATIONAL</text>
-  <text x="104" y="615" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="850">TKB DISCORD BOT</text>
-  <text x="104" y="643" fill="#9eacbe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">Levels 2.1 · Control Centre · GitHub Hub · Gateway</text>
-  <text x="104" y="670" fill="#9eacbe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">Sole development, deployment and security authority</text>
-  <text x="500" y="690" text-anchor="end" fill="#f3b0fb" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="850">OPERATIONAL</text>
+  <circle cx="108" cy="574" r="7" fill="#d866ef"/>
+  <text x="130" y="579" fill="#f3b0fb" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="850" letter-spacing="1.8">PRIVATE · OPERATIONAL PLATFORM</text>
+  <text x="104" y="619" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="850">TKB DISCORD BOT</text>
+  <text x="104" y="647" fill="#9eacbe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">Levels 2.1 · /tkb Command Centre · GitHub Hub</text>
+  <text x="104" y="674" fill="#9eacbe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">Service Monitor · Smart Home ingress · HTTPS Gateway</text>
+  <text x="500" y="704" text-anchor="end" fill="#f3b0fb" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="850">SOLE AUTHORITY</text>
 
-  <circle cx="600" cy="570" r="7" fill="#22d3a6"/>
-  <text x="622" y="575" fill="#79f0d0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="850" letter-spacing="1.8">PRIVATE · R&amp;D</text>
-  <text x="596" y="615" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="850">INVESTOR MATRIX</text>
-  <text x="596" y="643" fill="#9eacbe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">Authenticated market-intelligence and risk platform</text>
-  <text x="596" y="670" fill="#9eacbe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">PostgreSQL · Redis · Backups · Transactional restore</text>
-  <text x="992" y="690" text-anchor="end" fill="#79f0d0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="850">PHASE 0</text>
+  <circle cx="600" cy="574" r="7" fill="#22d3a6"/>
+  <text x="622" y="579" fill="#79f0d0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="850" letter-spacing="1.8">PRIVATE · R&amp;D</text>
+  <text x="596" y="619" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="850">INVESTOR MATRIX</text>
+  <text x="596" y="647" fill="#9eacbe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">Authenticated market-intelligence and risk platform</text>
+  <text x="596" y="674" fill="#9eacbe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">PostgreSQL · Redis · Backups · Transactional restore</text>
+  <text x="992" y="704" text-anchor="end" fill="#79f0d0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="850">PHASE 0</text>
 
-  <circle cx="1092" cy="570" r="7" fill="#7b6cf6"/>
-  <text x="1114" y="575" fill="#bbb4ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="850" letter-spacing="1.8">PRIVATE · GAME SYSTEM</text>
-  <text x="1088" y="615" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="850">UK FIRE COMMAND</text>
-  <text x="1088" y="643" fill="#9eacbe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">Persistent Scotland and England command simulation</text>
-  <text x="1088" y="670" fill="#9eacbe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">Next.js · NestJS · PostGIS · MapLibre · OSRM</text>
-  <text x="1484" y="690" text-anchor="end" fill="#bbb4ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="850">ACTIVE</text>
+  <circle cx="1092" cy="574" r="7" fill="#7b6cf6"/>
+  <text x="1114" y="579" fill="#bbb4ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="850" letter-spacing="1.8">PRIVATE · GAME SYSTEM</text>
+  <text x="1088" y="619" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="850">UK FIRE COMMAND</text>
+  <text x="1088" y="647" fill="#9eacbe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">Persistent Scotland and England command simulation</text>
+  <text x="1088" y="674" fill="#9eacbe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13">Map-first stations · Crews · Routing · Escalation</text>
+  <text x="1484" y="704" text-anchor="end" fill="#bbb4ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="11" font-weight="850">ACTIVE DEVELOPMENT</text>
 
-  <g filter="url(#shadow)">
-    <rect x="74" y="756" width="710" height="250" rx="28" fill="url(#pink)" stroke="#d866ef" stroke-opacity="0.32"/>
-    <rect x="816" y="756" width="710" height="250" rx="28" fill="url(#green)" stroke="#22d3a6" stroke-opacity="0.32"/>
+  <g>
+    <rect x="74" y="760" width="710" height="246" rx="28" fill="url(#pink)" stroke="#d866ef" stroke-opacity="0.32"/>
+    <rect x="816" y="760" width="710" height="246" rx="28" fill="url(#green)" stroke="#22d3a6" stroke-opacity="0.32"/>
   </g>
-  <text x="106" y="796" fill="#f3b0fb" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="850" letter-spacing="2.2">TEAM KILLING BASTARDS</text>
-  <text x="106" y="834" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="850">Founder, original owner and community leader</text>
-  <text x="106" y="864" fill="#9eacbe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14">Four organisation systems · Three GitHub owner domains · Shared leadership with Marty</text>
-  <rect x="106" y="892" width="302" height="72" rx="16" fill="#17101f" stroke="#d866ef" stroke-opacity="0.24"/>
-  <text x="126" y="920" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="820">TKB Discord Bot</text>
-  <text x="126" y="945" fill="#9eacbe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">Sole technical and operational authority</text>
-  <rect x="430" y="892" width="322" height="72" rx="16" fill="#121229" stroke="#7b6cf6" stroke-opacity="0.24"/>
-  <text x="450" y="920" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="820">Organisation governance</text>
-  <text x="450" y="945" fill="#9eacbe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">Direction · Standards · Delivery · Support</text>
 
-  <text x="848" y="796" fill="#79f0d0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="850" letter-spacing="2.2">CONTRIBUTION &amp; LIVE OPERATIONS</text>
-  <text x="848" y="834" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="850">Scoped work with explicit ownership boundaries</text>
-  <text x="848" y="864" fill="#9eacbe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14">Contribute where useful. Preserve creator authority. Verify the live result.</text>
-  <rect x="848" y="892" width="302" height="72" rx="16" fill="#0d1b1d" stroke="#22d3a6" stroke-opacity="0.24"/>
-  <text x="868" y="920" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="820">Command Nexus iOS</text>
-  <text x="868" y="945" fill="#9eacbe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">Initiated and implemented with permission</text>
-  <rect x="1172" y="892" width="322" height="72" rx="16" fill="#0e1522" stroke="#45e0ef" stroke-opacity="0.24"/>
-  <text x="1192" y="920" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="820">ConroyMedia</text>
-  <text x="1192" y="945" fill="#9eacbe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">Docker · Caddy · Runners · Backup · Recovery</text>
+  <text x="106" y="800" fill="#f3b0fb" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="850" letter-spacing="2.2">TEAM KILLING BASTARDS</text>
+  <text x="106" y="838" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="850">Founder, original owner and community leader</text>
+  <text x="106" y="868" fill="#9eacbe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14">Four organisation systems · Three GitHub owner domains · Shared leadership with Marty</text>
+  <rect x="106" y="896" width="302" height="72" rx="16" fill="#17101f" stroke="#d866ef" stroke-opacity="0.24"/>
+  <text x="126" y="924" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="820">TKB Discord Bot</text>
+  <text x="126" y="949" fill="#9eacbe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">Sole technical and operational authority</text>
+  <rect x="430" y="896" width="322" height="72" rx="16" fill="#121229" stroke="#7b6cf6" stroke-opacity="0.24"/>
+  <text x="450" y="924" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="820">Organisation governance</text>
+  <text x="450" y="949" fill="#9eacbe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">Direction · Standards · Delivery · Support</text>
+
+  <text x="848" y="800" fill="#79f0d0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="850" letter-spacing="2.2">CONTRIBUTION &amp; LIVE OPERATIONS</text>
+  <text x="848" y="838" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="25" font-weight="850">Scoped work with explicit ownership boundaries</text>
+  <text x="848" y="868" fill="#9eacbe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14">Contribute where useful. Preserve creator authority. Verify the live result.</text>
+  <rect x="848" y="896" width="302" height="72" rx="16" fill="#0d1b1d" stroke="#22d3a6" stroke-opacity="0.24"/>
+  <text x="868" y="924" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="820">Command Nexus iOS</text>
+  <text x="868" y="949" fill="#9eacbe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">v1.0.15–v1.0.18 · Initiated with permission</text>
+  <rect x="1172" y="896" width="322" height="72" rx="16" fill="#0e1522" stroke="#45e0ef" stroke-opacity="0.24"/>
+  <text x="1192" y="924" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16" font-weight="820">ConroyMedia</text>
+  <text x="1192" y="949" fill="#9eacbe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">Caddy · Monitoring · Runners · Recovery</text>
 
   <rect x="178" y="1043" width="1244" height="42" rx="21" fill="url(#glass)" stroke="#ffffff" stroke-opacity="0.10"/>
   <text x="800" y="1069" text-anchor="middle" fill="#d8e1eb" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="800" letter-spacing="1.25">BUILD USEFUL SYSTEMS · MAKE AUTHORITY VISIBLE · VALIDATE THE LIVE RESULT · OPERATE FOR THE LONG TERM</text>
