@@ -21,9 +21,9 @@
   <line x1="28" y1="220" x2="392" y2="220" stroke="#30363d"/>
   <line x1="28" y1="100" x2="28" y2="220" stroke="#30363d"/>
   <rect x="30" y="220" width="10" height="2" rx="3" fill="#a371f7" opacity="0.18"/>
-  <rect x="45" y="220" width="10" height="2" rx="3" fill="#a371f7" opacity="0.18"/>
-  <rect x="60" y="220" width="10" height="2" rx="3" fill="#a371f7" opacity="0.18"/>
-  <rect x="75" y="220" width="10" height="2" rx="3" fill="#a371f7" opacity="0.18"/>
+  <rect x="45" y="215" width="10" height="5" rx="3" fill="#a371f7" opacity="1"/>
+  <rect x="60" y="100" width="10" height="120" rx="3" fill="#45e0ef" opacity="1"/>
+  <rect x="75" y="150" width="10" height="70" rx="3" fill="#a371f7" opacity="1"/>
   <rect x="90" y="220" width="10" height="2" rx="3" fill="#a371f7" opacity="0.18"/>
   <rect x="105" y="220" width="10" height="2" rx="3" fill="#a371f7" opacity="0.18"/>
   <rect x="120" y="220" width="10" height="2" rx="3" fill="#a371f7" opacity="0.18"/>
@@ -31,12 +31,12 @@
   <rect x="150" y="220" width="10" height="2" rx="3" fill="#a371f7" opacity="0.18"/>
   <rect x="165" y="220" width="10" height="2" rx="3" fill="#a371f7" opacity="0.18"/>
   <rect x="180" y="220" width="10" height="2" rx="3" fill="#a371f7" opacity="0.18"/>
-  <rect x="195" y="100" width="10" height="120" rx="3" fill="#45e0ef" opacity="1"/>
-  <rect x="210" y="108" width="10" height="112" rx="3" fill="#a371f7" opacity="1"/>
-  <rect x="225" y="196" width="10" height="24" rx="3" fill="#a371f7" opacity="1"/>
+  <rect x="195" y="220" width="10" height="2" rx="3" fill="#a371f7" opacity="0.18"/>
+  <rect x="210" y="220" width="10" height="2" rx="3" fill="#a371f7" opacity="0.18"/>
+  <rect x="225" y="220" width="10" height="2" rx="3" fill="#a371f7" opacity="0.18"/>
   <rect x="240" y="220" width="10" height="2" rx="3" fill="#a371f7" opacity="0.18"/>
-  <rect x="255" y="215" width="10" height="5" rx="3" fill="#a371f7" opacity="1"/>
-  <rect x="270" y="215" width="10" height="5" rx="3" fill="#a371f7" opacity="1"/>
+  <rect x="255" y="220" width="10" height="2" rx="3" fill="#a371f7" opacity="0.18"/>
+  <rect x="270" y="220" width="10" height="2" rx="3" fill="#a371f7" opacity="0.18"/>
   <rect x="285" y="220" width="10" height="2" rx="3" fill="#a371f7" opacity="0.18"/>
   <rect x="300" y="220" width="10" height="2" rx="3" fill="#a371f7" opacity="0.18"/>
   <rect x="315" y="220" width="10" height="2" rx="3" fill="#a371f7" opacity="0.18"/>
@@ -45,5 +45,5 @@
   <rect x="360" y="220" width="10" height="2" rx="3" fill="#a371f7" opacity="0.18"/>
   <rect x="375" y="220" width="10" height="2" rx="3" fill="#a371f7" opacity="0.18"/>
   <text x="35" y="242" text-anchor="middle" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="9">0</text>  <text x="125" y="242" text-anchor="middle" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="9">6</text>  <text x="215" y="242" text-anchor="middle" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="9">12</text>  <text x="305" y="242" text-anchor="middle" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="9">18</text>  <text x="380" y="242" text-anchor="middle" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="9">23</text>
-  <text x="28" y="260" fill="#45e0ef" font-family="Segoe UI, Arial, sans-serif" font-size="10">Peak public activity: 11:00–12:00</text>
+  <text x="28" y="260" fill="#45e0ef" font-family="Segoe UI, Arial, sans-serif" font-size="10">Peak public activity: 02:00–03:00</text>
 </svg>

@@ -24,7 +24,7 @@
   <text x="84" y="140" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="10">last 30 days</text>
   <rect x="222" y="91" width="176" height="65" rx="12" fill="#161b22" stroke="#30363d"/>
   <text x="237" y="113" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="700">PUSH EVENTS</text>
-  <text x="237" y="141" fill="#7b6cf6" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="800">26</text>
+  <text x="237" y="141" fill="#7b6cf6" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="800">91</text>
   <text x="278" y="140" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="10">public activity</text>
   <rect x="28" y="168" width="176" height="65" rx="12" fill="#161b22" stroke="#30363d"/>
   <text x="43" y="190" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="700">PR / REVIEWS</text>
@@ -32,6 +32,6 @@
   <text x="84" y="217" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="10">public activity</text>
   <rect x="222" y="168" width="176" height="65" rx="12" fill="#161b22" stroke="#30363d"/>
   <text x="237" y="190" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="700">ISSUES / COMMENTS</text>
-  <text x="237" y="218" fill="#22d3a6" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="800">69</text>
+  <text x="237" y="218" fill="#22d3a6" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="800">4</text>
   <text x="278" y="217" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="10">public activity</text>
 </svg>
