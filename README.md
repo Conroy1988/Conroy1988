@@ -74,7 +74,7 @@ My professional background in **office and operations management** shapes the wa
 | System | Current state | Core purpose |
 |---|---|---|
 | **MissionChief Map Command Toolkit** | Verified `v4.20.28` | Mission intelligence, specialist fleet identity, map coverage, transport, finance, and configurable command interfaces |
-| **MissionChief UK** | Stage 10 framework; Pages live; verified catalogue growing | Evidence-led UK guide, reference database, scripts, compatibility, strategy, planning, and community verification |
+| **MissionChief UK** | Architecture complete; verified-data expansion active; Pages live | Evidence-led UK guide, reference database, scripts, compatibility, strategy, planning, and community verification |
 | **GitHub Achievement Encyclopedia** | Formal `v1.4.0`; active `v1.5.0` campaign | Evidence-led achievement research, public guides, timelines, and static API |
 | **TKB Discord Bot** | Operational | Discord automation, Levels 2.1, Control Centre 2.0, GitHub Integration Hub, HTTPS Gateway, moderation, and deployment operations |
 | **Investor Matrix** | Phase 0 | Authenticated market-intelligence and risk-control foundation with tested recovery |
@@ -114,7 +114,7 @@ Version 4.20.28 isolates Mission Inspector, Mission Value, Mission Requirements,
 
 ### The independent UK command knowledgebase for MissionChief
 
-**Current state: Stage 10 framework · GitHub Pages live · verified catalogue growing**
+**Stage 10 architecture complete · verified-data expansion active · GitHub Pages live**
 
 MissionChief UK is a searchable, evidence-led information platform built to answer practical questions across the complete United Kingdom game.
 
@@ -124,7 +124,10 @@ MissionChief UK is a searchable, evidence-led information platform built to answ
 - Missions, dispatching, buildings, extensions, transport, and game-system architecture
 - Fire, Ambulance, Police, Coastguard/Lifeboat, and specialist-service reference structure
 - Structured vehicle, mission, building, personnel, training, alias, and terminology frameworks
-- A growing catalogue of verified UK mission and resource records
+- Published verified vehicle and mission records with source and verification metadata
+- Explicit guaranteed and probabilistic mission requirements
+- Cross-reference validation between mission requirements and vehicle identifiers
+- UK dataset manifest and published verified-data pages
 - Strategy, station placement, staffing, fleet planning, and future calculator programme
 - LSSM and userscript compatibility centre
 - Desktop, tablet, iPhone, and iPad installation and recovery standards
@@ -132,12 +135,12 @@ MissionChief UK is a searchable, evidence-led information platform built to answ
 - JSON schema validation and strict MkDocs build gates
 - Automated GitHub Pages deployment
 
-The Stage 10 milestone means the complete information architecture is established. It does not falsely claim that every UK mission, vehicle, building, training course, or edge case has already been fully populated and verified.
+The foundational architecture is complete and the catalogue is actively expanding. The project does not falsely claim that every UK mission, vehicle, building, training course, or edge case has already been catalogued.
 
 [![Pages](https://img.shields.io/badge/GITHUB_PAGES-LIVE-45e0ef?style=flat-square&labelColor=151b2b)](https://conroy1988.github.io/MissionChief-UK/)
 [![Validation](https://github.com/Conroy1988/MissionChief-UK/actions/workflows/validate.yml/badge.svg)](https://github.com/Conroy1988/MissionChief-UK/actions/workflows/validate.yml)
 
-[Command Centre](https://conroy1988.github.io/MissionChief-UK/) · [Repository](https://github.com/Conroy1988/MissionChief-UK) · [Reference Database](https://conroy1988.github.io/MissionChief-UK/reference/) · [Scripts & Tools](https://conroy1988.github.io/MissionChief-UK/scripts/)
+[Command Centre](https://conroy1988.github.io/MissionChief-UK/) · [Repository](https://github.com/Conroy1988/MissionChief-UK) · [Verified Vehicles](https://conroy1988.github.io/MissionChief-UK/reference/verified-vehicle-records/) · [Verified Missions](https://conroy1988.github.io/MissionChief-UK/reference/verified-mission-records/)
 
 ## GitHub Achievement Encyclopedia
 
@@ -383,7 +386,7 @@ This is a live operational environment. Deployment, health, routing, backup, rec
 | System | Release / state | Current posture |
 |---|---|---|
 | **Map Command Toolkit** | [![Release](https://img.shields.io/github/v/release/Conroy1988/missionchief-toolkit-assets?label=release&color=7b6cf6)](https://github.com/Conroy1988/missionchief-toolkit-assets/releases/latest) | v4.20.28 · verified public delivery and private recovery |
-| **MissionChief UK** | Stage 10 | Pages live · strict validation · growing verified catalogue |
+| **MissionChief UK** | Architecture complete | Pages live · schemas and reference integrity · verified catalogue expanding |
 | **Achievement Encyclopedia** | [![Release](https://img.shields.io/github/v/release/Conroy1988/Achievements?label=release&color=7b6cf6)](https://github.com/Conroy1988/Achievements/releases/latest) | v1.5.0 campaign · 100/100 health |
 | **Command Nexus** | [![Release](https://img.shields.io/github/v/release/Team-Killing-Bastards/MissionChief-Command-Nexus?label=release&color=7b6cf6)](https://github.com/Team-Killing-Bastards/MissionChief-Command-Nexus/releases/latest) | Marty-owned v1.0.16 · Conroy iOS Safari contribution |
 | **TKB Discord Bot** | Private | Levels 2.1 · Control Centre · GitHub Hub · Gateway · Tapo Phase 0 |
