@@ -19,7 +19,7 @@ ORGANISATION = os.getenv("PROFILE_ORGANISATION", "Team-Killing-Bastards")
 UTC_OFFSET = int(os.getenv("PROFILE_UTC_OFFSET", "1"))
 OUTPUT_DIR = Path("assets/profile-cards")
 README = Path("README.md")
-FIRST_PARTY_SYSTEMS = 5
+FIRST_PARTY_SYSTEMS = 6
 TKB_ACTIVE_SYSTEMS = 4
 OWNER_DOMAINS = 3
 
@@ -144,7 +144,7 @@ def collect_profile_data() -> dict[str, Any]:
 
 def fallback_data() -> dict[str, Any]:
     return {
-        "public_repositories": 5,
+        "public_repositories": 6,
         "repo_languages": Counter({"JavaScript": 2, "Python": 1, "TypeScript": 1}),
         "byte_languages": Counter({"JavaScript": 58, "Python": 28, "TypeScript": 10, "CSS": 4}),
         "events_30d": 0,
