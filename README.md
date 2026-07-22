@@ -11,12 +11,13 @@
 
 [![Profile views](https://komarev.com/ghpvc/?username=Conroy1988&label=PROFILE+VIEWS&color=7b6cf6&style=flat-square)](https://github.com/Conroy1988)
 [![Followers](https://img.shields.io/github/followers/Conroy1988?label=FOLLOWERS&style=flat-square&color=45e0ef)](https://github.com/Conroy1988?tab=followers)
-[![Toolkit release](https://img.shields.io/github/v/release/Conroy1988/missionchief-toolkit-assets?label=TOOLKIT&color=7b6cf6&style=flat-square)](https://github.com/Conroy1988/missionchief-toolkit-assets/releases/latest)
-[![Achievements release](https://img.shields.io/github/v/release/Conroy1988/Achievements?label=ENCYCLOPEDIA&color=d866ef&style=flat-square)](https://github.com/Conroy1988/Achievements/releases/latest)
+[![Toolkit](https://img.shields.io/github/v/release/Conroy1988/missionchief-toolkit-assets?label=TOOLKIT&color=7b6cf6&style=flat-square)](https://github.com/Conroy1988/missionchief-toolkit-assets/releases/latest)
+[![MissionChief UK](https://img.shields.io/github/v/release/Conroy1988/MissionChief-UK?label=MISSIONCHIEF%20UK&color=1593d1&style=flat-square)](https://github.com/Conroy1988/MissionChief-UK/releases/latest)
+[![Encyclopedia](https://img.shields.io/github/v/release/Conroy1988/Achievements?label=ENCYCLOPEDIA&color=d866ef&style=flat-square)](https://github.com/Conroy1988/Achievements/releases/latest)
 
 ### I turn fragmented workflows into controlled, visible, recoverable systems.
 
-**Operational software · Knowledge platforms · Community infrastructure · GitHub automation · Market intelligence · Persistent games · Self-hosting**
+**Operational software · Command intelligence · Community infrastructure · GitHub automation · Market intelligence · Persistent games · Self-hosting**
 
 [**Portfolio**](#portfolio-command-board) · [**Public products**](#public-products) · [**Private systems**](#private-systems) · [**TKB**](#team-killing-bastards) · [**Contributions**](#contributions-and-project-support) · [**Infrastructure**](#conroymedia-and-self-hosting) · [**Activity**](#github-activity)
 
@@ -28,18 +29,18 @@
 
 I am **Conroy**, an operations-minded systems builder based in **Edinburgh, Scotland**.
 
-My work usually begins where a process has become fragmented, repetitive, difficult to understand, or unsafe to maintain. I map the real workflow, identify the missing control layer, and build a system that makes the operation clearer, faster, more accountable, and easier to recover.
+My work normally starts where a process has become fragmented, repetitive, difficult to understand, or unsafe to maintain. I map the real workflow, identify the missing control layer, and build a system that makes the operation clearer, faster, more accountable, and easier to recover.
 
-I work across product direction, software architecture, interface design, automation, release engineering, repository governance, technical documentation, research systems, deployment, networking, and live-system ownership.
+I work across product direction, software architecture, interface design, structured data, automation, release engineering, repository governance, technical documentation, deployment, networking, security boundaries, and live-system ownership.
 
-My professional background in **office and operations management** shapes the way I build. Permissions, audit evidence, exception handling, live verification, ownership, documentation, backup, and recovery are product requirements—not final-stage polish.
+My professional background in **office and operations management** directly shapes the way I build. Permissions, evidence, exception handling, ownership, deployment, backup, and recovery are product requirements—not final-stage polish.
 
 <table>
 <tr>
 <td width="25%" align="center"><strong>⚙️ BUILD</strong><br><sub>Convert operational friction into a usable control system.</sub></td>
 <td width="25%" align="center"><strong>🧭 CLARIFY</strong><br><sub>Expose the information required for safer decisions.</sub></td>
-<td width="25%" align="center"><strong>🛡️ STABILISE</strong><br><sub>Add validation, boundaries, evidence, and recovery paths.</sub></td>
-<td width="25%" align="center"><strong>◈ OPERATE</strong><br><sub>Maintain the finished system as a live product.</sub></td>
+<td width="25%" align="center"><strong>🛡️ STABILISE</strong><br><sub>Add validation, boundaries, evidence, and recovery.</sub></td>
+<td width="25%" align="center"><strong>◈ OPERATE</strong><br><sub>Maintain the result as a live, accountable product.</sub></td>
 </tr>
 </table>
 
@@ -55,27 +56,27 @@ My professional background in **office and operations management** shapes the wa
 
 ## Current responsibility map
 
-| Domain | Systems | My responsibility |
+| Domain | System | My responsibility |
 |---|---|---|
 | **Public operational product** | MissionChief Map Command Toolkit | Creator, maintainer, release authority, and production owner |
-| **Public knowledge platform** | MissionChief UK | Creator, information architecture owner, evidence standard, validation, and publication |
+| **Public command-intelligence platform** | MissionChief UK | Creator, product owner, data/evidence authority, interface direction, validation, and publication |
 | **Public research platform** | GitHub Achievement Encyclopedia | Creator, maintainer, research owner, and release authority |
 | **Private operational platform** | TKB Discord Bot | Sole developer, security authority, deployment owner, and live operator |
 | **Private research platform** | Investor Matrix | Project lead, Admin authority, architecture, and delivery direction |
 | **Private game system** | UK Fire Command | Creator, product owner, architecture authority, and development lead |
 | **Community and governance** | Team Killing Bastards | Founder, original owner, community leader, organisation governance, and technical direction |
-| **Scoped userscript contribution** | MissionChief Command Nexus v1.0.15–v1.0.16 | Initiated, designed, and implemented the iOS Safari compatibility and station-workflow hardening with Marty's permission |
-| **Project support** | MissionChief Command Nexus; Blyth Control Centre | Repository, documentation, governance, and delivery support without claiming Marty-owned systems |
+| **Scoped userscript contribution** | MissionChief Command Nexus v1.0.15–v1.0.16 | Initiated and implemented iOS Safari compatibility and station-workflow hardening with Marty's permission |
+| **Project support** | Command Nexus; Blyth Control Centre | Repository, documentation, governance, and delivery support without claiming Marty-owned systems |
 | **Open source** | LSSM V.4 | Scoped upstream contribution under upstream maintainer authority |
-| **Infrastructure** | ConroyMedia | Docker, Caddy, networking, monitoring, backup, recovery, and private deployment operations |
+| **Infrastructure** | ConroyMedia | Docker, Caddy, networking, monitoring, runners, backup, recovery, and private deployment operations |
 
 ## Six first-party systems
 
 | System | Current state | Core purpose |
 |---|---|---|
 | **MissionChief Map Command Toolkit** | Verified `v4.20.28` | Mission intelligence, specialist fleet identity, map coverage, transport, finance, and configurable command interfaces |
-| **MissionChief UK** | Architecture complete; verified-data expansion active; Pages live | Evidence-led UK guide, reference database, scripts, compatibility, strategy, planning, and community verification |
-| **GitHub Achievement Encyclopedia** | Formal `v1.4.0`; active `v1.5.0` campaign | Evidence-led achievement research, public guides, timelines, and static API |
+| **MissionChief UK** | Production `v1.0.1` · Stage 34 · API v1 | Verified UK operations data, instant command search, interactive planning, service doctrine, and public machine-readable exports |
+| **GitHub Achievement Encyclopedia** | Formal `v1.4.0` · active `v1.5.0` campaign | Evidence-led achievement research, guides, timelines, monitoring, and static API |
 | **TKB Discord Bot** | Operational | Discord automation, Levels 2.1, Control Centre 2.0, GitHub Integration Hub, HTTPS Gateway, moderation, and deployment operations |
 | **Investor Matrix** | Phase 0 | Authenticated market-intelligence and risk-control foundation with tested recovery |
 | **UK Fire Command** | Active development | Persistent Scotland/England Fire and Rescue management game |
@@ -100,9 +101,9 @@ The Toolkit transforms the MissionChief map into a configurable operations conso
 - Heat maps, coverage rings, bookmarks, focus modes, and geographic command workflows
 - Alliance mission value, session performance, payout presentation, and Financial Advisor reporting
 - Seven complete interface systems across desktop, ultrawide, tablet, and iOS layouts
-- Canonical source, full audits, manifests, Greasy Fork parity, checksums, and private recovery evidence
+- Canonical source, audit evidence, manifests, Greasy Fork parity, checksums, and private recovery archives
 
-Version 4.20.28 isolates Mission Inspector, Mission Value, Mission Requirements, and Custom Vehicle Badges routing plus their post-reconciliation effects while preserving presentation and the exact update → reconciliation → effect order. It retains the v4.20.27 map/visibility extraction, v4.20.26 financial-setting routing, Boot lifecycle contracts, unchanged-render measurement, and Financial Advisor `/credits/overview` reconciliation.
+Version 4.20.28 isolates Mission Inspector, Mission Value, Mission Requirements, and Custom Vehicle Badges routing plus their post-reconciliation effects while preserving presentation and the exact update → reconciliation → effect order.
 
 [![Release](https://img.shields.io/github/v/release/Conroy1988/missionchief-toolkit-assets?display_name=release&label=RELEASE&color=7b6cf6&style=flat-square)](https://github.com/Conroy1988/missionchief-toolkit-assets/releases/latest)
 [![Greasy Fork](https://img.shields.io/greasyfork/v/586018?label=GREASY%20FORK&color=45e0ef&style=flat-square)](https://greasyfork.org/en/scripts/586018-missionchief-map-command-toolkit)
@@ -112,35 +113,45 @@ Version 4.20.28 isolates Mission Inspector, Mission Value, Mission Requirements,
 
 ## MissionChief UK
 
-### The independent UK command knowledgebase for MissionChief
+### A verified UK operations-intelligence and planning platform
 
-**Stage 10 architecture complete · verified-data expansion active · GitHub Pages live**
+**Production release: `v1.0.1` · Stage 34 complete · Static API v1 · GitHub Pages live**
 
-MissionChief UK is a searchable, evidence-led information platform built to answer practical questions across the complete United Kingdom game.
+MissionChief UK is no longer a framework or conventional guide. It is a production command-intelligence platform built around one controlled UK data estate.
 
-**Current platform scope**
+### Live intelligence estate
 
-- Getting-started and account-progression guides
-- Missions, dispatching, buildings, extensions, transport, and game-system architecture
-- Fire, Ambulance, Police, Coastguard/Lifeboat, and specialist-service reference structure
-- Structured vehicle, mission, building, personnel, training, alias, and terminology frameworks
-- Published verified vehicle and mission records with source and verification metadata
-- Explicit guaranteed and probabilistic mission requirements
-- Cross-reference validation between mission requirements and vehicle identifiers
-- UK dataset manifest and published verified-data pages
-- Strategy, station placement, staffing, fleet planning, and future calculator programme
-- LSSM and userscript compatibility centre
-- Desktop, tablet, iPhone, and iPad installation and recovery standards
-- Community verification workflow with evidence classifications and source expectations
-- JSON schema validation and strict MkDocs build gates
-- Automated GitHub Pages deployment
+| Collection | Published records |
+|---|---:|
+| Verified missions | **62** |
+| Canonical deployable resources | **46** |
+| Buildings and extensions | **18** |
+| Qualifications | **11** |
+| Searchable canonical entities | **137** |
 
-The foundational architecture is complete and the catalogue is actively expanding. The project does not falsely claim that every UK mission, vehicle, building, training course, or edge case has already been catalogued.
+### Operational capability
 
-[![Pages](https://img.shields.io/badge/GITHUB_PAGES-LIVE-45e0ef?style=flat-square&labelColor=151b2b)](https://conroy1988.github.io/MissionChief-UK/)
+- Global **`Ctrl+K` / `⌘K` command palette** available across the complete site
+- Collection filtering for missions, resources, infrastructure, and qualifications
+- Keyboard navigation, accessible dialog semantics, focus restoration, and responsive mobile presentation
+- Deep links from global results into Mission Lookup and the Query Catalogue
+- Mission Lookup with requirements, preconditions, rewards, patients, and evidence posture
+- Resource and qualification comparison
+- Concurrent Fleet Planner for repeated incident demand
+- Natural-language Query Catalogue
+- Versioned read-only JSON exports, manifest, search index, generated FAQ, and OpenAPI 3.1 contract
+- Service doctrine covering core, maritime, remote, specialist, recovery, airfield, EOD, and railway operations
+- Strict JSON Schema, relationship, range, release, documentation-link, and built-site validation
+- Playwright acceptance coverage for Chromium, Firefox, iPhone WebKit, and iPad WebKit
+- Critical WCAG A/AA scanning, viewport overflow checks, first-party HTTP monitoring, and retained failure diagnostics
+
+The command interface reads the same validated first-party exports used by the documentation. It does not authenticate against MissionChief, modify an account, or store player search history.
+
+[![Release](https://img.shields.io/github/v/release/Conroy1988/MissionChief-UK?label=RELEASE&color=1593d1&style=flat-square)](https://github.com/Conroy1988/MissionChief-UK/releases/latest)
 [![Validation](https://github.com/Conroy1988/MissionChief-UK/actions/workflows/validate.yml/badge.svg)](https://github.com/Conroy1988/MissionChief-UK/actions/workflows/validate.yml)
+[![Pages](https://img.shields.io/badge/GITHUB_PAGES-LIVE-45e0ef?style=flat-square&labelColor=151b2b)](https://conroy1988.github.io/MissionChief-UK/)
 
-[Command Centre](https://conroy1988.github.io/MissionChief-UK/) · [Repository](https://github.com/Conroy1988/MissionChief-UK) · [Verified Vehicles](https://conroy1988.github.io/MissionChief-UK/reference/verified-vehicle-records/) · [Verified Missions](https://conroy1988.github.io/MissionChief-UK/reference/verified-mission-records/)
+[Command Centre](https://conroy1988.github.io/MissionChief-UK/) · [Mission Lookup](https://conroy1988.github.io/MissionChief-UK/tools/mission-lookup/) · [Fleet Planner](https://conroy1988.github.io/MissionChief-UK/tools/fleet-planner/) · [Static API](https://conroy1988.github.io/MissionChief-UK/api/) · [Repository](https://github.com/Conroy1988/MissionChief-UK)
 
 ## GitHub Achievement Encyclopedia
 
@@ -155,7 +166,7 @@ The Encyclopedia separates official documentation, reproduced behaviour, histori
 - Seventeen-control unified repository audit
 - Official-document fingerprint monitoring
 - Privacy-safe evidence records and verification timelines
-- Campaign-classified active, blocked, monitoring, queued, and completed research tasks
+- Campaign-classified research tasks
 - Searchable GitHub Pages experience
 
 [Explore](https://conroy1988.github.io/Achievements/) · [Repository](https://github.com/Conroy1988/Achievements) · [Evidence](https://github.com/Conroy1988/Achievements/blob/main/docs/evidence-register.md) · [Research](https://github.com/Conroy1988/Achievements/blob/main/docs/research-hub.md)
@@ -172,41 +183,18 @@ The TKB Discord Bot is the private operational backbone of the Team Killing Bast
 
 ### Platform scope
 
-- Discord commands, events, scheduler, countdowns, messaging, starboard, Battlefield, Marty moments, AI, and Giphy
+- Discord commands, events, scheduler, countdowns, messaging, starboard, Battlefield, AI, and media integrations
 - Moderation logging and immutable case management
 - FastAPI **Control Centre 2.0** with authenticated workspaces
 - Transactional SQLite state and encrypted credentials
-- Managed Caddy HTTPS Gateway with validation, adoption, rollback, reconcile, and abandon workflows
+- Managed Caddy HTTPS Gateway with validation, adoption, rollback, reconciliation, and abandon workflows
 - Backup, update, restore, rollback, and restricted host-agent evidence
-
-### Levels 2.1
-
-- Million-rank deterministic title system
-- Daily and weekly challenges
-- Forgiving timezone-aware streaks
-- Seasonal progression
-- Member squads and squad leaderboards
-- Server campaigns with contributor evidence
-- Persistent badges and controlled special titles
-- Rich member profiles
-- Audited title awards and Control Centre management
-- Existing XP compatibility and bounded evidence without message-content retention
-
-### GitHub Integration Hub
-
-- Separate `Team-Killing-Bastards`, `Conroy1988`, and `MartyBlyth` owner workspaces
-- Owner-scoped GitHub Apps, repository discovery, signed webhooks, and replay suppression
-- Repository-specific Discord delivery with retries and dead-letter recovery
-- Linux and Windows repository/trust-scoped ephemeral JIT runners
-- Workflow-run/job evidence, controlled retry, reconciliation, production verification, and typed audited sign-off
-
-### Controlled Windows JIT verification
-
-A repository-owned smoke workflow validates the dedicated `TKBRunnerSvc` identity, non-administrator posture, supervisor-secret isolation, bounded lease workspace, and denial of Docker-daemon access.
-
-### Tapo Phase 0
-
-The repository contains a sanitised, read-only TD21/H200 compatibility probe and runbook. There is currently **no production Tapo connector, Discord route, snapshot retention, stream, event subscription, or device-control capability**. Real-hardware evidence from the ConroyMedia LAN must be reviewed before Phase 1 design.
+- Levels 2.1 with million-rank titles, challenges, streaks, seasons, squads, campaigns, badges, and audited special titles
+- Separate TKB, Conroy1988, and MartyBlyth GitHub workspaces
+- GitHub Apps, signed webhooks, repository-specific Discord delivery, retries, dead letters, and workflow evidence
+- Linux and Windows trust-scoped ephemeral JIT runners
+- Controlled Windows JIT verification for non-admin identity, isolated leases, secret boundaries, and denied Docker-daemon access
+- Sanitised, read-only Tapo TD21/H200 Phase 0 compatibility research with no production device connector or control route
 
 [🔒 Private repository](https://github.com/Team-Killing-Bastards/TKB-Discord-Bot)
 
@@ -221,7 +209,7 @@ Investor Matrix is a private market-intelligence and risk-control platform curre
 - Redis-backed dependency readiness
 - Fixed Admin and Member boundaries
 - Argon2 authentication, HTTP-only sessions, CSRF protection, throttling, and lockout
-- Password changes, active-session control, forced revocation, and filtered audit history
+- Active-session control and filtered audit history
 - Admin-only fast-forward GitHub updater
 - SHA-256-verified PostgreSQL backups and transactional restoration
 
@@ -241,7 +229,7 @@ UK Fire Command is a private, persistent, map-first Fire and Rescue Service mana
 - Relaxed, Standard, and Demanding incident tempos
 - Five UK-local demand periods and time-weighted incident mixes
 - Real-road OSRM routing and animated appliance travel
-- Incident escalation, on-scene resolution, immutable credit transactions, and maintenance lifecycle
+- Incident escalation, immutable credit transactions, and fleet maintenance
 - Responsive desktop, tablet, mobile, and installable web-app behaviour
 
 **Architecture:** Next.js, NestJS, PostgreSQL/PostGIS, MapLibre, OpenFreeMap, OSRM, persistent workers, and Docker Compose.
@@ -273,22 +261,11 @@ Community leadership is shared. Technical ownership, credentials, data, deployme
 
 **Current production version: `1.0.16` · Mission Finder engine: `V10.6.80`**
 
-Command Nexus is **MartyBlyth's project**. He is the creator, principal userscript author, technical owner, and release authority.
+Command Nexus is **MartyBlyth's project**. He remains its creator, principal userscript author, technical owner, and release authority.
 
-I identified that the shared Unit Naming, Station Naming, and Personnel Assignment menu did not work on the iPhone and iPad Safari devices I prefer to use. I initiated the compatibility project, asked Marty for permission to contribute, and implemented the scoped work after he approved access.
+I identified that the Unit Naming, Station Naming, and Personnel Assignment menu did not work on the iPhone and iPad Safari devices I prefer to use. I initiated the compatibility project, asked Marty for permission to contribute, and implemented the scoped work after he approved access.
 
-My contribution includes:
-
-- responsive iOS station-list detection without weakening desktop guards;
-- iPhone and iPad Safari website detection, including iPad desktop-site mode;
-- safe-area and visual-viewport positioning;
-- touch/pointer dragging while preserving panel and report scrolling;
-- responsive station discovery across Unit Naming, Station Naming, Personnel Assignment, and Personnel Register workflows;
-- managed same-origin station iframe fallback when the desktop lightbox binding is unavailable;
-- continuous single-menu enforcement after duplicate injection, fragment replacement, rotation, visibility changes, and bfcache restoration; and
-- desktop behaviour preservation.
-
-The original compatibility layer shipped in v1.0.15. Version 1.0.16 hardens station workflows and duplicate-menu handling. This contribution is credited at feature level and does not transfer ownership of Command Nexus or the underlying administration systems.
+My contribution includes responsive iOS station-list detection, iPhone/iPad desktop-site handling, safe-area and visual-viewport positioning, touch dragging, station iframe fallback, single-menu enforcement after DOM replacement or restoration, and preservation of desktop behaviour.
 
 [Repository](https://github.com/Team-Killing-Bastards/MissionChief-Command-Nexus) · [Install](https://greasyfork.org/en/scripts/587702-missionchief-command-nexus) · [Changelog](https://github.com/Team-Killing-Bastards/MissionChief-Command-Nexus/blob/main/CHANGELOG.md)
 
@@ -296,9 +273,7 @@ The original compatibility layer shipped in v1.0.15. Version 1.0.16 hardens stat
 
 **Current version: `0.5.6`**
 
-Blyth Control Centre is Marty's private household command surface. Its current implementation includes Home Assistant actions, Synology telemetry, dedicated furnished downstairs and upstairs SVG reference floorplans, live Hive/Kasa overlays, Energy/Temperature views, confirmed Hive room mappings, Emby, Radarr, Sonarr, NZBGet, protected external access, and hardened Synology Docker delivery.
-
-Live mappings include the main `climate.heating` thermostat, Living Room via `climate.front_living_room`, and Marty & Nat Bedroom via `climate.the_cave`. Betty Bedroom and Hall remain pending, while Bathroom remains visible and unavailable while its existing entity is offline. The dashboard does not fabricate room telemetry.
+Blyth Control Centre is Marty's private household command surface. Its current implementation includes Home Assistant actions, Synology telemetry, dedicated furnished downstairs and upstairs SVG floorplans, live Hive/Kasa overlays, Energy/Temperature views, Emby, Radarr, Sonarr, NZBGet, protected external access, and hardened Synology Docker delivery.
 
 **MartyBlyth is the creator, project owner, and primary developer.** My role is organisation governance and portfolio support.
 
@@ -322,12 +297,11 @@ ConroyMedia is a working home-lab environment used to operate and test real depl
 - Caddy reverse proxying and managed HTTPS routes
 - DDNS and controlled remote access
 - Emby and media automation services
-- Local dashboards and service-health monitoring
 - Windows and Linux administration
 - GitHub App, webhook, runner, and workflow integration testing
 - Backup, restore, rollback, and disaster-recovery exercises
 - Private application deployment and bounded internet exposure
-- Sanitised real-hardware compatibility research, including Tapo TD21/H200 Phase 0
+- Sanitised real-hardware compatibility research
 
 ```mermaid
 flowchart LR
@@ -363,6 +337,8 @@ This is a live operational environment. Deployment, health, routing, backup, rec
 ![FastAPI](https://img.shields.io/badge/FastAPI-111827?style=for-the-badge&logo=fastapi&logoColor=009688)
 ![Express](https://img.shields.io/badge/Express-111827?style=for-the-badge&logo=express&logoColor=white)
 ![MkDocs](https://img.shields.io/badge/MkDocs-111827?style=for-the-badge&logo=materialformkdocs&logoColor=526CFE)
+![Playwright](https://img.shields.io/badge/Playwright-111827?style=for-the-badge&logo=playwright&logoColor=2EAD33)
+
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111827?style=for-the-badge&logo=postgresql&logoColor=4169E1)
 ![SQLite](https://img.shields.io/badge/SQLite-111827?style=for-the-badge&logo=sqlite&logoColor=003B57)
 ![Redis](https://img.shields.io/badge/Redis-111827?style=for-the-badge&logo=redis&logoColor=DC382D)
@@ -386,13 +362,13 @@ This is a live operational environment. Deployment, health, routing, backup, rec
 | System | Release / state | Current posture |
 |---|---|---|
 | **Map Command Toolkit** | [![Release](https://img.shields.io/github/v/release/Conroy1988/missionchief-toolkit-assets?label=release&color=7b6cf6)](https://github.com/Conroy1988/missionchief-toolkit-assets/releases/latest) | v4.20.28 · verified public delivery and private recovery |
-| **MissionChief UK** | Architecture complete | Pages live · schemas and reference integrity · verified catalogue expanding |
+| **MissionChief UK** | [![Release](https://img.shields.io/github/v/release/Conroy1988/MissionChief-UK?label=release&color=1593d1)](https://github.com/Conroy1988/MissionChief-UK/releases/latest) | v1.0.1 · Stage 34 · 137 canonical entities · global command search · API v1 |
 | **Achievement Encyclopedia** | [![Release](https://img.shields.io/github/v/release/Conroy1988/Achievements?label=release&color=7b6cf6)](https://github.com/Conroy1988/Achievements/releases/latest) | v1.5.0 campaign · 100/100 health |
 | **Command Nexus** | [![Release](https://img.shields.io/github/v/release/Team-Killing-Bastards/MissionChief-Command-Nexus?label=release&color=7b6cf6)](https://github.com/Team-Killing-Bastards/MissionChief-Command-Nexus/releases/latest) | Marty-owned v1.0.16 · Conroy iOS Safari contribution |
 | **TKB Discord Bot** | Private | Levels 2.1 · Control Centre · GitHub Hub · Gateway · Tapo Phase 0 |
 | **Investor Matrix** | Private | Phase 0 · authenticated · backed up · recoverable |
 | **UK Fire Command** | Private | Persistent Scotland/England command loop |
-| **Blyth Control Centre** | Private | Marty-owned v0.5.6 · reference floorplans · mapped Hive/Kasa overlays |
+| **Blyth Control Centre** | Private | Marty-owned v0.5.6 · furnished floorplans · mapped Hive/Kasa overlays |
 | **LSSM contribution** | [PR #3982](https://github.com/LSS-Manager/LSSM-V.4/pull/3982) | Upstream review |
 
 ---
@@ -431,7 +407,7 @@ Development is routinely supervised by **Eli and Nala**, who contribute no code 
 
 ### Build useful systems. Operate them seriously. Improve them with evidence.
 
-**Software · Automation · Operations · Knowledge · Research · Game systems · Community infrastructure**
+**Software · Automation · Operations · Command intelligence · Research · Game systems · Community infrastructure**
 
 [![GitHub](https://img.shields.io/badge/OPEN-GITHUB_PROFILE-45e0ef?style=for-the-badge&logo=github&logoColor=white&labelColor=080d17)](https://github.com/Conroy1988)
 [![TKB](https://img.shields.io/badge/OPEN-TKB_ORGANISATION-7b6cf6?style=for-the-badge&logo=github&logoColor=white&labelColor=080d17)](https://github.com/Team-Killing-Bastards)
