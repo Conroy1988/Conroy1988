@@ -30,6 +30,25 @@ jobs:
         with:
           python-version: "3.12"
 
+      - name: Synchronise portfolio constants
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+
+          path = Path("scripts/generate_profile_cards.py")
+          text = path.read_text(encoding="utf-8")
+          replacements = {
+              "FIRST_PARTY_SYSTEMS = 5": "FIRST_PARTY_SYSTEMS = 6",
+              '"public_repositories": 5,': '"public_repositories": 6,',
+          }
+          for old, new in replacements.items():
+              if old in text:
+                  text = text.replace(old, new)
+              elif new not in text:
+                  raise SystemExit(f"Profile generator constant could not be located safely: {old}")
+          path.write_text(text, encoding="utf-8", newline="\n")
+          PY
+
       - name: Generate repository-owned cards
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -56,16 +75,20 @@ jobs:
               raise SystemExit(f"Unexpected generated files: {sorted(files)}")
           for path in Path("assets/profile-cards").glob("*.svg"):
               ElementTree.parse(path)
+
+          overview = Path("assets/profile-cards/overview.svg").read_text(encoding="utf-8")
+          if "FIRST-PARTY SYSTEMS" not in overview or ">6</text>" not in overview:
+              raise SystemExit("Overview card does not show the six-system portfolio")
           PY
 
       - name: Commit refreshed cards
         run: |
-          if git diff --quiet -- README.md assets/profile-cards; then
+          if git diff --quiet -- README.md scripts/generate_profile_cards.py assets/profile-cards; then
             echo "Profile cards are already current."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md assets/profile-cards
+          git add README.md scripts/generate_profile_cards.py assets/profile-cards
           git commit -m "Refresh repository-owned profile cards"
           git push
