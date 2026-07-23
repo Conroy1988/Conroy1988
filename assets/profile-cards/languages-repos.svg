@@ -18,12 +18,12 @@
   <circle cx="29" cy="36" r="7" fill="#45e0ef"/>
   <text x="48" y="43" fill="#70a5fd" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">Languages by Repository</text>
   <text x="28" y="67" fill="#a9b1d6" font-family="Segoe UI, Arial, sans-serif" font-size="12">Primary language across public first-party source repositories</text>
-  <text x="28" y="105" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="12">Python</text>
+  <text x="28" y="105" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="12">JavaScript</text>
   <rect x="126" y="94" width="260" height="13" rx="6" fill="#21262d"/>
-  <rect x="126" y="94" width="250" height="13" rx="6" fill="#3776ab"/>
-  <text x="400" y="105" text-anchor="end" fill="#3776ab" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">2</text>
-  <text x="28" y="136" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="12">JavaScript</text>
+  <rect x="126" y="94" width="250" height="13" rx="6" fill="#f7df1e"/>
+  <text x="400" y="105" text-anchor="end" fill="#f7df1e" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">2</text>
+  <text x="28" y="136" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="12">Python</text>
   <rect x="126" y="125" width="260" height="13" rx="6" fill="#21262d"/>
-  <rect x="126" y="125" width="250" height="13" rx="6" fill="#f7df1e"/>
-  <text x="400" y="136" text-anchor="end" fill="#f7df1e" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">2</text>
+  <rect x="126" y="125" width="250" height="13" rx="6" fill="#3776ab"/>
+  <text x="400" y="136" text-anchor="end" fill="#3776ab" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">2</text>
 </svg>
