@@ -67,17 +67,17 @@ My professional background in **office and operations management** directly shap
 | **Community and governance** | Team Killing Bastards | Founder, original owner, community leader, organisation governance, and technical direction |
 | **Scoped userscript contribution** | MissionChief Command Nexus v1.0.15–v1.0.18 | Initiated and implemented the iOS Safari administration, station-workflow, and Mission Control layers with Marty's permission |
 | **Project support** | Command Nexus; Blyth Control Centre | Repository, documentation, governance, and delivery support without claiming Marty-owned systems |
-| **Open source** | LSSM V.4 | Scoped upstream contribution under upstream maintainer authority |
+| **Open source** | LSSM V.4 PRs #3982 and #3988 | Two scoped upstream features submitted under upstream maintainer authority |
 | **Infrastructure** | ConroyMedia | Docker, Caddy, networking, service monitoring, runners, backup, recovery, and private deployment operations |
 
 ## Six first-party systems
 
 | System | Current state | Core purpose |
 |---|---|---|
-| **MissionChief Map Command Toolkit** | Verified `v4.20.35` | Mission intelligence, specialist fleet identity, map coverage, transport, finance, and configurable command interfaces |
-| **MissionChief UK** | Production `v1.0.1` · Stage 34 · API v1 | Verified UK operations data, instant command search, interactive planning, service doctrine, and public machine-readable exports |
+| **MissionChief Map Command Toolkit** | Verified `v5.0.7` | Operational Window Suite, live requirements intelligence, fleet identity, geographic command, transport assistance, finance, and seven interface systems |
+| **MissionChief UK** | Production `v1.1.0` · Stage 34 complete · Static API v1.1.0 | Complete official UK mission catalogue, evidence-controlled canonical intelligence, instant command search, planning, and public data |
 | **GitHub Achievement Encyclopedia** | Formal `v1.4.0` · active `v1.5.0` campaign | Evidence-led achievement research, guides, timelines, monitoring, and static API |
-| **TKB Discord Bot** | Current repository release baseline | Discord automation, Levels 2.1, Command Centre, Service Monitor Centre, Smart Home ingress, GitHub Integration Hub, HTTPS Gateway, moderation, and deployment operations |
+| **TKB Discord Bot** | Current `main` through Service Status Board and host-telemetry recovery | Discord command systems, community progression, operational monitoring, GitHub automation, gateway management, deployment, and recovery |
 | **Investor Matrix** | Phase 0 | Authenticated market-intelligence and risk-control foundation with tested recovery |
 | **UK Fire Command** | Active development | Persistent Scotland/England Fire and Rescue management game |
 
@@ -87,28 +87,43 @@ My professional background in **office and operations management** directly shap
 
 ## MissionChief Map Command Toolkit
 
-### A complete operational command layer for MissionChief
+### A versioned operational-window and map-command platform for MissionChief
 
-**Current verified release: `v4.20.35`**
+**Current verified release: `v5.0.7`**
 
-The Toolkit transforms the MissionChief map into a configurable operations console covering:
+Toolkit v5 moves beyond a requirements-only panel. It coordinates four mission-window families through one bounded lifecycle owner:
 
-- Mission Age Watch, Critical View, Mission Inspector, and Major Incident Feed
-- Live Mission Requirements with required, on-site, responding, selected, and still-needed reconciliation
-- Patient and prisoner transport monitoring and controlled alliance Transport Sweep
+| Operational family | Current role |
+|---|---|
+| **Enhanced Operational Requirements** | Reconciles vehicles, equipment, personnel, trailers, selected units, en-route units, on-scene units, and remaining demand |
+| **Extended Call Window** | Adds patient and vehicle summaries, selected/ARR counters, search, highlighting, generation context, keywords, and map controls |
+| **Extended Mission List** | Adds sorting, starring, collapsing, patient/prisoner indicators, credit and time badges, and native sharing controls |
+| **Enhanced Transport Requests** | Provides opt-in guarded transport assistance with exact-route validation, ambiguity rejection, and duplicate protection |
+
+The requirements engine keeps **Covered**, **Open**, **Waiting**, and **Unresolved** states distinct. It scores native and compatible LSSM evidence sources, rebinds when MissionChief replaces the authoritative panel, suppresses genuinely visible duplicate interfaces, and fails closed when evidence is insufficient.
+
+The wider platform retains:
+
+- Mission Age Watch, Critical View, Mission Inspector, Major Incident Feed, Mission Spawn, and Stuck Detector
+- Patient and prisoner transport monitoring plus controlled alliance Transport Sweep
 - Specialist Own Vehicle Category badges without replacing native vehicle identity
-- Resource Gap, fleet-code posture, vehicle loading, and map visibility controls
+- Resource Gap, fleet-code posture, vehicle loading, and visibility controls
 - Heat maps, coverage rings, bookmarks, focus modes, and geographic command workflows
 - Alliance mission value, session performance, payout presentation, and Financial Advisor reporting
-- Seven complete interface systems across desktop, ultrawide, tablet, iPhone, and iPad layouts
-- Canonical source, audit evidence, manifests, Greasy Fork parity, checksums, and private recovery archives
+- Seven complete interface systems across desktop, ultrawide, tablet, iPhone, and iPad
+- automatic preservation of established Toolkit settings when upgrading from v4
+- validated GitHub Release, Greasy Fork parity, stable manifests, checksums, Discord publication, and private recovery archives
 
-### Current production line
+### Current v5 production line
 
-- **v4.20.29** rebuilt the full iPhone/iPad Safari experience around safe areas, visual-viewport recovery, 44px interaction targets, split view, browser chrome, orientation changes, and reachable scrolling.
-- **v4.20.30–v4.20.33** isolated payout/audio, device-layout, mission-monitoring, and interface-shell lifecycles into independently testable ownership boundaries.
-- **v4.20.34** extracted mission-marker candidate discovery and mission-ID normalisation without changing ownership, coordinates, timing, requirements, or presentation.
-- **v4.20.35** added complete standalone **Rescue Support Vehicle** Matrix tracking while preserving PRV and SRV as separate requirement families.
+- **v5.0.0** introduced the coordinated Operational Window Suite.
+- **v5.0.1–v5.0.3** recovered startup, isolated launcher bootstrap, and corrected a fatal preboot ordering defect.
+- **v5.0.4** stopped missing evidence from appearing as confirmed green coverage.
+- **v5.0.5** added authoritative native/LSSM source discovery, raw-data recovery, and rebinding.
+- **v5.0.6** restored launcher lifecycle, typed settings, runtime mapping, and Mission Age labels.
+- **v5.0.7** preserved collapsed command state, isolated child mission frames, and added one bounded same-origin mission-page recovery path.
+
+Repository governance now inventories and enforces public-main write paths while moving dry-run, audit, and validation-candidate evidence into retained read-only Actions artefacts rather than committing transient output to `main`.
 
 [![Release](https://img.shields.io/github/v/release/Conroy1988/missionchief-toolkit-assets?display_name=release&label=RELEASE&color=7b6cf6&style=flat-square)](https://github.com/Conroy1988/missionchief-toolkit-assets/releases/latest)
 [![Greasy Fork](https://img.shields.io/greasyfork/v/586018?label=GREASY%20FORK&color=45e0ef&style=flat-square)](https://greasyfork.org/en/scripts/586018-missionchief-map-command-toolkit)
@@ -118,41 +133,48 @@ The Toolkit transforms the MissionChief map into a configurable operations conso
 
 ## MissionChief UK
 
-### Verified UK operations intelligence with a global command interface
+### Complete official UK mission coverage with evidence-controlled command intelligence
 
-**Production release: `v1.0.1` · Stage 34 complete · Static API v1 · GitHub Pages live**
+**Production release: `v1.1.0` · Stage 34 complete · Static API v1.1.0 · GitHub Pages live**
 
-MissionChief UK is a production command-intelligence platform built around one controlled UK data estate.
+MissionChief UK now combines the complete official United Kingdom mission catalogue with conservative canonical records and an enforced five-gate verification programme.
 
-| Collection | Published records |
+| Intelligence domain | Current baseline |
 |---|---:|
-| Verified missions | **62** |
-| Canonical deployable resources | **46** |
+| Official UK missions | **1,062** |
+| Canonical mission records | **284** |
+| Official/canonical exact-ID matches | **267** |
+| Fully canonical missions | **226** |
+| Official records awaiting a canonical record | **795** |
+| Canonical-only overlays | **17** |
+| Deployable resources | **48** |
 | Buildings and extensions | **18** |
-| Qualifications | **11** |
-| Searchable canonical entities | **137** |
+| Qualifications | **12** |
+| Canonical searchable entities | **362** |
+
+Every official mission progresses through **Captured**, **Identity verified**, **Requirements mapped**, **Operationally verified**, and **Fully canonical** gates. Unknown game fields remain visible instead of being guessed.
 
 ### Operational capability
 
-- Global **`Ctrl+K` / `⌘K` command palette** across the complete site
+- Complete Mission Lookup across all 1,062 official records and the canonical data estate
+- Global **`Ctrl+K` / `⌘K` / `/` command palette** across the complete site
+- Live verification-status interface exposing each mission's gate, blockers, and next action
 - Collection filtering and deep links into Mission Lookup and the Query Catalogue
-- Mission Lookup with requirements, preconditions, rewards, patients, and evidence posture
 - Resource and qualification comparison
 - Concurrent Fleet Planner for repeated incident demand
 - Natural-language Query Catalogue
-- Versioned JSON exports, manifest, search index, generated FAQ, and OpenAPI 3.1 contract
-- Service doctrine spanning core, maritime, remote, specialist, recovery, airfield, EOD, and railway operations
-- Strict schema, relationship, range, release, documentation-link, and built-site validation
-- Chromium, Firefox, iPhone WebKit, and iPad WebKit browser acceptance
-- Responsive comparison tools, viewport-overflow protection, critical WCAG A/AA scanning, and retained failure diagnostics
+- Versioned canonical, official, verification, manifest, search-index, FAQ, and OpenAPI data surfaces
+- Strict schema, relationship, range, release, evidence, documentation-link, and built-site validation
+- Chromium, Firefox, iPhone WebKit, and iPad WebKit acceptance coverage
+- Responsive intelligence tools, viewport-overflow protection, critical WCAG A/AA scanning, and retained failure diagnostics
 
-The command interface reads the same validated first-party exports used by the documentation. It does not authenticate against MissionChief, modify an account, or store player search history.
+The public tools are browser-side and read-only. They do not authenticate against, access, or modify a MissionChief account.
 
 [![Release](https://img.shields.io/github/v/release/Conroy1988/MissionChief-UK?label=RELEASE&color=1593d1&style=flat-square)](https://github.com/Conroy1988/MissionChief-UK/releases/latest)
 [![Validation](https://github.com/Conroy1988/MissionChief-UK/actions/workflows/validate.yml/badge.svg)](https://github.com/Conroy1988/MissionChief-UK/actions/workflows/validate.yml)
 [![Pages](https://img.shields.io/badge/GITHUB_PAGES-LIVE-45e0ef?style=flat-square&labelColor=151b2b)](https://conroy1988.github.io/MissionChief-UK/)
 
-[Command Centre](https://conroy1988.github.io/MissionChief-UK/) · [Mission Lookup](https://conroy1988.github.io/MissionChief-UK/tools/mission-lookup/) · [Fleet Planner](https://conroy1988.github.io/MissionChief-UK/tools/fleet-planner/) · [Static API](https://conroy1988.github.io/MissionChief-UK/api/) · [Repository](https://github.com/Conroy1988/MissionChief-UK)
+[Command Centre](https://conroy1988.github.io/MissionChief-UK/) · [Mission Lookup](https://conroy1988.github.io/MissionChief-UK/tools/mission-lookup/) · [Verification Status](https://conroy1988.github.io/MissionChief-UK/reference/mission-verification-status/) · [Fleet Planner](https://conroy1988.github.io/MissionChief-UK/tools/fleet-planner/) · [Static API](https://conroy1988.github.io/MissionChief-UK/api/) · [Repository](https://github.com/Conroy1988/MissionChief-UK)
 
 ## GitHub Achievement Encyclopedia
 
@@ -181,26 +203,38 @@ The Encyclopedia keeps official documentation, reproduced behaviour, historical 
 
 **Sole developer · Maintainer · Security and operational authority**
 
-The TKB Discord Bot is the private operational backbone of the Team Killing Bastards Discord and development environment.
+The TKB Discord Bot is the private operational backbone of the Team Killing Bastards Discord, GitHub estate, and ConroyMedia monitoring environment.
 
-### Current repository capability
+### Community command platform
 
-- Discord commands, events, scheduler, countdowns, messaging, starboard, Battlefield, AI, and media integrations
-- Moderation logging and immutable case management
-- FastAPI **Control Centre 2.0** with authenticated workspaces
-- Transactional SQLite state and encrypted credentials
-- Managed Caddy HTTPS Gateway with validation, adoption, rollback, reconciliation, and abandon workflows
-- Backup, update, restore, rollback, and restricted host-agent evidence
 - Levels 2.1 with one million titles, challenges, streaks, seasons, squads, campaigns, badges, and audited special titles
-- Requester-bound **`/tkb` Discord Command Centre** using the shared TKB presentation system
-- Configurable **Service Monitor Centre** with scheduled checks, anti-flapping states, bounded history, per-monitor Discord routing, cooldown grouping, retries, and persistent incident evidence
-- Private-LAN **Smart Home ingress** with encrypted Home Assistant credentials, server-side device mappings, replay protection, and fixed Discord alert plans
-- Separate TKB, Conroy1988, and MartyBlyth GitHub workspaces
-- GitHub Apps, signed webhooks, repository-specific Discord delivery, retries, dead letters, workflow evidence, and audited sign-off
-- Linux and Windows trust-scoped ephemeral JIT runners
-- Controlled Windows JIT verification for non-admin identity, isolated leases, secret boundaries, and denied Docker-daemon access
+- requester-bound **`/tkb` Command Centre** and expanded persistent community command board
+- owner-only **`/ops` console** with bounded operational evidence and exact-confirmation controls
+- mandatory per-category Discord channel routing with optional member DM copies
+- restart-safe notification delivery, persistent evidence, bounded retry, and source-channel level-up announcements
+- moderation logging, immutable case management, scheduling, starboard, Battlefield, AI, media, and community automation
 
-The Smart Home implementation does **not** provide arbitrary Home Assistant service calls, public event ingress, camera streams, generic device control, shell execution, or unrestricted Discord payloads. Production deployment and live acceptance are evidenced separately from repository implementation.
+### ConroyMedia operations layer
+
+- configurable Service Monitor Centre with scheduled checks, anti-flapping states, bounded history, incident routing, cooldown grouping, and retries
+- fullscreen retro **Service Watchboard** with automatic monitor discovery, kiosk layouts, incremental heartbeats, and wake-lock support
+- **Core Telemetry Deck** with bounded Windows host CPU, RAM, uptime, storage, and container posture
+- automatic **Incident Command Deck** takeover for active service, host-resource, and monitoring-plane incidents
+- one persistent Discord **Service Status Board** with restart recovery, state-change coalescing, incident posture, and optional host metrics
+- recovered native/CIM Windows RAM and fixed-drive telemetry with per-metric isolation and bounded last-known-good retention
+
+### Secured infrastructure and integration
+
+- FastAPI **Control Centre 2.0** with authenticated workspaces and protected unsaved form state
+- transactional SQLite state and encrypted credentials
+- managed Caddy HTTPS Gateway with validation, adoption, rollback, reconciliation, and interrupted-operation recovery
+- backup, update, restore, automatic rollback, and restricted host-agent evidence
+- private-LAN Smart Home ingress with encrypted Home Assistant credentials, server-side mappings, replay protection, and fixed Discord alert plans
+- separate Team-Killing-Bastards, Conroy1988, and MartyBlyth GitHub workspaces
+- GitHub Apps, signed webhooks, repository-specific Discord delivery, dead letters, workflow evidence, controlled retry/reconciliation, and audited sign-off
+- Linux and Windows trust-scoped ephemeral JIT runners with non-admin and no-Docker-daemon verification
+
+The application container still receives no raw Docker socket or unrestricted host-command access. Smart Home does not expose generic Home Assistant service calls, public ingress, camera streams, or arbitrary device control.
 
 [🔒 Private repository](https://github.com/Team-Killing-Bastards/TKB-Discord-Bot)
 
@@ -254,7 +288,7 @@ I retain founder and original-owner responsibility for the community's identity,
 |---|---|---|
 | **TKB Discord Bot** | Conroy1988 | Sole developer, maintainer, security authority, and operator |
 | **Investor Matrix** | Conroy1988 | Project lead, Admin authority, and delivery owner |
-| **MissionChief Command Nexus** | MartyBlyth | Project helper plus scoped v1.0.15–v1.0.18 iOS Safari contributor |
+| **MissionChief Command Nexus** | MartyBlyth | Project helper; current product v1.0.21; scoped v1.0.15–v1.0.18 iOS Safari contributor |
 | **Blyth Control Centre** | MartyBlyth | Organisation governance and portfolio support |
 
 Community leadership is shared. Technical ownership, credentials, data, deployment authority, and release control remain explicit for every system.
@@ -265,35 +299,35 @@ Community leadership is shared. Technical ownership, credentials, data, deployme
 
 ## MissionChief Command Nexus — iOS Safari compatibility
 
-**Current production version: `1.0.18` · Mission Finder engine: `V10.6.83`**
+**Current production version: `1.0.21` · Mission Finder engine: `V10.6.86`**
 
 Command Nexus is **MartyBlyth's project**. He remains its creator, principal userscript author, technical owner, and release authority.
 
 I identified that the shared Unit, Station and Personnel workflow did not operate correctly on the iPhone and iPad Safari devices I use. I initiated the compatibility project, asked Marty for permission to contribute, and implemented the scoped work after he approved access.
 
-My contribution now covers:
+My contribution remains deliberately bounded to:
 
 - **v1.0.15** — responsive iOS station-list detection, iPhone/iPad desktop-site handling, safe-area and visual-viewport positioning, touch dragging, and station iframe fallback
 - **v1.0.16** — single-menu enforcement after duplicate injection, Safari bfcache restoration, and page-fragment replacement
-- **v1.0.18** — a dedicated iOS Safari Mission Control layout that opens at the safe-area top, stacks panels to the mobile viewport, supports internal scrolling and pointer dragging, and adds independent collapse behaviour without changing desktop Mission Control
+- **v1.0.18** — dedicated iOS Safari Mission Control layout with safe-area positioning, mobile-width panel stacking, internal scrolling, pointer dragging, and independent collapse behaviour without changing desktop Mission Control
 
-The Fire ICCU, OSU, and RRU personnel profiles released alongside v1.0.18 remain Marty's underlying userscript work.
+The current v1.0.21 product additionally contains Marty's Fire cross-reference mappings and Mission Finder V10.6.86 work. Those later product changes do not expand my scoped authorship claim.
 
 [Repository](https://github.com/Team-Killing-Bastards/MissionChief-Command-Nexus) · [Install](https://greasyfork.org/en/scripts/587702-missionchief-command-nexus) · [Changelog](https://github.com/Team-Killing-Bastards/MissionChief-Command-Nexus/blob/main/CHANGELOG.md)
 
 ## Blyth Control Centre
 
-**Current version: `0.5.8`**
+**Current version: `0.9.0`**
 
-Blyth Control Centre is Marty's private household command surface. Its current implementation includes:
+Blyth Control Centre is Marty's private household and infrastructure command surface. Its current release line includes:
 
-- a real downstairs floorplan with movable live overlays;
-- furnished upstairs presentation;
-- Home Assistant actions and Hive/Kasa energy/temperature state;
-- Synology telemetry;
-- Emby, Radarr, Sonarr, and NZBGet integration;
-- protected external access; and
-- hardened Synology Docker delivery.
+- detailed downstairs and upstairs floorplans with live room overlays;
+- Home Assistant, Hive, weather, energy, printer-energy, Synology, and media intelligence;
+- UniFi gateway, switch, access-point, Wi-Fi, and client reporting;
+- a dedicated Printers tab for X2D, H2D, and P1S energy data;
+- container health, restart, update, immutable GHCR restore, and persistent audit controls through an opt-in NAS deployment agent;
+- hourly LibreSpeed WAN tests with retained download, upload, latency, jitter, reliability, Day/Week/Month/Year history, manual testing, detailed reports, and CSV export; and
+- hardened Synology Docker delivery with server-side credentials and controlled external access.
 
 **MartyBlyth is the creator, project owner, and primary developer.** My role is organisation governance and portfolio support.
 
@@ -301,11 +335,17 @@ Blyth Control Centre is Marty's private household command surface. Its current i
 
 ## Open Source and Upstream Work
 
-My current upstream LSSM V.4 pull request adds optional monospaced note editing and preview support across supported locales.
+I currently have **two open and mergeable upstream LSSM V.4 pull requests**. Both are scoped contributions submitted to the upstream maintainers; neither changes LSSM ownership or release authority.
 
-[![Upstream PR](https://img.shields.io/badge/UPSTREAM_PR-%233982-7b6cf6?style=flat-square&logo=github)](https://github.com/LSS-Manager/LSSM-V.4/pull/3982)
+| Pull request | Contribution | Current scope |
+|---|---|---|
+| [**#3982 — Optional monospaced notes**](https://github.com/LSS-Manager/LSSM-V.4/pull/3982) | Implements issue #2906 | Adds an opt-in `noteMonospace` setting for the native and redesigned note editor/preview, disabled by default, with documentation and localisation across ten supported locales |
+| [**#3988 — Alliance member role filters**](https://github.com/LSS-Manager/LSSM-V.4/pull/3988) | Implements issue #2271 | Adds a new Alliance member-list module with sequential load-all-pages, de-duplication, role and online/offline filters, original/name/role/activity sorting, ascending/descending control, documentation, and four locales |
 
-The upstream project retains full ownership, merge authority, and release control. My `LSSM-V.4` and `RED4ext` repositories are forks/reference workspaces—not first-party products.
+[![LSSM PR 3982](https://img.shields.io/badge/LSSM_PR-%233982-7b6cf6?style=flat-square&logo=github)](https://github.com/LSS-Manager/LSSM-V.4/pull/3982)
+[![LSSM PR 3988](https://img.shields.io/badge/LSSM_PR-%233988-22d3a6?style=flat-square&logo=github)](https://github.com/LSS-Manager/LSSM-V.4/pull/3988)
+
+Both pull requests remain under upstream review. The upstream project retains full ownership, merge authority, translation review, and release control. My `LSSM-V.4` and `RED4ext` repositories remain forks/reference workspaces—not first-party products.
 
 ---
 
@@ -317,12 +357,14 @@ ConroyMedia is a working home-lab environment used to operate and test real depl
 - Caddy reverse proxying and managed HTTPS routes
 - DDNS and controlled remote access
 - Emby and media automation services
-- Configurable service monitoring with scheduled checks and Discord incident delivery
+- scheduled service monitoring with anti-flapping state and Discord incident delivery
+- fullscreen Service Watchboard, Core Telemetry, automatic Incident Command, and a persistent Discord status board
+- bounded Windows CPU, RAM, uptime, fixed-drive, and container telemetry
 - Windows and Linux administration
 - GitHub App, webhook, runner, and workflow integration testing
-- Backup, restore, rollback, and disaster-recovery exercises
-- Private application deployment and bounded internet exposure
-- Sanitised real-hardware and Home Assistant compatibility work
+- backup, restore, rollback, and disaster-recovery exercises
+- private application deployment and bounded internet exposure
+- sanitised real-hardware and Home Assistant compatibility work
 
 ```mermaid
 flowchart LR
@@ -332,8 +374,14 @@ flowchart LR
     Runners --> Validation[Windows and Linux validation]
 
     Services[Self-hosted services] --> Monitor[Service Monitor Centre]
-    Monitor --> Incidents[Bounded incident evidence]
-    Incidents --> Discord
+    Host[Windows host telemetry] --> Telemetry[Core Telemetry Deck]
+    Monitor --> Watch[Service Watchboard]
+    Telemetry --> Watch
+    Monitor --> Incident[Incident Command Deck]
+    Telemetry --> Incident
+    Watch --> Status[Persistent Discord Status Board]
+    Incident --> Status
+    Status --> Discord
 
     Home[Private-LAN Home Assistant] --> Smart[Authenticated Smart Home ingress]
     Smart --> Discord
@@ -347,7 +395,7 @@ flowchart LR
     Control --> Data
 ```
 
-This is a live operational environment. Deployment, health, routing, monitoring, backup, recovery, and integration claims are expected to survive real use.
+This is a live operational environment. Deployment, health, routing, monitoring, telemetry, backup, recovery, and integration claims are expected to survive real use.
 
 ---
 
@@ -389,15 +437,16 @@ This is a live operational environment. Deployment, health, routing, monitoring,
 
 | System | Release / state | Current posture |
 |---|---|---|
-| **Map Command Toolkit** | [![Release](https://img.shields.io/github/v/release/Conroy1988/missionchief-toolkit-assets?label=release&color=7b6cf6)](https://github.com/Conroy1988/missionchief-toolkit-assets/releases/latest) | v4.20.35 · standalone Rescue Support Vehicle Matrix tracking · verified delivery and recovery |
-| **MissionChief UK** | [![Release](https://img.shields.io/github/v/release/Conroy1988/MissionChief-UK?label=release&color=1593d1)](https://github.com/Conroy1988/MissionChief-UK/releases/latest) | v1.0.1 · Stage 34 · 137 canonical entities · global command search · API v1 |
-| **Achievement Encyclopedia** | [![Release](https://img.shields.io/github/v/release/Conroy1988/Achievements?label=release&color=7b6cf6)](https://github.com/Conroy1988/Achievements/releases/latest) | v1.5.0 campaign · 100/100 health |
-| **Command Nexus** | [![Release](https://img.shields.io/github/v/release/Team-Killing-Bastards/MissionChief-Command-Nexus?label=release&color=7b6cf6)](https://github.com/Team-Killing-Bastards/MissionChief-Command-Nexus/releases/latest) | Marty-owned v1.0.18 · Conroy iOS Safari administration and Mission Control contribution |
-| **TKB Discord Bot** | Private | Levels 2.1 · `/tkb` Command Centre · Service Monitor Centre · Smart Home ingress · GitHub Hub · Gateway |
+| **Map Command Toolkit** | [![Release](https://img.shields.io/github/v/release/Conroy1988/missionchief-toolkit-assets?label=release&color=7b6cf6)](https://github.com/Conroy1988/missionchief-toolkit-assets/releases/latest) | v5.0.7 · Operational Window Suite · authoritative native/LSSM evidence · artifact-only validation and audit evidence |
+| **MissionChief UK** | [![Release](https://img.shields.io/github/v/release/Conroy1988/MissionChief-UK?label=release&color=1593d1)](https://github.com/Conroy1988/MissionChief-UK/releases/latest) | v1.1.0 · 1,062 official missions · 284 canonical · 226 fully canonical · 362 canonical entities |
+| **Achievement Encyclopedia** | [![Release](https://img.shields.io/github/v/release/Conroy1988/Achievements?label=release&color=7b6cf6)](https://github.com/Conroy1988/Achievements/releases/latest) | v1.5.0 campaign · 9 guides · 16 API endpoints · 100/100 health |
+| **Command Nexus** | [![Release](https://img.shields.io/github/v/release/Team-Killing-Bastards/MissionChief-Command-Nexus?label=release&color=7b6cf6)](https://github.com/Team-Killing-Bastards/MissionChief-Command-Nexus/releases/latest) | Marty-owned v1.0.21 · Conroy scoped iOS Safari work remains v1.0.15–v1.0.18 |
+| **TKB Discord Bot** | Private | Discord Command Centre · `/ops` · restart-safe notifications · Watchboard · Core Telemetry · Incident Command · Discord Status Board · GitHub Hub · Gateway |
 | **Investor Matrix** | Private | Phase 0 · authenticated · backed up · recoverable |
 | **UK Fire Command** | Private | Persistent Scotland/England command loop |
-| **Blyth Control Centre** | Private | Marty-owned v0.5.8 · real downstairs floorplan · live household overlays |
-| **LSSM contribution** | [PR #3982](https://github.com/LSS-Manager/LSSM-V.4/pull/3982) | Open and mergeable upstream review |
+| **Blyth Control Centre** | Private | Marty-owned v0.9.0 · home/energy/media · guarded operations · UniFi · hourly Network Operations |
+| **LSSM contribution #1** | [PR #3982](https://github.com/LSS-Manager/LSSM-V.4/pull/3982) | Open and mergeable · optional monospaced native/redesigned note editing and preview |
+| **LSSM contribution #2** | [PR #3988](https://github.com/LSS-Manager/LSSM-V.4/pull/3988) | Open and mergeable · Alliance member loading, role/activity filters, and sorting |
 
 ---
 
