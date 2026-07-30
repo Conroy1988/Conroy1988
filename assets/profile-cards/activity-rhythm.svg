@@ -34,14 +34,14 @@
   <rect x="195" y="220" width="10" height="2" rx="3" fill="#9A7CFF" opacity="0.18"/>
   <rect x="210" y="220" width="10" height="2" rx="3" fill="#9A7CFF" opacity="0.18"/>
   <rect x="225" y="203" width="10" height="17" rx="3" fill="#9A7CFF" opacity="1"/>
-  <rect x="240" y="220" width="10" height="2" rx="3" fill="#9A7CFF" opacity="0.18"/>
+  <rect x="240" y="200" width="10" height="20" rx="3" fill="#9A7CFF" opacity="1"/>
   <rect x="255" y="220" width="10" height="2" rx="3" fill="#9A7CFF" opacity="0.18"/>
   <rect x="270" y="220" width="10" height="2" rx="3" fill="#9A7CFF" opacity="0.18"/>
   <rect x="285" y="220" width="10" height="2" rx="3" fill="#9A7CFF" opacity="0.18"/>
   <rect x="300" y="220" width="10" height="2" rx="3" fill="#9A7CFF" opacity="0.18"/>
-  <rect x="315" y="216" width="10" height="4" rx="3" fill="#9A7CFF" opacity="1"/>
+  <rect x="315" y="220" width="10" height="2" rx="3" fill="#9A7CFF" opacity="0.18"/>
   <rect x="330" y="220" width="10" height="2" rx="3" fill="#9A7CFF" opacity="0.18"/>
-  <rect x="345" y="144" width="10" height="76" rx="3" fill="#9A7CFF" opacity="1"/>
+  <rect x="345" y="162" width="10" height="58" rx="3" fill="#9A7CFF" opacity="1"/>
   <rect x="360" y="205" width="10" height="15" rx="3" fill="#9A7CFF" opacity="1"/>
   <rect x="375" y="220" width="10" height="2" rx="3" fill="#9A7CFF" opacity="0.18"/>
   <text x="35" y="242" text-anchor="middle" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="9">0</text>  <text x="125" y="242" text-anchor="middle" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="9">6</text>  <text x="215" y="242" text-anchor="middle" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="9">12</text>  <text x="305" y="242" text-anchor="middle" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="9">18</text>  <text x="380" y="242" text-anchor="middle" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="9">23</text>
