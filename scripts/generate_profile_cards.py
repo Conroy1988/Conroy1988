@@ -34,9 +34,9 @@ PALETTE = {
     "C#": "#178600",
     "C++": "#f34b7d",
     "Vue": "#41b883",
-    "Other": "#7b6cf6",
+    "Other": "#9A7CFF",
 }
-FALLBACK_COLORS = ["#7b6cf6", "#45e0ef", "#d866ef", "#22d3a6", "#ca8a04"]
+FALLBACK_COLORS = ["#9A7CFF", "#58E6D9", "#FF7A70", "#F2B84B", "#5E8CFF"]
 
 
 def api_get(path: str) -> Any:
@@ -164,28 +164,28 @@ def svg_shell(width: int, height: int, title: str, subtitle: str, body: str) -> 
   <desc id="card-desc">{safe_subtitle}</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0d1117"/>
-      <stop offset="0.55" stop-color="#151827"/>
-      <stop offset="1" stop-color="#101522"/>
+      <stop offset="0" stop-color="#071017"/>
+      <stop offset="0.55" stop-color="#0B151E"/>
+      <stop offset="1" stop-color="#0E1019"/>
     </linearGradient>
     <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#45e0ef"/>
-      <stop offset="0.5" stop-color="#7b6cf6"/>
-      <stop offset="1" stop-color="#d866ef"/>
+      <stop offset="0" stop-color="#58E6D9"/>
+      <stop offset="0.5" stop-color="#9A7CFF"/>
+      <stop offset="1" stop-color="#FF7A70"/>
     </linearGradient>
   </defs>
-  <rect x="1" y="1" width="{width - 2}" height="{height - 2}" rx="18" fill="url(#background)" stroke="#30363d" stroke-width="2"/>
+  <rect x="1" y="1" width="{width - 2}" height="{height - 2}" rx="18" fill="url(#background)" stroke="#293640" stroke-width="2"/>
   <rect x="1" y="1" width="{width - 2}" height="5" rx="3" fill="url(#accent)"/>
-  <circle cx="29" cy="36" r="7" fill="#45e0ef"/>
-  <text x="48" y="43" fill="#70a5fd" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700">{safe_title}</text>
-  <text x="28" y="67" fill="#a9b1d6" font-family="Segoe UI, Arial, sans-serif" font-size="12">{safe_subtitle}</text>
+  <circle cx="29" cy="36" r="7" fill="#58E6D9"/>
+  <text x="48" y="43" fill="#F4F1EB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="800">{safe_title}</text>
+  <text x="28" y="67" fill="#8E9CAB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">{safe_subtitle}</text>
 {body}
 </svg>
 '''
 
 
 def metric_tile(x: int, label: str, value: str, detail: str, accent: str) -> str:
-    return f'''  <rect x="{x}" y="91" width="190" height="116" rx="14" fill="#161b22" stroke="#30363d"/>
+    return f'''  <rect x="{x}" y="91" width="190" height="116" rx="14" fill="#0D171E" stroke="#293640"/>
   <rect x="{x}" y="91" width="5" height="116" rx="3" fill="{accent}"/>
   <text x="{x + 20}" y="123" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="600">{escape(label.upper())}</text>
   <text x="{x + 20}" y="169" fill="{accent}" font-family="Segoe UI, Arial, sans-serif" font-size="38" font-weight="800">{escape(value)}</text>
@@ -196,11 +196,11 @@ def overview_svg(data: dict[str, Any]) -> str:
     updated = data["updated_at"].strftime("%d %b %Y · %H:%M UTC")
     body = "\n".join(
         [
-            metric_tile(28, "Public repositories", str(data["public_repositories"]), "Visible GitHub repositories", "#45e0ef"),
-            metric_tile(238, "First-party systems", str(FIRST_PARTY_SYSTEMS), "Owned and actively developed", "#7b6cf6"),
-            metric_tile(448, "TKB systems", str(TKB_ACTIVE_SYSTEMS), "Active organisation products", "#d866ef"),
-            metric_tile(658, "Owner domains", str(OWNER_DOMAINS), "TKB · Conroy · Marty", "#22d3a6"),
-            f'''  <circle cx="31" cy="235" r="5" fill="#22d3a6"/>
+            metric_tile(28, "Public repositories", str(data["public_repositories"]), "Visible GitHub repositories", "#58E6D9"),
+            metric_tile(238, "First-party systems", str(FIRST_PARTY_SYSTEMS), "Owned and actively developed", "#9A7CFF"),
+            metric_tile(448, "TKB systems", str(TKB_ACTIVE_SYSTEMS), "Active organisation products", "#FF7A70"),
+            metric_tile(658, "Owner domains", str(OWNER_DOMAINS), "TKB · Conroy · Marty", "#F2B84B"),
+            f'''  <circle cx="31" cy="235" r="5" fill="#58E6D9"/>
   <text x="44" y="239" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="11">Repository-owned card · generated from the GitHub API · {escape(updated)}</text>''',
         ]
     )
@@ -222,7 +222,7 @@ def language_repo_svg(data: dict[str, Any]) -> str:
         color = language_color(name, index)
         rows.append(
             f'''  <text x="28" y="{y + 11}" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="12">{escape(name)}</text>
-  <rect x="126" y="{y}" width="260" height="13" rx="6" fill="#21262d"/>
+  <rect x="126" y="{y}" width="260" height="13" rx="6" fill="#1B2730"/>
   <rect x="126" y="{y}" width="{width}" height="13" rx="6" fill="{color}"/>
   <text x="400" y="{y + 11}" text-anchor="end" fill="{color}" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">{amount}</text>'''
         )
@@ -262,9 +262,9 @@ def language_volume_svg(data: dict[str, Any]) -> str:
   <text x="264" y="{y}" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="12">{escape(name)}</text>
   <text x="400" y="{y}" text-anchor="end" fill="{color}" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">{percentage:.0f}%</text>'''
         )
-    body = f'''  <circle cx="120" cy="166" r="58" fill="none" stroke="#21262d" stroke-width="20"/>
+    body = f'''  <circle cx="120" cy="166" r="58" fill="none" stroke="#1B2730" stroke-width="20"/>
 {ring_segments(items, 120, 166, 58)}
-  <circle cx="120" cy="166" r="37" fill="#151827"/>
+  <circle cx="120" cy="166" r="37" fill="#0B151E"/>
   <text x="120" y="161" text-anchor="middle" fill="#f0f6fc" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="800">{len(items)}</text>
   <text x="120" y="180" text-anchor="middle" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="10">LANGUAGES</text>
 {chr(10).join(legends)}'''
@@ -273,10 +273,10 @@ def language_volume_svg(data: dict[str, Any]) -> str:
 
 def activity_svg(data: dict[str, Any]) -> str:
     metrics = [
-        ("PUBLIC EVENTS", data["events_30d"], "last 30 days", "#45e0ef"),
-        ("PUSH EVENTS", data["push_events"], "public activity", "#7b6cf6"),
-        ("PR / REVIEWS", data["pull_request_activity"], "public activity", "#d866ef"),
-        ("ISSUES / COMMENTS", data["issue_activity"], "public activity", "#22d3a6"),
+        ("PUBLIC EVENTS", data["events_30d"], "last 30 days", "#58E6D9"),
+        ("PUSH EVENTS", data["push_events"], "public activity", "#9A7CFF"),
+        ("PR / REVIEWS", data["pull_request_activity"], "public activity", "#FF7A70"),
+        ("ISSUES / COMMENTS", data["issue_activity"], "public activity", "#F2B84B"),
     ]
     blocks: list[str] = []
     for index, (label, value, detail, color) in enumerate(metrics):
@@ -285,7 +285,7 @@ def activity_svg(data: dict[str, Any]) -> str:
         x = 28 + column * 194
         y = 91 + row * 77
         blocks.append(
-            f'''  <rect x="{x}" y="{y}" width="176" height="65" rx="12" fill="#161b22" stroke="#30363d"/>
+            f'''  <rect x="{x}" y="{y}" width="176" height="65" rx="12" fill="#0D171E" stroke="#293640"/>
   <text x="{x + 15}" y="{y + 22}" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="10" font-weight="700">{label}</text>
   <text x="{x + 15}" y="{y + 50}" fill="{color}" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="800">{value}</text>
   <text x="{x + 56}" y="{y + 49}" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="10">{detail}</text>'''
@@ -306,7 +306,7 @@ def productive_time_svg(data: dict[str, Any]) -> str:
         height = 0 if value == 0 else max(4, int(chart_height * value / maximum))
         x = chart_x + hour * bar_step
         y = chart_y - height
-        color = "#45e0ef" if hour == peak and value else "#a371f7"
+        color = "#58E6D9" if hour == peak and value else "#9A7CFF"
         opacity = "1" if value else "0.18"
         bars.append(
             f'''  <rect x="{x}" y="{y}" width="10" height="{height if height else 2}" rx="3" fill="{color}" opacity="{opacity}"/>'''
@@ -316,11 +316,11 @@ def productive_time_svg(data: dict[str, Any]) -> str:
         for hour in (0, 6, 12, 18, 23)
     )
     peak_label = f"Peak public activity: {peak:02d}:00–{(peak + 1) % 24:02d}:00" if any(hourly) else "Awaiting public event data"
-    body = f'''  <line x1="28" y1="220" x2="392" y2="220" stroke="#30363d"/>
-  <line x1="28" y1="100" x2="28" y2="220" stroke="#30363d"/>
+    body = f'''  <line x1="28" y1="220" x2="392" y2="220" stroke="#293640"/>
+  <line x1="28" y1="100" x2="28" y2="220" stroke="#293640"/>
 {chr(10).join(bars)}
 {labels}
-  <text x="28" y="260" fill="#45e0ef" font-family="Segoe UI, Arial, sans-serif" font-size="10">{escape(peak_label)}</text>'''
+  <text x="28" y="260" fill="#58E6D9" font-family="Segoe UI, Arial, sans-serif" font-size="10">{escape(peak_label)}</text>'''
     return svg_shell(430, 270, f"Activity Rhythm · UTC {UTC_OFFSET:+d}", "Distribution of the latest public GitHub events by local hour", body)
 
 
