@@ -1,214 +1,281 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" alt="Daniel Conroy — systems, worlds and operations" width="100%">
+<img src="./assets/profile-hero-edinburgh.webp" alt="An Edinburgh systems architect at a multi-screen command desk overlooking the city at blue hour" width="100%">
 
-<br>
+# Daniel Conroy
 
-[![Edinburgh](https://img.shields.io/badge/EDINBURGH-SCOTLAND-58E6D9?style=for-the-badge&labelColor=071017)](#about)
-[![TKB](https://img.shields.io/badge/TEAM_KILLING_BASTARDS-FOUNDER-9A7CFF?style=for-the-badge&labelColor=071017)](#team-killing-bastards)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-6_CORE_SYSTEMS-F2B84B?style=for-the-badge&labelColor=071017)](#portfolio-architecture)
+<h2>I build the systems behind communities, games and live operations.</h2>
+
+<p><strong>Independent systems architect · Product builder · Founder of Team Killing Bastards · Edinburgh, Scotland</strong></p>
+
+[![Edinburgh](https://img.shields.io/badge/EDINBURGH-SCOTLAND-58E6D9?style=for-the-badge&labelColor=071017)](#the-builder)
+[![TKB founder](https://img.shields.io/badge/TEAM_KILLING_BASTARDS-FOUNDER-9A7CFF?style=for-the-badge&labelColor=071017)](#01--team-killing-bastards)
+[![Portfolio](https://img.shields.io/badge/FIRST_PARTY_SYSTEMS-07-F2B84B?style=for-the-badge&labelColor=071017)](#the-work)
 [![Operations](https://img.shields.io/badge/OPERATIONS-LIVE_%26_RECOVERABLE-FF7A70?style=for-the-badge&labelColor=071017)](#conroymedia)
 
-### I build the control layer between complex systems and the people who need to trust them.
-
-**Products · Communities · Intelligence · Automation · Games · Infrastructure**
-
-[**Portfolio**](#portfolio-architecture) · [**Work index**](#work-index) · [**TKB**](#team-killing-bastards) · [**Collaboration**](#collaboration-with-clear-credit) · [**Infrastructure**](#conroymedia) · [**Activity**](#github-activity)
+[**The work**](#the-work) · [**TKB**](#01--team-killing-bastards) · [**Collaboration**](#collaboration-with-clear-credit) · [**Infrastructure**](#conroymedia) · [**Activity**](#github-activity)
 
 </div>
 
----
-
-## About
-
-I am **Daniel Conroy**, an operations-minded builder based in **Edinburgh, Scotland**.
-
-My projects tend to begin where something useful has become fragmented: too many interfaces, unclear ownership, missing evidence, fragile releases, or no safe route back when something fails. I turn that friction into products and platforms that are easier to understand, operate and recover.
-
-I work across product direction, interface design, software architecture, structured data, automation, release engineering, repository governance, deployment and live operations. My background in office and operations management is not separate from the technical work—it is the reason permissions, clarity, evidence and recovery are treated as product features.
-
 <table>
 <tr>
-<td width="25%" align="center"><strong>01 · DISCOVER</strong><br><sub>Map the real workflow, not the imagined one.</sub></td>
-<td width="25%" align="center"><strong>02 · DESIGN</strong><br><sub>Make complex state legible and useful.</sub></td>
-<td width="25%" align="center"><strong>03 · CONTROL</strong><br><sub>Build boundaries, evidence and recovery.</sub></td>
-<td width="25%" align="center"><strong>04 · OPERATE</strong><br><sub>Own the result after launch day.</sub></td>
+<td width="50%" align="center"><a href="https://tkb-gaming.scot/"><strong>EXPLORE TKB GAMING</strong><br><sub>Community, guides and public products</sub></a></td>
+<td width="50%" align="center"><a href="https://tkb-gaming.scot/mission-chief-scripts/map-command-toolkit/"><strong>INSTALL THE TOOLKIT</strong><br><sub>Official supported distribution</sub></a></td>
+</tr>
+<tr>
+<td width="50%" align="center"><a href="https://conroy1988.github.io/Achievements/"><strong>OPEN THE ENCYCLOPEDIA</strong><br><sub>Evidence-led GitHub achievement research</sub></a></td>
+<td width="50%" align="center"><a href="https://github.com/Conroy1988/Brave-Auto-Page-Translator"><strong>VIEW THE TRANSLATOR</strong><br><sub>Private, rule-driven in-page translation</sub></a></td>
 </tr>
 </table>
 
 ---
 
-## Portfolio Architecture
+## The builder
 
-<div align="center">
+I am **Daniel Conroy**, an independent builder based in **Edinburgh, Scotland**.
 
-<img src="./assets/current-portfolio-command-board.svg" width="100%" alt="The Conroy portfolio: six core systems, community platforms, collaborations and live operations">
+I turn fragmented workflows into systems people can understand and trust: polished public products, deep game guides, community automation, private intelligence platforms and the infrastructure underneath them. I move from product direction and interface design through architecture, implementation, validation, deployment and live operation.
 
-</div>
+The work is deliberately varied. The standard is not.
 
-The portfolio is deliberately broad, but the operating idea is consistent: **make complicated systems understandable without hiding their risk, evidence or ownership**.
+<table>
+<tr>
+<td width="50%" valign="top"><strong>01 · DISCOVER</strong><br><sub>Map the real workflow, its evidence and its failure points.</sub></td>
+<td width="50%" valign="top"><strong>02 · DESIGN</strong><br><sub>Make complex state legible, responsive and worth using.</sub></td>
+</tr>
+<tr>
+<td width="50%" valign="top"><strong>03 · CONTROL</strong><br><sub>Keep authority, safety boundaries and recovery visible.</sub></td>
+<td width="50%" valign="top"><strong>04 · OPERATE</strong><br><sub>Own the result after launch day—not just the first build.</sub></td>
+</tr>
+</table>
+
+<img src="./assets/profile-portfolio-studio.webp" alt="A daylight Edinburgh studio showing emergency mapping, game-guide research and browser product design" width="100%">
 
 ---
 
-## Work Index
+## The work
 
-### TKB digital estate
+Seven first-party systems form the core portfolio. Some are public and fully inspectable; some remain private because they handle community operations, market data or unreleased product work. Every project below states that boundary clearly.
+
+### 01 · Team Killing Bastards
 
 <table>
 <tr>
 <td width="64%" valign="top">
 
-#### [Team Killing Bastards](https://github.com/Team-Killing-Bastards) · community and product ecosystem
+#### [TKB Gaming](https://tkb-gaming.scot/) · community and publishing ecosystem
 
-I founded and originally created **Team Killing Bastards** and continue to lead its community identity, governance and technical direction alongside [MartyBlyth](https://github.com/Martyblyth).
+I founded and originally created **Team Killing Bastards** and now lead its identity, technical direction and long-term stewardship alongside [MartyBlyth](https://github.com/Martyblyth).
 
-The current digital estate brings the public website, specialist game guides, community automation and private operational platforms under one maintained ecosystem.
+The current platform brings the main community site, specialist game guides, scripts and operational systems into one maintained estate.
 
-- **[TKB Gaming](https://tkb-gaming.scot/)** — community website and public product gateway
-- **[Crimson Desert Guide](https://tkb-gaming.scot/games/crimson-desert/guides/)** — evidence-led, patch-aware field guide to Pywel
-- **[Eco Guide](https://tkb-gaming.scot/games/eco/guides/)** — versioned guide and world database within the TKB platform
-- **[MissionChief UK Guide](https://www.tkb-gaming.scot/games/missionchief/guides/)** — the complete UK operations-intelligence guide, tools and data estate
+- [**Crimson Desert Guide**](https://tkb-gaming.scot/games/crimson-desert/guides/) — evidence-led, patch-aware field guide to Pywel
+- [**Eco Guide**](https://tkb-gaming.scot/games/eco/guides/) — versioned guide and world database
+- [**MissionChief UK Guide**](https://tkb-gaming.scot/games/missionchief/guides/) — UK operations intelligence, tools and structured data
+- [**MissionChief Scripts**](https://tkb-gaming.scot/mission-chief-scripts/) — supported distribution for TKB browser tools
 
 </td>
 <td width="36%" valign="top">
 
-**ROLE**
+<strong>MY ROLE</strong><br>
+Founder · Community lead · Co-owner · Product and operations direction
 
-Founder · Community leader · Co-owner of the TKB Website monorepo · Product and operations direction
+<br><strong>DELIVERY</strong><br>
+Static parent site · Astro applications · independent validation and restricted deployment gates
 
-**PLATFORM**
-
-Static parent site · Astro applications · guarded cPanel deployment · migration-preserved history · independent validation gates
-
-**STATE**
-
-Active private monorepo with public production surfaces
+<br><strong>STATE</strong><br>
+Private production monorepo with public live surfaces
 
 </td>
 </tr>
 </table>
 
-### Public products
+The original standalone Crimson Desert and MissionChief repositories are archived source history. Their maintained successors live inside the TKB Website estate, with provenance and migration history preserved.
+
+### 02 · MissionChief Map Command Toolkit
+
+<table>
+<tr>
+<td width="64%" valign="top">
+
+#### [One operational layer for the mission, the fleet, the map and the account](https://github.com/Conroy1988/missionchief-toolkit-assets)
+
+The Toolkit turns MissionChief's scattered signals into one responsive command experience: incident priority, fleet state, map intelligence, resource pressure, transport workflows, finance, diagnostics and safe recovery.
+
+It keeps MissionChief authoritative. The product surfaces the signal, reaches the correct native control and fails closed when evidence is incomplete.
+
+**My role:** Creator · Product designer · Maintainer · Release authority · Production owner
+
+</td>
+<td width="36%" valign="top">
+
+[![Latest release](https://img.shields.io/github/v/release/Conroy1988/missionchief-toolkit-assets?display_name=release&label=LIVE%20RELEASE&color=58E6D9&labelColor=071017)](https://github.com/Conroy1988/missionchief-toolkit-assets/releases/latest)
+
+[![Validation](https://github.com/Conroy1988/missionchief-toolkit-assets/actions/workflows/validate-userscript.yml/badge.svg)](https://github.com/Conroy1988/missionchief-toolkit-assets/actions/workflows/validate-userscript.yml)
+
+[**Install / update**](https://tkb-gaming.scot/mission-chief-scripts/map-command-toolkit/)<br>
+[**Open the field guide**](https://conroy1988.github.io/missionchief-toolkit-assets/)<br>
+[**Explore eight interfaces**](https://conroy1988.github.io/missionchief-toolkit-assets/themes/)<br>
+[**Inspect the source**](https://github.com/Conroy1988/missionchief-toolkit-assets)
+
+</td>
+</tr>
+</table>
+
+### 03 · GitHub Achievement Encyclopedia
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-#### [MissionChief Map Command Toolkit](https://github.com/Conroy1988/missionchief-toolkit-assets)
+#### [Evidence before folklore](https://conroy1988.github.io/Achievements/)
 
-An operational command layer for MissionChief that connects incident awareness, fleet readability, map intelligence, selected transport workflows and financial reconciliation.
+A maintained reference for GitHub profile achievements that separates official documentation, reproduced behaviour, observations, historical records, community claims and unknowns.
 
-**My role:** Creator · Maintainer · Release authority · Production owner
+The project combines human-readable guides with privacy-safe evidence records, verification timelines, bounded research tasks and a validated static API.
 
-[![Release](https://img.shields.io/github/v/release/Conroy1988/missionchief-toolkit-assets?label=release&color=58E6D9&labelColor=071017)](https://github.com/Conroy1988/missionchief-toolkit-assets/releases/latest)
-[![Greasy Fork](https://img.shields.io/greasyfork/v/586018?label=install&color=9A7CFF&labelColor=071017)](https://greasyfork.org/en/scripts/586018-missionchief-map-command-toolkit)
-[![Validation](https://github.com/Conroy1988/missionchief-toolkit-assets/actions/workflows/validate-userscript.yml/badge.svg)](https://github.com/Conroy1988/missionchief-toolkit-assets/actions/workflows/validate-userscript.yml)
-
-[Install](https://update.greasyfork.org/scripts/586018/MissionChief%20Map%20Command%20Toolkit.user.js) · [Guide](https://conroy1988.github.io/missionchief-toolkit-assets/) · [Release control](https://github.com/Conroy1988/missionchief-toolkit-assets/tree/main/status)
+**My role:** Creator · Research owner · Maintainer · Release authority
 
 </td>
 <td width="50%" valign="top">
 
-#### [GitHub Achievement Encyclopedia](https://github.com/Conroy1988/Achievements)
-
-An evidence-led reference for GitHub profile achievements that keeps official documentation, reproduced behaviour, historical evidence, observations and uncertainty visibly separate.
-
-**My role:** Creator · Research owner · Maintainer · Release authority
-
 [![Release](https://img.shields.io/github/v/release/Conroy1988/Achievements?label=release&color=F2B84B&labelColor=071017)](https://github.com/Conroy1988/Achievements/releases/latest)
-[![Content](https://github.com/Conroy1988/Achievements/actions/workflows/content-quality.yml/badge.svg)](https://github.com/Conroy1988/Achievements/actions/workflows/content-quality.yml)
-[![Audit](https://github.com/Conroy1988/Achievements/actions/workflows/repository-audit.yml/badge.svg)](https://github.com/Conroy1988/Achievements/actions/workflows/repository-audit.yml)
+[![Content quality](https://github.com/Conroy1988/Achievements/actions/workflows/content-quality.yml/badge.svg)](https://github.com/Conroy1988/Achievements/actions/workflows/content-quality.yml)
+[![Repository audit](https://github.com/Conroy1988/Achievements/actions/workflows/repository-audit.yml/badge.svg)](https://github.com/Conroy1988/Achievements/actions/workflows/repository-audit.yml)
 
-[Explore](https://conroy1988.github.io/Achievements/) · [Evidence register](https://github.com/Conroy1988/Achievements/blob/main/docs/evidence-register.md) · [Research hub](https://github.com/Conroy1988/Achievements/blob/main/docs/research-hub.md)
+[**Explore the encyclopedia**](https://conroy1988.github.io/Achievements/)<br>
+[**Search the research**](https://conroy1988.github.io/Achievements/search/)<br>
+[**Review the evidence register**](https://github.com/Conroy1988/Achievements/blob/main/docs/evidence-register.md)<br>
+[**Use the static API**](https://github.com/Conroy1988/Achievements/blob/main/docs/api-reference.md)
 
 </td>
 </tr>
 </table>
 
-### Private systems
+### 04 · Auto Page Translator for Brave
 
-| System | What it is | My responsibility |
-|---|---|---|
-| **TKB Discord Bot** | The private operational backbone for TKB community systems, progression, administration, GitHub integration, service monitoring, gateways and recovery | Sole technical owner, maintainer, security authority and live operator |
-| **Investor Matrix** | A self-hosted market-intelligence, portfolio-led accounting and risk-control platform that keeps evidence, uncertainty and human authority visible | Project lead, Admin authority, architecture and delivery direction |
-| **UK Fire Command** | A persistent, map-first Fire and Rescue Service management game with stations, appliances, trained crews, real-road response and incident escalation | Creator, product owner and architecture authority |
+<table>
+<tr>
+<td width="64%" valign="top">
 
-These systems are private by design. Their public description is intentionally limited; operational credentials, deployment details, user data and recovery material remain outside this profile.
+#### [Independent, configurable in-page translation](https://github.com/Conroy1988/Brave-Auto-Page-Translator)
 
----
+A privacy-conscious Manifest V3 extension for Brave and Chromium. It translates readable text inside the original page, preserves the real site and its interactive state, and restores the original content in one action.
 
-## Team Killing Bastards
+Manual/minimal-access mode is the default. Approved-site automation, per-site targets, live-page updates, glossaries and provider choices remain explicit, configurable and testable—with no analytics or developer-operated translation server.
 
-TKB is more than a GitHub organisation. It is the community, publishing identity and operational home connecting the work above.
+**My role:** Creator · Product designer · Maintainer
 
-| Domain | Current responsibility |
-|---|---|
-| **Community** | Identity, direction, governance and long-term stewardship |
-| **Publishing** | TKB Gaming, game-guide applications and public knowledge products |
-| **Automation** | Discord systems, GitHub delivery, notifications and community operations |
-| **Private platforms** | Market intelligence, game systems and household/infrastructure tools |
-| **Operations** | Deployment, monitoring, access boundaries, backup and recovery |
+</td>
+<td width="36%" valign="top">
 
-I lead TKB alongside **[MartyBlyth](https://github.com/Martyblyth)**. Shared leadership does not mean blurred technical credit: every project retains an explicit creator, owner and release authority.
+<strong>PRIVACY</strong><br>
+Explicit first-run consent · no telemetry · minimum access by default
 
-[![TKB organisation](https://img.shields.io/badge/OPEN-TKB_GITHUB-9A7CFF?style=for-the-badge&logo=github&logoColor=white&labelColor=071017)](https://github.com/Team-Killing-Bastards)
-[![TKB Gaming](https://img.shields.io/badge/OPEN-TKB_GAMING-58E6D9?style=for-the-badge&labelColor=071017)](https://tkb-gaming.scot/)
+<br><strong>ENGINEERING</strong><br>
+Manifest V3 · incremental live-page queue · Shadow DOM support · Playwright end-to-end tests
+
+<br><strong>STATE</strong><br>
+Independent public source with validated release packaging
+
+[**Open the repository**](https://github.com/Conroy1988/Brave-Auto-Page-Translator)
+
+</td>
+</tr>
+</table>
+
+### 05–07 · Private systems
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+#### 05 · TKB Discord Bot
+
+The private operational backbone for community progression, administration, GitHub integration, service status, gateways and recovery.
+
+**My role:** Sole technical owner · Maintainer · Security authority · Live operator
+
+</td>
+<td width="33%" valign="top">
+
+#### 06 · Investor Matrix
+
+A self-hosted market-intelligence, portfolio-accounting and risk-control platform that keeps evidence, uncertainty and human authority visible.
+
+**My role:** Project lead · Admin authority · Architecture and delivery direction
+
+</td>
+<td width="34%" valign="top">
+
+#### 07 · UK Fire Command
+
+A persistent map-first Fire and Rescue Service management game with stations, appliances, trained crews, real-road response and escalating incidents.
+
+**My role:** Creator · Product owner · Architecture authority
+
+</td>
+</tr>
+</table>
+
+These systems are private by design. Credentials, deployment topology, user data, market records and recovery material stay outside this public page.
 
 ---
 
 ## Collaboration with clear credit
 
+Good collaboration should make ownership clearer, not blur it.
+
 ### [MissionChief Command Nexus](https://github.com/Team-Killing-Bastards/MissionChief-Command-Nexus)
 
-Command Nexus is **MartyBlyth’s project**. Marty is its creator, principal userscript author, technical owner and release authority.
+Command Nexus is **MartyBlyth's project**. Marty is the creator, principal userscript author, technical owner and release authority.
 
-My role is project support across repository infrastructure, documentation, validation and general operations. I also independently initiated, designed and implemented its scoped **iOS Safari compatibility work** with Marty’s permission, covering the responsive station workflow, lifecycle hardening, Mission Control layout and active-mission Unit Finder selection. The underlying Resource Administration and Mission Finder engines remain Marty’s work.
+I support its repository infrastructure, documentation, validation and general operations. With Marty's permission, I also independently initiated, designed and implemented the scoped **iOS Safari compatibility** work delivered across v1.0.15–v1.0.18. The Resource Administration and Mission Finder engines remain Marty's work.
 
 [![Release](https://img.shields.io/github/v/release/Team-Killing-Bastards/MissionChief-Command-Nexus?label=release&color=9A7CFF&labelColor=071017)](https://github.com/Team-Killing-Bastards/MissionChief-Command-Nexus/releases/latest)
 [![Install](https://img.shields.io/greasyfork/v/587702?label=install&color=58E6D9&labelColor=071017)](https://greasyfork.org/en/scripts/587702-missionchief-command-nexus)
+[![Validation](https://github.com/Team-Killing-Bastards/MissionChief-Command-Nexus/actions/workflows/validate-userscript.yml/badge.svg)](https://github.com/Team-Killing-Bastards/MissionChief-Command-Nexus/actions/workflows/validate-userscript.yml)
 
 ### Marty-owned systems
 
-I provide organisation, portfolio and delivery support across the wider MartyBlyth project estate, including **Blyth Control Centre** and **Blyth Crypto Paper Bot**. Marty remains the creator, project owner and primary technical authority for those systems.
+I also provide organisation, portfolio and delivery support across **Blyth Control Centre** and **Blyth Crypto Paper Bot**. Marty remains their creator, project owner and primary technical authority.
 
-### LSSM V.4 upstream work
+### LSSM V.4 · upstream contributions
 
-My LSSM contributions are scoped changes submitted under upstream maintainer authority:
+My LSSM work is submitted under upstream maintainer authority. The public fork is a contribution workspace—not a first-party product.
 
-| Pull request | Contribution | State |
+| Pull request | Contribution | Verified state |
 |---|---|---|
-| [**#3982**](https://github.com/LSS-Manager/LSSM-V.4/pull/3982) | Optional monospaced notes across native and redesigned editors, documentation and ten locales | Open · mergeable · awaiting maintainer review |
-| [**#3988**](https://github.com/LSS-Manager/LSSM-V.4/pull/3988) | Alliance member loading, role/activity filters and sorting | Open · mergeable · awaiting maintainer review |
-
-Forks and reference workspaces are not presented as first-party products.
+| [**#3982**](https://github.com/LSS-Manager/LSSM-V.4/pull/3982) | Optional monospaced notes across native and redesigned editors, documentation and ten locales | Open · mergeable |
+| [**#3988**](https://github.com/LSS-Manager/LSSM-V.4/pull/3988) | Alliance member loading, role and activity filters, de-duplication and sorting | Open · mergeable |
 
 ---
 
 ## ConroyMedia
 
-**ConroyMedia** is the live self-hosted environment where deployment, networking, monitoring and recovery ideas meet real operating conditions.
+<img src="./assets/profile-operations-estate.webp" alt="A self-hosted operations environment with a server rack, service dashboards and Edinburgh at night" width="100%">
+
+**ConroyMedia** is the live self-hosted environment where architecture meets operating reality.
+
+It connects Docker services, Caddy routing, DDNS, media automation, service monitoring, Windows telemetry, GitHub Apps and isolated runners, Home Assistant integrations, deployment controls, backups and tested recovery paths.
 
 ```mermaid
-flowchart TD
-    GitHub["GitHub estate"] --> Hub["TKB integration hub"]
-    Hub --> Delivery["Validation · releases · Discord"]
-    Services["Docker services"] --> Monitor["Service Monitor Centre"]
-    Host["Windows host"] --> Telemetry["Core telemetry"]
-    Monitor --> Command["Watchboard · incident command"]
-    Telemetry --> Command
-    Command --> Discord["Persistent Discord status"]
-    Gateway["Caddy HTTPS gateway"] --> Services
-    Control["Authenticated control centre"] --> Gateway
-    Control --> Recovery["Backup · restore · rollback"]
+flowchart LR
+    Code[GitHub estate] --> Gate[Validation and releases]
+    Gate --> Hub[TKB integration hub]
+    Hub --> Community[Community systems]
+    Hub --> Deploy[Production delivery]
+    Services[Docker services] --> Observe[Monitoring and telemetry]
+    Deploy --> Observe
+    Observe --> Control[Authenticated control]
+    Control --> Recover[Backup · restore · rollback]
 ```
 
-The environment includes Docker-hosted services, Caddy routing, DDNS, media automation, service monitoring, Windows telemetry, GitHub Apps, isolated runners, Home Assistant integrations and tested backup/recovery paths.
-
-The rule is simple: **a system is not operational because it started once; it is operational when it can explain its state and survive failure**.
+> A system is not operational because it started once. It is operational when it can explain its state, limit its authority and survive failure.
 
 ---
 
-## Working Stack
+## Working stack
 
 <div align="center">
 
@@ -217,8 +284,8 @@ The rule is simple: **a system is not operational because it started once; it is
 ![Python](https://img.shields.io/badge/Python-071017?style=for-the-badge&logo=python&logoColor=3776AB)
 ![PowerShell](https://img.shields.io/badge/PowerShell-071017?style=for-the-badge&logo=powershell&logoColor=5391FE)
 
-![Next.js](https://img.shields.io/badge/Next.js-071017?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-071017?style=for-the-badge&logo=astro&logoColor=BC52EE)
+![Next.js](https://img.shields.io/badge/Next.js-071017?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-071017?style=for-the-badge&logo=fastapi&logoColor=009688)
 ![Docker](https://img.shields.io/badge/Docker-071017?style=for-the-badge&logo=docker&logoColor=2496ED)
 
@@ -231,27 +298,27 @@ The rule is simple: **a system is not operational because it started once; it is
 
 ---
 
-## GitHub Activity
+## GitHub activity
 
 <div align="center">
 
-<img width="95%" src="./assets/profile-cards/overview.svg" alt="Conroy1988 public portfolio snapshot">
+<img width="95%" src="./assets/profile-cards/overview.svg" alt="Conroy1988 repository-owned profile operations snapshot">
 
-<img width="47%" src="./assets/profile-cards/languages-repos.svg" alt="Languages across public portfolio repositories">
-<img width="47%" src="./assets/profile-cards/languages-volume.svg" alt="Language volume across public portfolio repositories">
+<img width="47%" src="./assets/profile-cards/languages-repos.svg" alt="Languages across Conroy1988 public first-party repositories">
+<img width="47%" src="./assets/profile-cards/languages-volume.svg" alt="Language code volume across Conroy1988 public first-party repositories">
 
-<img width="47%" src="./assets/profile-cards/public-activity.svg" alt="Recent public GitHub activity">
-<img width="47%" src="./assets/profile-cards/activity-rhythm.svg" alt="Public GitHub activity rhythm">
+<img width="47%" src="./assets/profile-cards/public-activity.svg" alt="Conroy1988 recent public GitHub activity">
+<img width="47%" src="./assets/profile-cards/activity-rhythm.svg" alt="Conroy1988 public GitHub activity rhythm">
 
-<sub>Repository-owned cards are regenerated from GitHub’s API. Private work and some organisation activity are intentionally absent from public statistics.</sub>
+<sub>Repository-owned cards are regenerated from GitHub's API. Private work and some organisation activity remain intentionally outside public statistics.</sub>
 
 </div>
 
 ---
 
-## Away from the repository
+## Beyond the build
 
-Usually: PC gaming, self-hosted infrastructure, interface concepts, cinematic music experiments, or diagnosing a device that was working perfectly five minutes ago.
+Usually: PC gaming, Linux and handheld tinkering, self-hosted infrastructure, interface concepts, game worlds or cinematic music experiments.
 
 Development is supervised by **Eli and Nala**, who contribute no code but retain decisive control over keyboard availability.
 
@@ -259,7 +326,7 @@ Development is supervised by **Eli and Nala**, who contribute no code but retain
 
 <div align="center">
 
-### Build useful systems. Make authority visible. Operate for the long term.
+### Build useful systems. Make authority visible. Operate for the long term
 
 [![GitHub](https://img.shields.io/badge/OPEN-CONROY1988-58E6D9?style=for-the-badge&logo=github&logoColor=white&labelColor=071017)](https://github.com/Conroy1988)
 [![TKB](https://img.shields.io/badge/EXPLORE-TEAM_KILLING_BASTARDS-9A7CFF?style=for-the-badge&logo=github&logoColor=white&labelColor=071017)](https://github.com/Team-Killing-Bastards)
