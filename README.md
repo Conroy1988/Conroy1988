@@ -24,7 +24,7 @@
 </tr>
 <tr>
 <td width="50%" align="center"><a href="https://conroy1988.github.io/Achievements/"><strong>OPEN THE ENCYCLOPEDIA</strong><br><sub>Evidence-led GitHub achievement research</sub></a></td>
-<td width="50%" align="center"><a href="https://github.com/Conroy1988/Brave-Auto-Page-Translator"><strong>VIEW THE TRANSLATOR</strong><br><sub>Private, rule-driven in-page translation</sub></a></td>
+<td width="50%" align="center"><a href="https://github.com/Conroy1988/Brave-Auto-Page-Translator"><strong>VIEW THE TRANSLATOR</strong><br><sub>Privacy-first, rule-driven in-page translation</sub></a></td>
 </tr>
 </table>
 
