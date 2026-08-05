@@ -19,11 +19,11 @@
   <text x="48" y="43" fill="#F4F1EB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="800">Languages by Code Volume</text>
   <text x="28" y="67" fill="#8E9CAB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">Aggregated public source bytes reported by GitHub</text>
   <circle cx="120" cy="166" r="58" fill="none" stroke="#1B2730" stroke-width="20"/>
-  <circle cx="120" cy="166" r="58" fill="none" stroke="#f7df1e" stroke-width="20" stroke-dasharray="336.08 28.35" stroke-dashoffset="-0.00" transform="rotate(-90 120 166)"/>
-  <circle cx="120" cy="166" r="58" fill="none" stroke="#3776ab" stroke-width="20" stroke-dasharray="15.44 348.99" stroke-dashoffset="-336.08" transform="rotate(-90 120 166)"/>
-  <circle cx="120" cy="166" r="58" fill="none" stroke="#e34f26" stroke-width="20" stroke-dasharray="11.70 352.73" stroke-dashoffset="-351.51" transform="rotate(-90 120 166)"/>
-  <circle cx="120" cy="166" r="58" fill="none" stroke="#1572b6" stroke-width="20" stroke-dasharray="1.07 363.35" stroke-dashoffset="-363.21" transform="rotate(-90 120 166)"/>
-  <circle cx="120" cy="166" r="58" fill="none" stroke="#9A7CFF" stroke-width="20" stroke-dasharray="0.14 364.28" stroke-dashoffset="-364.28" transform="rotate(-90 120 166)"/>
+  <circle cx="120" cy="166" r="58" fill="none" stroke="#f7df1e" stroke-width="20" stroke-dasharray="334.71 29.72" stroke-dashoffset="-0.00" transform="rotate(-90 120 166)"/>
+  <circle cx="120" cy="166" r="58" fill="none" stroke="#3776ab" stroke-width="20" stroke-dasharray="15.29 349.13" stroke-dashoffset="-334.71" transform="rotate(-90 120 166)"/>
+  <circle cx="120" cy="166" r="58" fill="none" stroke="#e34f26" stroke-width="20" stroke-dasharray="11.81 352.61" stroke-dashoffset="-350.00" transform="rotate(-90 120 166)"/>
+  <circle cx="120" cy="166" r="58" fill="none" stroke="#178600" stroke-width="20" stroke-dasharray="1.32 363.10" stroke-dashoffset="-361.81" transform="rotate(-90 120 166)"/>
+  <circle cx="120" cy="166" r="58" fill="none" stroke="#9A7CFF" stroke-width="20" stroke-dasharray="1.29 363.13" stroke-dashoffset="-363.13" transform="rotate(-90 120 166)"/>
   <circle cx="120" cy="166" r="37" fill="#0B151E"/>
   <text x="120" y="161" text-anchor="middle" fill="#f0f6fc" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="800">5</text>
   <text x="120" y="180" text-anchor="middle" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="10">LANGUAGES</text>
@@ -36,9 +36,9 @@
   <rect x="244" y="150" width="11" height="11" rx="2" fill="#e34f26"/>
   <text x="264" y="160" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="12">HTML</text>
   <text x="400" y="160" text-anchor="end" fill="#e34f26" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">3%</text>
-  <rect x="244" y="178" width="11" height="11" rx="2" fill="#1572b6"/>
-  <text x="264" y="188" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="12">CSS</text>
-  <text x="400" y="188" text-anchor="end" fill="#1572b6" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">0%</text>
+  <rect x="244" y="178" width="11" height="11" rx="2" fill="#178600"/>
+  <text x="264" y="188" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="12">C#</text>
+  <text x="400" y="188" text-anchor="end" fill="#178600" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">0%</text>
   <rect x="244" y="206" width="11" height="11" rx="2" fill="#9A7CFF"/>
   <text x="264" y="216" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="12">Other</text>
   <text x="400" y="216" text-anchor="end" fill="#9A7CFF" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">0%</text>
