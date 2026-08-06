@@ -1,0 +1,98 @@
+{
+  "schema_version": 1,
+  "first_party": [
+    {
+      "id": "tkb-gaming",
+      "name": "TKB Gaming",
+      "visibility": "public",
+      "repository": "Conroy1988/TKB-Website",
+      "url": "https://tkb-gaming.scot/"
+    },
+    {
+      "id": "missionchief-toolkit",
+      "name": "MissionChief Map Command Toolkit",
+      "visibility": "public",
+      "repository": "Conroy1988/missionchief-toolkit-assets",
+      "url": "https://github.com/Conroy1988/missionchief-toolkit-assets"
+    },
+    {
+      "id": "uk-emergency-fleet",
+      "name": "TKB UK Emergency Fleet — Animated",
+      "visibility": "public",
+      "repository": "Conroy1988/missionchief-uk-animated-graphics",
+      "url": "https://github.com/Conroy1988/missionchief-uk-animated-graphics"
+    },
+    {
+      "id": "uk-response-icons",
+      "name": "UK Emergency Response Icons Reborn 2026",
+      "visibility": "public",
+      "repository": "Conroy1988/UK-Emergency-Response-Icons-Reborn-2026",
+      "url": "https://github.com/Conroy1988/UK-Emergency-Response-Icons-Reborn-2026"
+    },
+    {
+      "id": "github-achievements",
+      "name": "GitHub Achievement Encyclopedia",
+      "visibility": "public",
+      "repository": "Conroy1988/Achievements",
+      "url": "https://conroy1988.github.io/Achievements/"
+    },
+    {
+      "id": "auto-page-translator",
+      "name": "Auto Page Translator for Brave",
+      "visibility": "public",
+      "repository": "Conroy1988/Brave-Auto-Page-Translator",
+      "url": "https://chromewebstore.google.com/detail/auto-page-translator-for/pilpighhgdglgngmakjepoadacbhpoeo"
+    },
+    {
+      "id": "emby-best-episodes",
+      "name": "Emby Best Episodes",
+      "visibility": "public",
+      "repository": "Conroy1988/Emby-Best-Episodes",
+      "url": "https://github.com/Conroy1988/Emby-Best-Episodes"
+    },
+    {
+      "id": "tkb-discord-bot",
+      "name": "TKB Discord Bot and ConroyMedia Operations",
+      "visibility": "private",
+      "repository": "Team-Killing-Bastards/TKB-Discord-Bot"
+    },
+    {
+      "id": "investor-matrix",
+      "name": "Investor Matrix",
+      "visibility": "private",
+      "repository": "Team-Killing-Bastards/Investor-Matrix"
+    },
+    {
+      "id": "uk-fire-command",
+      "name": "UK Fire Command",
+      "visibility": "private",
+      "repository": "Conroy1988/uk-fire-command"
+    }
+  ],
+  "collaborations": [
+    {
+      "id": "command-nexus",
+      "name": "MissionChief Command Nexus",
+      "owner": "MartyBlyth",
+      "role": "Project helper",
+      "repository": "Team-Killing-Bastards/MissionChief-Command-Nexus"
+    },
+    {
+      "id": "lssm-upstream",
+      "name": "LSSM V.4 upstream contributions",
+      "owner": "LSS-Manager",
+      "role": "Contributor",
+      "repository": "LSS-Manager/LSSM-V.4"
+    }
+  ],
+  "history": [
+    {
+      "repository": "Conroy1988/Crimson-Desert-Guide",
+      "successor": "Conroy1988/TKB-Website"
+    },
+    {
+      "repository": "Conroy1988/MissionChief-UK",
+      "successor": "Conroy1988/TKB-Website"
+    }
+  ]
+}

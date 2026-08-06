@@ -19,9 +19,7 @@ ORGANISATION = os.getenv("PROFILE_ORGANISATION", "Team-Killing-Bastards")
 UTC_OFFSET = int(os.getenv("PROFILE_UTC_OFFSET", "1"))
 OUTPUT_DIR = Path("assets/profile-cards")
 README = Path("README.md")
-FIRST_PARTY_SYSTEMS = 7
-TKB_ACTIVE_SYSTEMS = 4
-OWNER_DOMAINS = 3
+PORTFOLIO_MANIFEST = Path("data/portfolio.json")
 
 PALETTE = {
     "JavaScript": "#f7df1e",
@@ -37,6 +35,20 @@ PALETTE = {
     "Other": "#9A7CFF",
 }
 FALLBACK_COLORS = ["#9A7CFF", "#58E6D9", "#FF7A70", "#F2B84B", "#5E8CFF"]
+
+
+def portfolio_counts() -> dict[str, int]:
+    payload = json.loads(PORTFOLIO_MANIFEST.read_text(encoding="utf-8"))
+    systems = payload.get("first_party", [])
+    if not isinstance(systems, list) or not systems:
+        raise ValueError("Portfolio manifest must contain first_party systems")
+
+    public = sum(item.get("visibility") == "public" for item in systems)
+    private = sum(item.get("visibility") == "private" for item in systems)
+    if public + private != len(systems):
+        raise ValueError("Every first-party system must be public or private")
+
+    return {"total": len(systems), "public": public, "private": private}
 
 
 def api_get(path: str) -> Any:
@@ -144,7 +156,7 @@ def collect_profile_data() -> dict[str, Any]:
 
 def fallback_data() -> dict[str, Any]:
     return {
-        "public_repositories": 9,
+        "public_repositories": 12,
         "repo_languages": Counter({"JavaScript": 2, "Python": 1, "TypeScript": 1}),
         "byte_languages": Counter({"JavaScript": 58, "Python": 28, "TypeScript": 10, "CSS": 4}),
         "events_30d": 0,
@@ -194,12 +206,13 @@ def metric_tile(x: int, label: str, value: str, detail: str, accent: str) -> str
 
 def overview_svg(data: dict[str, Any]) -> str:
     updated = data["updated_at"].strftime("%d %b %Y · %H:%M UTC")
+    counts = portfolio_counts()
     body = "\n".join(
         [
             metric_tile(28, "Public repositories", str(data["public_repositories"]), "Visible GitHub repositories", "#58E6D9"),
-            metric_tile(238, "First-party systems", str(FIRST_PARTY_SYSTEMS), "Owned and actively developed", "#9A7CFF"),
-            metric_tile(448, "TKB systems", str(TKB_ACTIVE_SYSTEMS), "Active organisation products", "#FF7A70"),
-            metric_tile(658, "Owner domains", str(OWNER_DOMAINS), "TKB · Conroy · Marty", "#F2B84B"),
+            metric_tile(238, "Portfolio systems", str(counts["total"]), "Owned and actively developed", "#9A7CFF"),
+            metric_tile(448, "Public products", str(counts["public"]), "Live or openly inspectable", "#FF7A70"),
+            metric_tile(658, "Private systems", str(counts["private"]), "Protected operational platforms", "#F2B84B"),
             f'''  <circle cx="31" cy="235" r="5" fill="#58E6D9"/>
   <text x="44" y="239" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="11">Repository-owned card · generated from the GitHub API · {escape(updated)}</text>''',
         ]
