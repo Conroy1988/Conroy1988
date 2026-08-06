@@ -4,6 +4,7 @@ on:
   push:
     branches: [main]
     paths:
+      - data/portfolio.json
       - scripts/generate_profile_cards.py
       - .github/workflows/profile-cards.yml
   schedule:
@@ -41,6 +42,7 @@ jobs:
       - name: Validate generated SVG files
         run: |
           python - <<'PY'
+          import json
           from pathlib import Path
           from xml.etree import ElementTree
 
@@ -58,8 +60,18 @@ jobs:
               ElementTree.parse(path)
 
           overview = Path("assets/profile-cards/overview.svg").read_text(encoding="utf-8")
-          if "FIRST-PARTY SYSTEMS" not in overview or ">7</text>" not in overview:
-              raise SystemExit("Overview card does not show the seven-system portfolio")
+          manifest = json.loads(Path("data/portfolio.json").read_text(encoding="utf-8"))
+          first_party = manifest.get("first_party", [])
+          public = sum(item.get("visibility") == "public" for item in first_party)
+          private = sum(item.get("visibility") == "private" for item in first_party)
+          expected_metrics = {
+              "PORTFOLIO SYSTEMS": len(first_party),
+              "PUBLIC PRODUCTS": public,
+              "PRIVATE SYSTEMS": private,
+          }
+          for label, value in expected_metrics.items():
+              if label not in overview or f">{value}</text>" not in overview:
+                  raise SystemExit(f"Overview card does not show {label}={value}")
           PY
 
       - name: Commit refreshed cards
