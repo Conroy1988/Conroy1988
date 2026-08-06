@@ -1,32 +1,30 @@
 <div align="center">
 
-<img src="./assets/profile-hero-edinburgh.webp" alt="An Edinburgh systems architect at a multi-screen command desk overlooking the city at blue hour" width="100%">
+<img src="./assets/profile-hero-command-studio-v2.webp" alt="Daniel Conroy's Edinburgh systems studio at blue hour, combining product development, emergency mapping and live operations" width="100%">
 
-# Daniel Conroy
+<br>
 
-<h2>I build ambitious systems—and stay to operate them.</h2>
-
-<p><strong>Independent systems architect · Product builder · Founder of Team Killing Bastards · Edinburgh, Scotland</strong></p>
-
-[![Edinburgh](https://img.shields.io/badge/EDINBURGH-SCOTLAND-58E6D9?style=for-the-badge&labelColor=071017)](#the-builder)
-[![TKB founder](https://img.shields.io/badge/TEAM_KILLING_BASTARDS-FOUNDER-9A7CFF?style=for-the-badge&labelColor=071017)](#01--the-tkb-estate)
-[![Portfolio](https://img.shields.io/badge/PORTFOLIO-PUBLIC_%2B_PRIVATE-F2B84B?style=for-the-badge&labelColor=071017)](#portfolio-at-a-glance)
-[![Operations](https://img.shields.io/badge/OPERATIONS-LIVE_%26_RECOVERABLE-FF7A70?style=for-the-badge&labelColor=071017)](#conroymedia)
-
-[**Portfolio**](#portfolio-at-a-glance) · [**TKB**](#01--the-tkb-estate) · [**MissionChief**](#02--missionchief-command-suite) · [**Products**](#03--independent-products) · [**Private systems**](#04--private-operational-systems) · [**Collaboration**](#collaboration-with-clear-credit) · [**Activity**](#github-activity)
+<img src="./assets/profile-identity-deck.svg" alt="Daniel Conroy — independent systems architect, product builder and live operator in Edinburgh, with ten first-party systems" width="100%">
 
 </div>
 
-<table>
-<tr>
-<td width="50%" align="center"><a href="https://tkb-gaming.scot/"><strong>EXPLORE TKB GAMING</strong><br><sub>Community, guides and public products</sub></a></td>
-<td width="50%" align="center"><a href="https://tkb-gaming.scot/mission-chief-scripts/map-command-toolkit/"><strong>INSTALL MAP COMMAND TOOLKIT</strong><br><sub>Official supported distribution</sub></a></td>
-</tr>
-<tr>
-<td width="50%" align="center"><a href="https://www.missionchief.co.uk/vehicle_graphics/5897"><strong>USE THE ANIMATED UK FLEET</strong><br><sub>Complete MissionChief UK vehicle pack</sub></a></td>
-<td width="50%" align="center"><a href="https://www.missionchief.co.uk/mission_graphics/539"><strong>USE THE RESPONSE ICONS</strong><br><sub>Mission markers with permanent response levels</sub></a></td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://tkb-gaming.scot/"><img src="./assets/route-tkb-estate.svg" alt="Explore TKB Gaming" width="49%"></a>
+  <a href="https://tkb-gaming.scot/mission-chief-scripts/map-command-toolkit/"><img src="./assets/route-map-command.svg" alt="Install Map Command Toolkit" width="49%"></a>
+  <a href="https://www.missionchief.co.uk/vehicle_graphics/5897"><img src="./assets/route-animated-fleet.svg" alt="Use MissionChief animated vehicle pack 5897" width="49%"></a>
+  <a href="https://www.missionchief.co.uk/mission_graphics/539"><img src="./assets/route-response-icons.svg" alt="Use MissionChief mission graphics pack 539" width="49%"></a>
+</p>
+
+<p align="center">
+  <strong>ENTER THE ESTATE</strong><br>
+  <a href="#portfolio-at-a-glance">Portfolio</a> ·
+  <a href="#01--the-tkb-estate">TKB</a> ·
+  <a href="#02--missionchief-command-suite">MissionChief</a> ·
+  <a href="#03--independent-products">Independent products</a> ·
+  <a href="#04--private-operational-systems">Private systems</a> ·
+  <a href="#collaboration-with-clear-credit">Collaboration</a> ·
+  <a href="#github-activity">Activity</a>
+</p>
 
 ---
 

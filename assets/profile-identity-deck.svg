@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="560" viewBox="0 0 1600 560" role="img" aria-labelledby="title desc">
+  <title id="title">Daniel Conroy — systems architect and product builder</title>
+  <desc id="desc">A command-deck identity panel showing ten first-party systems, seven public products and three private operational platforms.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071017"/>
+      <stop offset="0.58" stop-color="#0B141D"/>
+      <stop offset="1" stop-color="#11101C"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#58E6D9"/>
+      <stop offset="0.52" stop-color="#9A7CFF"/>
+      <stop offset="1" stop-color="#F2B84B"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#9FB0BF" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="560" rx="28" fill="url(#background)"/>
+  <rect x="1.5" y="1.5" width="1597" height="557" rx="26.5" fill="none" stroke="#31414D" stroke-width="3"/>
+  <rect x="2" y="2" width="1596" height="7" rx="3.5" fill="url(#signal)"/>
+  <rect x="0" y="0" width="1600" height="560" rx="28" fill="url(#grid)"/>
+
+  <circle cx="72" cy="66" r="8" fill="#58E6D9" filter="url(#glow)"/>
+  <text x="96" y="75" fill="#AEBCC8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="23" font-weight="700" letter-spacing="4">EDINBURGH · SCOTLAND</text>
+  <text x="1008" y="75" fill="#8D9BA7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="3">PORTFOLIO / LIVE ESTATE</text>
+
+  <text x="68" y="182" fill="#F4F1EB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="88" font-weight="900" letter-spacing="-3">DANIEL CONROY</text>
+  <rect x="70" y="211" width="775" height="4" rx="2" fill="url(#signal)"/>
+  <text x="70" y="258" fill="#58E6D9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="800" letter-spacing="3">SYSTEMS ARCHITECT · PRODUCT BUILDER</text>
+  <text x="70" y="296" fill="#9A7CFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="800" letter-spacing="3">FOUNDER · LIVE OPERATOR</text>
+
+  <text x="70" y="350" fill="#D9E0E6" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="27" font-weight="500">I build systems people can trust—across products,</text>
+  <text x="70" y="389" fill="#D9E0E6" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="27" font-weight="500">intelligence, community and live operations.</text>
+
+  <g transform="translate(70 428)">
+    <rect width="198" height="64" rx="10" fill="#0C1B21" stroke="#2A5B5C" stroke-width="2"/>
+    <text x="99" y="40" text-anchor="middle" fill="#58E6D9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="800" letter-spacing="3">BUILD</text>
+    <rect x="212" width="198" height="64" rx="10" fill="#151426" stroke="#55477D" stroke-width="2"/>
+    <text x="311" y="40" text-anchor="middle" fill="#9A7CFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="800" letter-spacing="3">SHIP</text>
+    <rect x="424" width="198" height="64" rx="10" fill="#211B0D" stroke="#6E5824" stroke-width="2"/>
+    <text x="523" y="40" text-anchor="middle" fill="#F2B84B" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20" font-weight="800" letter-spacing="3">OPERATE</text>
+    <rect x="636" width="198" height="64" rx="10" fill="#241416" stroke="#6C3C3D" stroke-width="2"/>
+    <text x="735" y="40" text-anchor="middle" fill="#FF7A70" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="800" letter-spacing="2">RECOVER</text>
+  </g>
+
+  <line x1="970" y1="105" x2="970" y2="496" stroke="#31414D" stroke-width="2"/>
+  <g transform="translate(1010 112)">
+    <rect width="520" height="105" rx="16" fill="#0C1B21" stroke="#285254" stroke-width="2"/>
+    <text x="28" y="48" fill="#58E6D9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="48" font-weight="900">10</text>
+    <text x="118" y="42" fill="#F4F1EB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="800" letter-spacing="2">FIRST-PARTY SYSTEMS</text>
+    <text x="118" y="75" fill="#8FA0AD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="19">One governed product and operations estate</text>
+
+    <rect y="123" width="520" height="105" rx="16" fill="#151426" stroke="#4E4271" stroke-width="2"/>
+    <text x="28" y="171" fill="#9A7CFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="48" font-weight="900">07</text>
+    <text x="118" y="165" fill="#F4F1EB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="800" letter-spacing="2">PUBLIC PRODUCTS</text>
+    <text x="118" y="198" fill="#8FA0AD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="19">Open, installable or publicly inspectable</text>
+
+    <rect y="246" width="520" height="105" rx="16" fill="#211B0D" stroke="#665220" stroke-width="2"/>
+    <text x="28" y="294" fill="#F2B84B" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="48" font-weight="900">03</text>
+    <text x="118" y="288" fill="#F4F1EB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="800" letter-spacing="2">PRIVATE PLATFORMS</text>
+    <text x="118" y="321" fill="#8FA0AD" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="19">Security-bound systems operated in production</text>
+  </g>
+
+  <text x="1012" y="520" fill="#8D9BA7" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700" letter-spacing="2">FOUNDER · TEAM KILLING BASTARDS</text>
+</svg>
