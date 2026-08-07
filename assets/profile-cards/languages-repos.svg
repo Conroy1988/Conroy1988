@@ -18,14 +18,14 @@
   <circle cx="29" cy="36" r="7" fill="#58E6D9"/>
   <text x="48" y="43" fill="#F4F1EB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="800">Languages by Repository</text>
   <text x="28" y="67" fill="#8E9CAB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">Primary language across public first-party source repositories</text>
-  <text x="28" y="105" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="12">Python</text>
+  <text x="28" y="105" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="12">JavaScript</text>
   <rect x="126" y="94" width="260" height="13" rx="6" fill="#1B2730"/>
-  <rect x="126" y="94" width="250" height="13" rx="6" fill="#3776ab"/>
-  <text x="400" y="105" text-anchor="end" fill="#3776ab" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">3</text>
-  <text x="28" y="136" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="12">JavaScript</text>
+  <rect x="126" y="94" width="250" height="13" rx="6" fill="#f7df1e"/>
+  <text x="400" y="105" text-anchor="end" fill="#f7df1e" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">3</text>
+  <text x="28" y="136" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="12">Python</text>
   <rect x="126" y="125" width="260" height="13" rx="6" fill="#1B2730"/>
-  <rect x="126" y="125" width="250" height="13" rx="6" fill="#f7df1e"/>
-  <text x="400" y="136" text-anchor="end" fill="#f7df1e" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">3</text>
+  <rect x="126" y="125" width="250" height="13" rx="6" fill="#3776ab"/>
+  <text x="400" y="136" text-anchor="end" fill="#3776ab" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">3</text>
   <text x="28" y="167" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="12">C#</text>
   <rect x="126" y="156" width="260" height="13" rx="6" fill="#1B2730"/>
   <rect x="126" y="156" width="83" height="13" rx="6" fill="#178600"/>
