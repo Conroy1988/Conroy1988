@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="230" viewBox="0 0 760 230" role="img" aria-labelledby="title desc">
+  <title id="title">Independent product lab</title><desc id="desc">ChatTime, Auto Page Translator, GitHub Achievement Encyclopedia and Emby Best Episodes.</desc>
+  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#171426"/><stop offset="1" stop-color="#0D1118"/></linearGradient><pattern id="g" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#9E82FF" stroke-opacity="0.08"/></pattern></defs>
+  <rect width="760" height="230" rx="22" fill="url(#bg)"/><rect x="1.5" y="1.5" width="757" height="227" rx="20.5" fill="none" stroke="#554A7C" stroke-width="3"/><rect width="760" height="230" rx="22" fill="url(#g)"/><rect width="9" height="230" rx="4" fill="#9E82FF"/>
+  <rect x="41" y="39" width="42" height="34" rx="7" fill="none" stroke="#9E82FF" stroke-width="4"/><path d="M49 81l9-8h17" fill="none" stroke="#9E82FF" stroke-width="4" stroke-linecap="round"/>
+  <text x="103" y="51" fill="#9E82FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="900" letter-spacing="3">LANE 03 / PRODUCT LAB</text>
+  <text x="42" y="118" fill="#F4F1EB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="39" font-weight="900">SMALL TOOLS. REAL FRICTION.</text>
+  <text x="42" y="158" fill="#9EADB8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21">ChatTime · translation · evidence research · media ranking</text>
+  <rect x="548" y="174" width="170" height="40" rx="20" fill="#9E82FF"/><text x="633" y="200" text-anchor="middle" fill="#0A0712" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15" font-weight="900" letter-spacing="2">OPEN THE LAB</text>
+</svg>
