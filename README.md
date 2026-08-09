@@ -83,9 +83,11 @@ I founded and originally created **Team Killing Bastards** and now lead its iden
 | Public surface | Mission |
 | --- | --- |
 | **[TKB Gaming](https://tkb-gaming.scot/)** | The community home, origin story, core squad and route into the wider estate. |
+| **[Battlefield War Room](https://tkb-gaming.scot/games/battlefield/)** | TKB service records, shared Battlefield history, commendations and live community activity. |
+| **[DamoDex · ARK: Survival Ascended](https://tkb-gaming.scot/games/ark-survival-ascended/)** | Interactive creature, map, resource and survival intelligence with patch-aware source controls. |
 | **[Crimson Desert Guide](https://tkb-gaming.scot/games/crimson-desert/guides/)** | Evidence-led, patch-aware field guide to Pywel, its systems, quests and world. |
 | **[Eco Guide](https://tkb-gaming.scot/games/eco/guides/)** | Versioned guide and world database for civilisation, industry, government and the meteor clock. |
-| **DrainSim Guide** | Mission, equipment and troubleshooting intelligence maintained inside the production estate. |
+| **[DrainSim Guide](https://tkb-gaming.scot/games/drainsim/guides/)** | Mission, equipment and troubleshooting intelligence maintained inside the production estate. |
 | **[MissionChief UK Command Centre](https://tkb-gaming.scot/games/missionchief/guides/)** | Searchable missions, units, stations, training and fleet-planning intelligence. |
 | **[MissionChief Scripts](https://tkb-gaming.scot/mission-chief-scripts/)** | Supported installation and update channel for TKB MissionChief products. |
 
@@ -181,8 +183,8 @@ These systems are private by design. Credentials, deployment topology, member da
 
 | System | Operational mission | My authority |
 | --- | --- | --- |
-| **TKB Discord Bot and ConroyMedia Operations** | Community progression, member administration, GitHub integration, service monitoring, host telemetry, incident correlation, HTTPS gateways, deployment and recovery. | Technical owner · Maintainer · Security authority · Live operator |
-| **Investor Matrix** | US and UK market intelligence, portfolio accounting, exact-decimal positions and P&L, explainable research prioritisation, auditing and human-controlled risk decisions. | Project lead · Admin authority · Architecture and delivery direction |
+| **TKB Discord Bot and ConroyMedia Operations** | Community progression, Passport and member surfaces, private health intelligence, GitHub integration, service monitoring, host telemetry, incident correlation, HTTPS gateways, deployment and recovery. | Technical owner · Maintainer · Security authority · Live operator |
+| **Investor Matrix** | US and UK market intelligence, portfolio accounting, Paper Trading Laboratory, explainable research prioritisation, auditing and human-controlled risk decisions. No broker execution. | Project lead · Admin authority · Architecture and delivery direction |
 | **UK Fire Command** | Persistent Fire and Rescue Service management across Scotland or England: stations, appliances, crews, training, qualification-valid mobilisation, real roads and server-authoritative escalation. | Creator · Product owner · Architecture authority |
 
 Public descriptions explain purpose and boundaries. They do not expose secrets, member information, recovery material or enough topology to weaken the live estate.
