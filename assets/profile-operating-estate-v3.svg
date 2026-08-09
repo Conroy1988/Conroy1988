@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="560" viewBox="0 0 1600 560" role="img" aria-labelledby="title desc">
+  <title id="title">Daniel Conroy — the operating estate</title>
+  <desc id="desc">Eleven first-party systems across four operating lanes: eight public products and three private platforms.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#071017"/>
+      <stop offset="0.55" stop-color="#0B141C"/>
+      <stop offset="1" stop-color="#12101A"/>
+    </linearGradient>
+    <linearGradient id="signal" x1="0" y1="0" x2="1" y2="0">
+      <stop stop-color="#5CE1D6"/>
+      <stop offset="0.5" stop-color="#9E82FF"/>
+      <stop offset="1" stop-color="#FFB84D"/>
+    </linearGradient>
+    <pattern id="grid" width="42" height="42" patternUnits="userSpaceOnUse">
+      <path d="M42 0H0V42" fill="none" stroke="#C0CFD8" stroke-opacity="0.045"/>
+    </pattern>
+    <filter id="glow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="8" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="1600" height="560" rx="28" fill="url(#bg)"/>
+  <rect x="1.5" y="1.5" width="1597" height="557" rx="26.5" fill="none" stroke="#30414C" stroke-width="3"/>
+  <rect x="2" y="2" width="1596" height="7" rx="4" fill="url(#signal)"/>
+  <rect width="1600" height="560" rx="28" fill="url(#grid)"/>
+
+  <circle cx="70" cy="62" r="8" fill="#5CE1D6" filter="url(#glow)"/>
+  <text x="94" y="70" fill="#AEBBC5" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="800" letter-spacing="4">THE OPERATING ESTATE / EDINBURGH</text>
+  <text x="70" y="180" fill="#F4F1EB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="88" font-weight="900" letter-spacing="-3">DANIEL CONROY</text>
+  <rect x="70" y="211" width="806" height="4" rx="2" fill="url(#signal)"/>
+  <text x="70" y="258" fill="#5CE1D6" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="25" font-weight="900" letter-spacing="4">SYSTEMS WITH CONSEQUENCE</text>
+  <text x="70" y="318" fill="#D8E0E6" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="27" font-weight="500">Public products people can use. Private operations that</text>
+  <text x="70" y="357" fill="#D8E0E6" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="27" font-weight="500">can explain their state, limit authority and survive failure.</text>
+
+  <g transform="translate(70 402)">
+    <rect width="195" height="64" rx="11" fill="#0B1B20" stroke="#2E6261" stroke-width="2"/>
+    <text x="97.5" y="27" text-anchor="middle" fill="#84939F" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="800" letter-spacing="2">01</text>
+    <text x="97.5" y="49" text-anchor="middle" fill="#5CE1D6" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="900" letter-spacing="2">IDEA</text>
+    <path d="M205 32h20" stroke="#4A5A64" stroke-width="2"/>
+    <rect x="235" width="195" height="64" rx="11" fill="#151426" stroke="#554A7C" stroke-width="2"/>
+    <text x="332.5" y="27" text-anchor="middle" fill="#84939F" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="800" letter-spacing="2">02</text>
+    <text x="332.5" y="49" text-anchor="middle" fill="#9E82FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="900" letter-spacing="2">PRODUCT</text>
+    <path d="M440 32h20" stroke="#4A5A64" stroke-width="2"/>
+    <rect x="470" width="195" height="64" rx="11" fill="#211A0C" stroke="#705923" stroke-width="2"/>
+    <text x="567.5" y="27" text-anchor="middle" fill="#84939F" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="800" letter-spacing="2">03</text>
+    <text x="567.5" y="49" text-anchor="middle" fill="#FFB84D" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="900" letter-spacing="2">OPERATION</text>
+    <path d="M675 32h20" stroke="#4A5A64" stroke-width="2"/>
+    <rect x="705" width="195" height="64" rx="11" fill="#231416" stroke="#704143" stroke-width="2"/>
+    <text x="802.5" y="27" text-anchor="middle" fill="#84939F" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13" font-weight="800" letter-spacing="2">04</text>
+    <text x="802.5" y="49" text-anchor="middle" fill="#FF7A70" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="900" letter-spacing="2">RECOVERY</text>
+  </g>
+
+  <rect x="1000" y="54" width="530" height="452" rx="22" fill="#0B1219" fill-opacity="0.93" stroke="#344651" stroke-width="2"/>
+  <text x="1040" y="101" fill="#8F9DA8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="800" letter-spacing="3">PORTFOLIO INDEX / CURRENT</text>
+  <circle cx="1145" cy="226" r="86" fill="#0B1B20" stroke="#5CE1D6" stroke-width="4"/>
+  <circle cx="1145" cy="226" r="72" fill="none" stroke="#5CE1D6" stroke-opacity="0.22" stroke-width="2"/>
+  <text x="1145" y="245" text-anchor="middle" fill="#5CE1D6" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="74" font-weight="900">11</text>
+  <text x="1260" y="194" fill="#F4F1EB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="25" font-weight="900" letter-spacing="2">FIRST-PARTY</text>
+  <text x="1260" y="231" fill="#F4F1EB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="25" font-weight="900" letter-spacing="2">SYSTEMS</text>
+  <text x="1260" y="274" fill="#9E82FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21" font-weight="800">08 PUBLIC</text>
+  <text x="1390" y="274" fill="#FFB84D" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21" font-weight="800">03 PRIVATE</text>
+  <line x1="1040" y1="336" x2="1490" y2="336" stroke="#344651" stroke-width="2"/>
+  <text x="1040" y="382" fill="#F4F1EB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="26" font-weight="900">04 OPERATING LANES</text>
+  <text x="1040" y="424" fill="#5CE1D6" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="800" letter-spacing="2">PUBLISHING · MISSION OPERATIONS</text>
+  <text x="1040" y="459" fill="#9E82FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="17" font-weight="800" letter-spacing="2">PRODUCT LAB · PRIVATE COMMAND</text>
+  <circle cx="1050" cy="485" r="5" fill="#22C55E"/>
+  <text x="1067" y="491" fill="#8F9DA8" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16" font-weight="700" letter-spacing="1.5">FOUNDER · TKB / LIVE OPERATOR</text>
+</svg>

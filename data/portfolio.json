@@ -30,6 +30,13 @@
       "url": "https://github.com/Conroy1988/UK-Emergency-Response-Icons-Reborn-2026"
     },
     {
+      "id": "chattime-for-chatgpt",
+      "name": "ChatTime for ChatGPT",
+      "visibility": "public",
+      "repository": "Conroy1988/ChatTime-for-ChatGPT",
+      "url": "https://github.com/Conroy1988/ChatTime-for-ChatGPT"
+    },
+    {
       "id": "github-achievements",
       "name": "GitHub Achievement Encyclopedia",
       "visibility": "public",
