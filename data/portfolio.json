@@ -37,6 +37,20 @@
       "url": "https://github.com/Conroy1988/ChatTime-for-ChatGPT"
     },
     {
+      "id": "level-smart-volume",
+      "name": "Level — Smart Volume for Brave",
+      "visibility": "public",
+      "repository": "Conroy1988/Level-Smart-Volume-for-Brave",
+      "url": "https://github.com/Conroy1988/Level-Smart-Volume-for-Brave"
+    },
+    {
+      "id": "discord-game-emulator",
+      "name": "Discord Game Emulator",
+      "visibility": "public",
+      "repository": "Conroy1988/Discord-Game-Emulator",
+      "url": "https://github.com/Conroy1988/Discord-Game-Emulator"
+    },
+    {
       "id": "github-achievements",
       "name": "GitHub Achievement Encyclopedia",
       "visibility": "public",
@@ -45,7 +59,7 @@
     },
     {
       "id": "auto-page-translator",
-      "name": "Auto Page Translator for Brave",
+      "name": "Private Auto Page Translator",
       "visibility": "public",
       "repository": "Conroy1988/Brave-Auto-Page-Translator",
       "url": "https://chromewebstore.google.com/detail/auto-page-translator-for/pilpighhgdglgngmakjepoadacbhpoeo"

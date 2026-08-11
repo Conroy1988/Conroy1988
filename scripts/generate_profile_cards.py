@@ -156,7 +156,7 @@ def collect_profile_data() -> dict[str, Any]:
 
 def fallback_data() -> dict[str, Any]:
     return {
-        "public_repositories": 12,
+        "public_repositories": 14,
         "repo_languages": Counter({"JavaScript": 2, "Python": 1, "TypeScript": 1}),
         "byte_languages": Counter({"JavaScript": 58, "Python": 28, "TypeScript": 10, "CSS": 4}),
         "events_30d": 0,
