@@ -31,8 +31,8 @@
   <rect x="150" y="210" width="10" height="10" rx="3" fill="#9A7CFF" opacity="1"/>
   <rect x="165" y="205" width="10" height="15" rx="3" fill="#9A7CFF" opacity="1"/>
   <rect x="180" y="205" width="10" height="15" rx="3" fill="#9A7CFF" opacity="1"/>
-  <rect x="195" y="200" width="10" height="20" rx="3" fill="#9A7CFF" opacity="1"/>
-  <rect x="210" y="147" width="10" height="73" rx="3" fill="#9A7CFF" opacity="1"/>
+  <rect x="195" y="210" width="10" height="10" rx="3" fill="#9A7CFF" opacity="1"/>
+  <rect x="210" y="163" width="10" height="57" rx="3" fill="#9A7CFF" opacity="1"/>
   <rect x="225" y="163" width="10" height="57" rx="3" fill="#9A7CFF" opacity="1"/>
   <rect x="240" y="210" width="10" height="10" rx="3" fill="#9A7CFF" opacity="1"/>
   <rect x="255" y="100" width="10" height="120" rx="3" fill="#58E6D9" opacity="1"/>
@@ -42,7 +42,7 @@
   <rect x="315" y="189" width="10" height="31" rx="3" fill="#9A7CFF" opacity="1"/>
   <rect x="330" y="184" width="10" height="36" rx="3" fill="#9A7CFF" opacity="1"/>
   <rect x="345" y="215" width="10" height="5" rx="3" fill="#9A7CFF" opacity="1"/>
-  <rect x="360" y="205" width="10" height="15" rx="3" fill="#9A7CFF" opacity="1"/>
+  <rect x="360" y="179" width="10" height="41" rx="3" fill="#9A7CFF" opacity="1"/>
   <rect x="375" y="220" width="10" height="2" rx="3" fill="#9A7CFF" opacity="0.18"/>
   <text x="35" y="242" text-anchor="middle" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="9">0</text>  <text x="125" y="242" text-anchor="middle" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="9">6</text>  <text x="215" y="242" text-anchor="middle" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="9">12</text>  <text x="305" y="242" text-anchor="middle" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="9">18</text>  <text x="380" y="242" text-anchor="middle" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="9">23</text>
   <text x="28" y="260" fill="#58E6D9" font-family="Segoe UI, Arial, sans-serif" font-size="10">Peak public activity: 15:00–16:00</text>
