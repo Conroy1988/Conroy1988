@@ -19,10 +19,10 @@
   <text x="48" y="43" fill="#F4F1EB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="800">Languages by Code Volume</text>
   <text x="28" y="67" fill="#8E9CAB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">Aggregated public source bytes reported by GitHub</text>
   <circle cx="120" cy="166" r="58" fill="none" stroke="#1B2730" stroke-width="20"/>
-  <circle cx="120" cy="166" r="58" fill="none" stroke="#f7df1e" stroke-width="20" stroke-dasharray="318.15 46.28" stroke-dashoffset="-0.00" transform="rotate(-90 120 166)"/>
-  <circle cx="120" cy="166" r="58" fill="none" stroke="#3776ab" stroke-width="20" stroke-dasharray="29.12 335.31" stroke-dashoffset="-318.15" transform="rotate(-90 120 166)"/>
-  <circle cx="120" cy="166" r="58" fill="none" stroke="#e34f26" stroke-width="20" stroke-dasharray="12.42 352.01" stroke-dashoffset="-347.27" transform="rotate(-90 120 166)"/>
-  <circle cx="120" cy="166" r="58" fill="none" stroke="#1572b6" stroke-width="20" stroke-dasharray="3.38 361.05" stroke-dashoffset="-359.68" transform="rotate(-90 120 166)"/>
+  <circle cx="120" cy="166" r="58" fill="none" stroke="#f7df1e" stroke-width="20" stroke-dasharray="318.18 46.25" stroke-dashoffset="-0.00" transform="rotate(-90 120 166)"/>
+  <circle cx="120" cy="166" r="58" fill="none" stroke="#3776ab" stroke-width="20" stroke-dasharray="29.10 335.33" stroke-dashoffset="-318.18" transform="rotate(-90 120 166)"/>
+  <circle cx="120" cy="166" r="58" fill="none" stroke="#e34f26" stroke-width="20" stroke-dasharray="12.41 352.01" stroke-dashoffset="-347.28" transform="rotate(-90 120 166)"/>
+  <circle cx="120" cy="166" r="58" fill="none" stroke="#1572b6" stroke-width="20" stroke-dasharray="3.38 361.05" stroke-dashoffset="-359.69" transform="rotate(-90 120 166)"/>
   <circle cx="120" cy="166" r="58" fill="none" stroke="#9A7CFF" stroke-width="20" stroke-dasharray="1.36 363.06" stroke-dashoffset="-363.06" transform="rotate(-90 120 166)"/>
   <circle cx="120" cy="166" r="37" fill="#0B151E"/>
   <text x="120" y="161" text-anchor="middle" fill="#f0f6fc" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="800">5</text>
