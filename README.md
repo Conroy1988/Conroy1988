@@ -1,18 +1,24 @@
 <div align="center">
 
-<img src="./assets/profile-hero-systems-atelier-v3.webp" alt="Daniel Conroy's systems atelier in Edinburgh, combining public products, emergency operations and private infrastructure" width="100%">
+<img src="./assets/profile-hero-systems-observatory-v4.webp" alt="Daniel Conroy's Edinburgh systems observatory, unifying emergency operations, browser products, media software, community systems and infrastructure" width="100%">
 
 <br>
 
-<img src="./assets/profile-operating-estate-v3.svg" alt="Daniel Conroy — eleven first-party systems across publishing, mission operations, independent products and private command" width="100%">
+<img src="./assets/profile-operating-estate-v4.svg" alt="Daniel Conroy — thirteen first-party systems across publishing, mission operations, independent products and private command" width="100%">
 
 </div>
 
 <p align="center">
   <a href="#01--public-estate"><img src="./assets/route-public-estate-v3.svg" alt="Enter the TKB public estate" width="49%"></a>
   <a href="#02--mission-operations"><img src="./assets/route-mission-operations-v3.svg" alt="Enter MissionChief operations" width="49%"></a>
-  <a href="#03--product-lab"><img src="./assets/route-product-lab-v3.svg" alt="Open the independent product lab" width="49%"></a>
+  <a href="#03--product-lab"><img src="./assets/route-product-lab-v4.svg" alt="Open the six-product independent lab" width="49%"></a>
   <a href="#04--private-command"><img src="./assets/route-private-command-v3.svg" alt="View private command systems" width="49%"></a>
+</p>
+
+<p align="center">
+  <a href="https://tkb-gaming.scot/"><img src="https://img.shields.io/badge/ENTER-TKB_GAMING-5CE1D6?style=for-the-badge&labelColor=071017" alt="Visit TKB Gaming"></a>
+  <a href="https://github.com/Conroy1988?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-PUBLIC_SOURCE-9E82FF?style=for-the-badge&logo=github&logoColor=white&labelColor=071017" alt="Explore Daniel Conroy's public repositories"></a>
+  <a href="https://ko-fi.com/D4P124RWI9"><img src="https://img.shields.io/badge/SUPPORT-KO--FI-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white&labelColor=071017" alt="Support Daniel Conroy on Ko-fi"></a>
 </p>
 
 <p align="center">
@@ -49,7 +55,7 @@ The subject changes. The operating standard does not.
 
 ## Portfolio register
 
-The current estate contains **eleven first-party systems**: **eight public products** and **three private operational platforms**. Collaborations, forks, upstream contributions, private recovery mirrors and archived source history are deliberately kept outside that ownership count.
+The current estate contains **thirteen first-party systems**: **ten public products** and **three private operational platforms**. Two collaboration orbits, forks, upstream contributions, private recovery mirrors and archived source history are deliberately kept outside that ownership count.
 
 | Public product | What it is · my role |
 | --- | --- |
@@ -58,8 +64,10 @@ The current estate contains **eleven first-party systems**: **eight public produ
 | **[TKB UK Emergency Fleet — Animated](https://github.com/Conroy1988/missionchief-uk-animated-graphics)** | Original UK emergency-services vehicle graphics for MissionChief. **Creator · Product direction · Maintainer** |
 | **[UK Emergency Response Icons Reborn 2026](https://github.com/Conroy1988/UK-Emergency-Response-Icons-Reborn-2026)** | Complete mission-marker system with native states and permanent TKB Response Levels. **Creator · Product direction · Maintainer** |
 | **[ChatTime for ChatGPT](https://github.com/Conroy1988/ChatTime-for-ChatGPT)** | Privacy-first Chromium extension that reveals the original date and time of ChatGPT messages. **Creator · Product designer · Maintainer** |
+| **[Level — Smart Volume for Brave](https://github.com/Conroy1988/Level-Smart-Volume-for-Brave)** | Local adaptive loudness levelling that raises quiet dialogue and contains sudden blasts. **Creator · Product designer · Maintainer** |
+| **[Discord Game Emulator](https://github.com/Conroy1988/Discord-Game-Emulator)** | Experimental Windows utility for publishing cosmetic game presence through Discord's local Rich Presence connection. **Creator · Product designer · Maintainer** |
 | **[GitHub Achievement Encyclopedia](https://conroy1988.github.io/Achievements/)** | Evidence-led reference, research system and static API for GitHub profile achievements. **Creator · Research owner · Maintainer** |
-| **[Auto Page Translator for Brave](https://github.com/Conroy1988/Brave-Auto-Page-Translator)** | Rule-driven translation inside the original webpage with explicit privacy boundaries. **Creator · Product designer · Maintainer** |
+| **[Private Auto Page Translator](https://github.com/Conroy1988/Brave-Auto-Page-Translator)** | Context-aware translation inside the original webpage with explicit privacy boundaries and site-scoped control. **Creator · Product designer · Maintainer** |
 | **[Emby Best Episodes](https://github.com/Conroy1988/Emby-Best-Episodes)** | Server plugin that creates rating-sorted season playlists without changing Emby metadata. **Creator · Product owner · Maintainer** |
 
 | Private system | What it is · my role |
@@ -70,7 +78,7 @@ The current estate contains **eleven first-party systems**: **eight public produ
 
 The machine-readable ownership register is maintained in [`data/portfolio.json`](data/portfolio.json). The same source drives the generated portfolio totals below, preventing the written page and automated metrics from drifting apart.
 
-<img src="./assets/profile-portfolio-atlas-v3.webp" alt="A systems architect's workbench connecting TKB publishing, emergency mapping, ChatTime, translation, media, market intelligence and infrastructure" width="100%">
+<img src="./assets/profile-portfolio-atlas-v3.webp" alt="A systems architect's workbench connecting TKB publishing, emergency mapping, browser tools, sound, presence, media, market intelligence and infrastructure" width="100%">
 
 ---
 
@@ -134,9 +142,43 @@ Every mapped UK mission receives a compact incident marker and a permanent **TKB
 
 ## 03 · Product lab
 
-The product lab starts with annoyances that should not require a server, a subscription or an invasion of privacy to solve.
+The product lab starts with recurring annoyances that should not require a subscription, a developer-operated server or an invasion of privacy to solve. Six products now cover **presence, sound, language, time, evidence and media**—each with an explicit trust boundary.
 
-### [ChatTime for ChatGPT](https://github.com/Conroy1988/ChatTime-for-ChatGPT) · newest public product
+### [Discord Game Emulator](https://github.com/Conroy1988/Discord-Game-Emulator) · newest public product
+
+A polished Windows utility for choosing a recognised game identity, shaping optional activity text and publishing cosmetic game presence through Discord's local Rich Presence connection. The Rust backend resolves selections against the active detectable-game catalogue rather than accepting arbitrary application IDs.
+
+It is experimental and unofficial: presence is cosmetic only, cannot prove ownership or genuine gameplay, and does not complete Quests, earn Orbs or access Discord account data.
+
+[![Release](https://img.shields.io/github/v/release/Conroy1988/Discord-Game-Emulator?label=WINDOWS%20RELEASE&color=765FFF&labelColor=071017)](https://github.com/Conroy1988/Discord-Game-Emulator/releases/latest)
+[![CI](https://github.com/Conroy1988/Discord-Game-Emulator/actions/workflows/ci.yml/badge.svg)](https://github.com/Conroy1988/Discord-Game-Emulator/actions/workflows/ci.yml)
+[![Stack](https://img.shields.io/badge/TAURI%20%2B%20RUST-LOCAL%20IPC-5CE1D6?labelColor=071017)](https://github.com/Conroy1988/Discord-Game-Emulator)
+
+[**Download the Windows release**](https://github.com/Conroy1988/Discord-Game-Emulator/releases/latest) · [**Inspect privacy and capability boundaries**](https://github.com/Conroy1988/Discord-Game-Emulator/blob/main/SECURITY.md)
+
+### [Level — Smart Volume for Brave](https://github.com/Conroy1988/Level-Smart-Volume-for-Brave)
+
+Level is an automatic loudness leveller rather than a blunt volume booster. It lifts sustained quiet material gradually, reduces loud changes quickly, shapes dialogue when requested and catches peaks across four tuned listening modes.
+
+Audio processing is transient and local. There is no server, recording, account, advertising, analytics or tracking; website preferences stay in extension storage.
+
+[![Version](https://img.shields.io/badge/VERSION-1.0.0-9E82FF?labelColor=071017)](https://github.com/Conroy1988/Level-Smart-Volume-for-Brave)
+[![Manifest V3](https://img.shields.io/badge/MANIFEST-V3-5CE1D6?labelColor=071017)](https://github.com/Conroy1988/Level-Smart-Volume-for-Brave)
+[![Audio](https://img.shields.io/badge/AUDIO-100%25%20LOCAL-22C55E?labelColor=071017)](https://github.com/Conroy1988/Level-Smart-Volume-for-Brave/blob/main/docs/ARCHITECTURE.md)
+
+[**Open the project**](https://github.com/Conroy1988/Level-Smart-Volume-for-Brave) · [**Read the architecture**](https://github.com/Conroy1988/Level-Smart-Volume-for-Brave/blob/main/docs/ARCHITECTURE.md) · [**Inspect the privacy policy**](https://github.com/Conroy1988/Level-Smart-Volume-for-Brave/blob/main/docs/PRIVACY.md)
+
+### [Private Auto Page Translator](https://github.com/Conroy1988/Brave-Auto-Page-Translator)
+
+A privacy-conscious Manifest V3 extension for Brave and Chromium. It translates readable text inside the original page, preserves the site's real session and interactive state, masks common private values before approved external translation, and keeps automatic behaviour explicitly site-scoped.
+
+[![Chrome Web Store](https://img.shields.io/badge/CHROME%20WEB%20STORE-INSTALL-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/auto-page-translator-for/pilpighhgdglgngmakjepoadacbhpoeo)
+[![Manifest V3](https://img.shields.io/badge/MANIFEST-V3-9E82FF?labelColor=071017)](https://github.com/Conroy1988/Brave-Auto-Page-Translator)
+[![Privacy](https://img.shields.io/badge/PRIVACY-FIREWALL-22C55E?labelColor=071017)](https://github.com/Conroy1988/Brave-Auto-Page-Translator/blob/main/PRIVACY.md)
+
+[**Install from the Chrome Web Store**](https://chromewebstore.google.com/detail/auto-page-translator-for/pilpighhgdglgngmakjepoadacbhpoeo) · [**Inspect the public source**](https://github.com/Conroy1988/Brave-Auto-Page-Translator)
+
+### [ChatTime for ChatGPT](https://github.com/Conroy1988/ChatTime-for-ChatGPT)
 
 ChatTime reveals the original creation date and time of messages on `chatgpt.com`. It supports local time or UTC, 12-hour or 24-hour clocks, optional dates and seconds, placement above or below messages, and independent user/reply visibility.
 
@@ -147,15 +189,6 @@ The extension uses message time already loaded in the page. It has no server, an
 [![Privacy](https://img.shields.io/badge/NETWORK%20REQUESTS-NONE-22C55E?labelColor=071017)](https://github.com/Conroy1988/ChatTime-for-ChatGPT/blob/main/PRIVACY.md)
 
 [**Open the project**](https://github.com/Conroy1988/ChatTime-for-ChatGPT) · [**Read the privacy policy**](https://github.com/Conroy1988/ChatTime-for-ChatGPT/blob/main/PRIVACY.md)
-
-### [Auto Page Translator for Brave](https://github.com/Conroy1988/Brave-Auto-Page-Translator)
-
-A privacy-conscious Manifest V3 extension for Brave and Chromium. It translates readable text inside the original page, preserves the real site's session and interactive state, restores original content in one action and keeps automation explicitly site-scoped.
-
-[![Chrome Web Store](https://img.shields.io/badge/CHROME%20WEB%20STORE-INSTALL-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/auto-page-translator-for/pilpighhgdglgngmakjepoadacbhpoeo)
-[![Manifest V3](https://img.shields.io/badge/MANIFEST-V3-9E82FF?labelColor=071017)](https://github.com/Conroy1988/Brave-Auto-Page-Translator)
-
-[**Install from the Chrome Web Store**](https://chromewebstore.google.com/detail/auto-page-translator-for/pilpighhgdglgngmakjepoadacbhpoeo) · [**Inspect the public source**](https://github.com/Conroy1988/Brave-Auto-Page-Translator)
 
 ### [GitHub Achievement Encyclopedia](https://conroy1988.github.io/Achievements/)
 
@@ -251,11 +284,15 @@ flowchart LR
 ![TypeScript](https://img.shields.io/badge/TypeScript-071017?style=for-the-badge&logo=typescript&logoColor=3178C6)
 ![Python](https://img.shields.io/badge/Python-071017?style=for-the-badge&logo=python&logoColor=3776AB)
 ![PowerShell](https://img.shields.io/badge/PowerShell-071017?style=for-the-badge&logo=powershell&logoColor=5391FE)
+![Rust](https://img.shields.io/badge/Rust-071017?style=for-the-badge&logo=rust&logoColor=F4F1EB)
+![C Sharp](https://img.shields.io/badge/C%23-071017?style=for-the-badge&logo=dotnet&logoColor=512BD4)
 
 ![Astro](https://img.shields.io/badge/Astro-071017?style=for-the-badge&logo=astro&logoColor=BC52EE)
 ![Next.js](https://img.shields.io/badge/Next.js-071017?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-071017?style=for-the-badge&logo=fastapi&logoColor=009688)
 ![NestJS](https://img.shields.io/badge/NestJS-071017?style=for-the-badge&logo=nestjs&logoColor=E0234E)
+![React](https://img.shields.io/badge/React-071017?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tauri](https://img.shields.io/badge/Tauri-071017?style=for-the-badge&logo=tauri&logoColor=FFC131)
 
 ![Docker](https://img.shields.io/badge/Docker-071017?style=for-the-badge&logo=docker&logoColor=2496ED)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-071017?style=for-the-badge&logo=postgresql&logoColor=4169E1)
@@ -317,6 +354,7 @@ Development is supervised by **Eli and Nala**, who contribute no code but retain
 [![GitHub](https://img.shields.io/badge/OPEN-CONROY1988-5CE1D6?style=for-the-badge&logo=github&logoColor=white&labelColor=071017)](https://github.com/Conroy1988)
 [![TKB](https://img.shields.io/badge/EXPLORE-TEAM_KILLING_BASTARDS-9E82FF?style=for-the-badge&logo=github&logoColor=white&labelColor=071017)](https://github.com/Team-Killing-Bastards)
 [![Website](https://img.shields.io/badge/VISIT-TKB_GAMING-FFB84D?style=for-the-badge&labelColor=071017)](https://tkb-gaming.scot/)
+[![Ko-fi](https://img.shields.io/badge/SUPPORT-KO--FI-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white&labelColor=071017)](https://ko-fi.com/D4P124RWI9)
 
 <sub>Independent projects and community systems. Third-party product names and trademarks remain the property of their respective owners.</sub>
 
