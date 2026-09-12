@@ -1,361 +1,161 @@
-<div align="center">
-
-<img src="./assets/profile-hero-systems-observatory-v4.webp" alt="Daniel Conroy's Edinburgh systems observatory, unifying emergency operations, browser products, media software, community systems and infrastructure" width="100%">
-
-<br>
-
-<img src="./assets/profile-operating-estate-v4.svg" alt="Daniel Conroy — thirteen first-party systems across publishing, mission operations, independent products and private command" width="100%">
-
-</div>
-
 <p align="center">
-  <a href="#01--public-estate"><img src="./assets/route-public-estate-v3.svg" alt="Enter the TKB public estate" width="49%"></a>
-  <a href="#02--mission-operations"><img src="./assets/route-mission-operations-v3.svg" alt="Enter MissionChief operations" width="49%"></a>
-  <a href="#03--product-lab"><img src="./assets/route-product-lab-v4.svg" alt="Open the six-product independent lab" width="49%"></a>
-  <a href="#04--private-command"><img src="./assets/route-private-command-v3.svg" alt="View private command systems" width="49%"></a>
+  <img src="assets/identity/masthead.svg" width="100%" alt="Daniel Conroy — Useful software. Better game worlds. Built in Edinburgh. Shared everywhere.">
+  <img src="assets/profile-hero-systems-observatory-v4.webp" width="100%" alt="An imagined Edinburgh studio overlooking the castle, with game maps, software displays and two cats">
 </p>
 
 <p align="center">
-  <a href="https://tkb-gaming.scot/"><img src="https://img.shields.io/badge/ENTER-TKB_GAMING-5CE1D6?style=for-the-badge&labelColor=071017" alt="Visit TKB Gaming"></a>
-  <a href="https://github.com/Conroy1988?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE-PUBLIC_SOURCE-9E82FF?style=for-the-badge&logo=github&logoColor=white&labelColor=071017" alt="Explore Daniel Conroy's public repositories"></a>
-  <a href="https://ko-fi.com/D4P124RWI9"><img src="https://img.shields.io/badge/SUPPORT-KO--FI-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white&labelColor=071017" alt="Support Daniel Conroy on Ko-fi"></a>
+  <a href="https://tkb-gaming.scot/"><strong>TKB GAMING ↗</strong></a> &nbsp; · &nbsp;
+  <a href="https://github.com/Conroy1988?tab=repositories"><strong>PUBLIC SOURCE ↗</strong></a> &nbsp; · &nbsp;
+  <a href="https://tkb-gaming.scot/soundscape/"><strong>CRNY MUSIC ↗</strong></a> &nbsp; · &nbsp;
+  <a href="https://ko-fi.com/D4P124RWI9"><strong>SUPPORT ↗</strong></a>
 </p>
+
+I'm **Dan**, an independent project creator based in **Edinburgh, Scotland**, and co-owner of **TKB Gaming** alongside [MartyBlyth](https://github.com/Martyblyth).
+
+I build around the things I use: tools that make a game easier to command, guides that answer the next question, software that removes an everyday annoyance, and systems that keep a community running. My work brings together product direction, interface design, development and ongoing maintenance.
 
 <p align="center">
-  <strong>PORTFOLIO INDEX</strong><br>
-  <a href="#the-builder">Builder</a> ·
-  <a href="#portfolio-register">Register</a> ·
-  <a href="#01--public-estate">Publishing</a> ·
-  <a href="#02--mission-operations">Mission operations</a> ·
-  <a href="#03--product-lab">Product lab</a> ·
-  <a href="#04--private-command">Private command</a> ·
-  <a href="#collaboration-without-blurred-ownership">Collaboration</a> ·
-  <a href="#public-activity">Activity</a>
+  <a href="#game-worlds"><img src="assets/identity/games.svg" width="49%" alt="Game worlds — TKB guides, atlases and CRNY music"></a>
+  <a href="#missionchief"><img src="assets/identity/missionchief.svg" width="49%" alt="MissionChief — Toolkit, animated vehicles and mission icons"></a>
+  <a href="#independent-software"><img src="assets/identity/software.svg" width="49%" alt="Independent software — achievements, browsers and media"></a>
+  <a href="#behind-the-systems"><img src="assets/identity/collaboration.svg" width="49%" alt="Behind the systems — infrastructure and collaboration"></a>
 </p>
 
----
+## Start here
 
-## The builder
+| Put it to work | What you get |
+| :--- | :--- |
+| **[Install the MissionChief Toolkit →](https://chromewebstore.google.com/detail/missionchief-map-command/lmnojpchebgcochdfnfjmnficicnaaoc)** | Map controls, mission insights, fleet tools and guided administration in one browser extension. **Early Access**; check the store for the current release and support status. |
+| **[Download Achievement Relay →](https://github.com/Conroy1988/Achievement-Relay/releases/latest)** | Your new Xbox and Steam achievements, shared to Discord from a Windows tray app. |
+| **[Explore the Palworld companion →](https://tkb-gaming.scot/games/palworld/)** | An interactive atlas, Palpedia, breeding tools, comparisons and practical field guides. |
+| **[Install Private Auto Page Translator →](https://chromewebstore.google.com/detail/auto-page-translator-for/pilpighhgdglgngmakjepoadacbhpoeo)** | Context-aware translation inside the page, with reading tools and controls for individual sites. |
 
-I am **Daniel Conroy**, an independent systems architect and product builder based in **Edinburgh, Scotland**.
+## Game worlds
 
-I turn persistent friction into working systems: community platforms, game intelligence, emergency-command tools, browser utilities, media software, private market intelligence and the infrastructure that keeps them alive. My work spans product direction, interface design, architecture, implementation, evidence, validation, delivery and live operation.
+**[TKB Gaming](https://tkb-gaming.scot/)** brings the community, guides and creative projects together. Marty and I are equal co-owners. Each guide is built around what players need to find, understand or do next.
 
-The subject changes. The operating standard does not.
+| Explore | Inside |
+| :--- | :--- |
+| **[Palworld Field System](https://tkb-gaming.scot/games/palworld/)** | Atlas, Palpedia, breeding, crafting, skills, comparisons and a local save inspector. |
+| **[MissionChief UK Command Centre](https://tkb-gaming.scot/games/missionchief/guides/)** | Missions, vehicles, stations, training and emergency-service planning. |
+| **[Crimson Desert](https://tkb-gaming.scot/games/crimson-desert/guides/)** | A field guide to Pywel, its quests, systems and world. |
+| **[ARK / DamoDex](https://tkb-gaming.scot/games/ark-survival-ascended/)** | Creature, map, resource and survival intelligence for ARK: Survival Ascended. |
+| **[Battlefield War Room](https://tkb-gaming.scot/games/battlefield/)** | The squad's service records, shared history and community activity. |
+| **[Eco](https://tkb-gaming.scot/games/eco/guides/)** | A guide and world database for industry, government and civilisation. |
+| **[DrainSim](https://tkb-gaming.scot/games/drainsim/guides/)** | Mission, equipment and troubleshooting guidance. |
+| **[TKB Soundscape / CRNY](https://tkb-gaming.scot/soundscape/)** | My cinematic music projects, brought together in a dedicated listening space. |
 
-| Discover the real problem | Design the decision surface |
-| --- | --- |
-| Map the workflow, authority, evidence and failure points before shaping the interface. | Make complex state legible, responsive and worth acting on. |
-| **Ship with proof** | **Remain accountable** |
-| Validate the exact build, preserve a recovery path and make distribution unambiguous. | Observe the live system, constrain its authority and own what happens after launch. |
+## MissionChief
 
-> I do not treat “it started once” as an operational definition.
+**One suite: the controls, the fleet and the incident map.** These are my projects; Command Nexus is credited separately below.
 
----
+### Map Command Toolkit
 
-## Portfolio register
+Bring map controls, mission information, fleet and building tools, task status and searchable settings into a compact command interface. Guided operations cover patient transport, recruitment, academy courses, expansion planning and station icon copying. Saved presets help repeat a setup; game actions still require review and confirmation.
 
-The current estate contains **thirteen first-party systems**: **ten public products** and **three private operational platforms**. Two collaboration orbits, forks, upstream contributions, private recovery mirrors and archived source history are deliberately kept outside that ownership count.
+**[Install from the Chrome Web Store →](https://chromewebstore.google.com/detail/missionchief-map-command/lmnojpchebgcochdfnfjmnficicnaaoc)** · [Source & issues](https://github.com/Conroy1988/missionchief-toolkit-assets) · [Field Guide](https://conroy1988.github.io/missionchief-toolkit-assets/)
 
-| Public product | What it is · my role |
-| --- | --- |
-| **[TKB Gaming](https://tkb-gaming.scot/)** | Community and publishing estate for the TKB website, game guides and supported products. **Founder · Co-owner · Product and operations direction** |
-| **[MissionChief Map Command Toolkit](https://github.com/Conroy1988/missionchief-toolkit-assets)** | Responsive command layer for mission, fleet, map, transport and financial intelligence. **Creator · Product designer · Maintainer · Release authority** |
-| **[TKB UK Emergency Fleet — Animated](https://github.com/Conroy1988/missionchief-uk-animated-graphics)** | Original UK emergency-services vehicle graphics for MissionChief. **Creator · Product direction · Maintainer** |
-| **[UK Emergency Response Icons Reborn 2026](https://github.com/Conroy1988/UK-Emergency-Response-Icons-Reborn-2026)** | Complete mission-marker system with native states and permanent TKB Response Levels. **Creator · Product direction · Maintainer** |
-| **[ChatTime for ChatGPT](https://github.com/Conroy1988/ChatTime-for-ChatGPT)** | Privacy-first Chromium extension that reveals the original date and time of ChatGPT messages. **Creator · Product designer · Maintainer** |
-| **[Level — Smart Volume for Brave](https://github.com/Conroy1988/Level-Smart-Volume-for-Brave)** | Local adaptive loudness levelling that raises quiet dialogue and contains sudden blasts. **Creator · Product designer · Maintainer** |
-| **[Discord Game Emulator](https://github.com/Conroy1988/Discord-Game-Emulator)** | Experimental Windows utility for publishing cosmetic game presence through Discord's local Rich Presence connection. **Creator · Product designer · Maintainer** |
-| **[GitHub Achievement Encyclopedia](https://conroy1988.github.io/Achievements/)** | Evidence-led reference, research system and static API for GitHub profile achievements. **Creator · Research owner · Maintainer** |
-| **[Private Auto Page Translator](https://github.com/Conroy1988/Brave-Auto-Page-Translator)** | Context-aware translation inside the original webpage with explicit privacy boundaries and site-scoped control. **Creator · Product designer · Maintainer** |
-| **[Emby Best Episodes](https://github.com/Conroy1988/Emby-Best-Episodes)** | Server plugin that creates rating-sorted season playlists without changing Emby metadata. **Creator · Product owner · Maintainer** |
+The browser manages store updates. When moving from the userscript or an unpacked build, export supported settings first and disable duplicate installations. The store listing carries the current release status and limitations.
 
-| Private system | What it is · my role |
-| --- | --- |
-| **TKB Discord Bot and ConroyMedia Operations** | Community progression, administration, GitHub integration, host telemetry, gateways and controlled recovery. **Technical owner · Security authority · Live operator** |
-| **Investor Matrix** | Self-hosted market intelligence, portfolio accounting, risk control and explainable decision support. **Project lead · Admin authority · Architecture and delivery direction** |
-| **UK Fire Command** | Persistent map-first Fire and Rescue Service management game with real-road response and server-authoritative operations. **Creator · Product owner · Architecture authority** |
+### UK Emergency Fleet & mission icons
 
-The machine-readable ownership register is maintained in [`data/portfolio.json`](data/portfolio.json). The same source drives the generated portfolio totals below, preventing the written page and automated metrics from drifting apart.
+| Animated vehicles | Illustrated mission markers |
+| :--- | :--- |
+| **TKB UK Emergency Fleet** — UK emergency vehicles, distinctive silhouettes, independent lighting and helicopter rotor animation, with a performance-focused fleet design. | **UK Emergency Response Icons Reborn 2026** — illustrated incident markers with independent response levels, service information and native red, amber and green states. |
+| **[Use vehicle pack 5897 →](https://www.missionchief.co.uk/vehicle_graphics/5897)** · [Fleet gallery](https://tkb-gaming.scot/games/missionchief/guides/fleet-gallery/) · [Source](https://github.com/Conroy1988/missionchief-uk-animated-graphics) | **[Use mission pack 539 →](https://www.missionchief.co.uk/mission_graphics/539)** · [Icon gallery](https://github.com/Conroy1988/UK-Emergency-Response-Icons-Reborn-2026/blob/main/GALLERY.md) · [Source](https://github.com/Conroy1988/UK-Emergency-Response-Icons-Reborn-2026) |
 
-<img src="./assets/profile-portfolio-atlas-v3.webp" alt="A systems architect's workbench connecting TKB publishing, emergency mapping, browser tools, sound, presence, media, market intelligence and infrastructure" width="100%">
+## Independent software
 
----
+### Achievement Relay
 
-## 01 · Public estate
+**The unlock happens in your game. The celebration reaches your Discord.**
 
-### [Team Killing Bastards](https://tkb-gaming.scot/) · community, publishing and product operations
+A Windows tray app that watches connected Xbox and local Steam achievements and posts newly proven unlocks to your chosen Discord channel. Collector Cards put game artwork and achievement details centre stage. Local Steam monitoring, a desktop Signal Strip and verified automatic updates round out the experience.
 
-I founded and originally created **Team Killing Bastards** and now lead its identity, technical direction and long-term stewardship alongside [MartyBlyth](https://github.com/Martyblyth). The current production estate unifies the parent community, specialist game intelligence and supported product distribution inside one governed monorepo.
+**[Download for Windows →](https://github.com/Conroy1988/Achievement-Relay/releases/latest)** · [Source](https://github.com/Conroy1988/Achievement-Relay) · [Setup guide](https://github.com/Conroy1988/Achievement-Relay/blob/main/GETTING_STARTED.md)
 
-| Public surface | Mission |
-| --- | --- |
-| **[TKB Gaming](https://tkb-gaming.scot/)** | The community home, origin story, core squad and route into the wider estate. |
-| **[Battlefield War Room](https://tkb-gaming.scot/games/battlefield/)** | TKB service records, shared Battlefield history, commendations and live community activity. |
-| **[DamoDex · ARK: Survival Ascended](https://tkb-gaming.scot/games/ark-survival-ascended/)** | Interactive creature, map, resource and survival intelligence with patch-aware source controls. |
-| **[Crimson Desert Guide](https://tkb-gaming.scot/games/crimson-desert/guides/)** | Evidence-led, patch-aware field guide to Pywel, its systems, quests and world. |
-| **[Eco Guide](https://tkb-gaming.scot/games/eco/guides/)** | Versioned guide and world database for civilisation, industry, government and the meteor clock. |
-| **[DrainSim Guide](https://tkb-gaming.scot/games/drainsim/guides/)** | Mission, equipment and troubleshooting intelligence maintained inside the production estate. |
-| **[MissionChief UK Command Centre](https://tkb-gaming.scot/games/missionchief/guides/)** | Searchable missions, units, stations, training and fleet-planning intelligence. |
-| **[MissionChief Scripts](https://tkb-gaming.scot/mission-chief-scripts/)** | Supported installation and update channel for TKB MissionChief products. |
+Xbox monitoring uses your own OpenXBL key; Steam monitoring uses the local client. Initial history is a silent baseline. See the project for provider and device limitations.
 
-The production monorepo remains private because it contains deployment topology and operational controls. The finished public surfaces remain open. The retired standalone Crimson Desert and MissionChief repositories are preserved as source history with their migration provenance intact.
+### Browser tools
 
----
+| Project | The everyday problem it solves |
+| :--- | :--- |
+| **[Private Auto Page Translator](https://github.com/Conroy1988/Brave-Auto-Page-Translator)** | Read another language without leaving the original page. Contextual translation, reading and writing assistance, and site-specific controls. Approved external translation has an explicit privacy boundary. **[Install →](https://chromewebstore.google.com/detail/auto-page-translator-for/pilpighhgdglgngmakjepoadacbhpoeo)** |
+| **[ChatTime for ChatGPT](https://github.com/Conroy1988/ChatTime-for-ChatGPT)** | See when a message was actually created. Configurable timestamps, local time or UTC, and placement controls; message time comes from the page, with no extension network requests. **[Setup →](https://github.com/Conroy1988/ChatTime-for-ChatGPT#install-locally)** |
+| **[Level — Smart Volume for Brave](https://github.com/Conroy1988/Level-Smart-Volume-for-Brave)** | Hear quiet dialogue and contain sudden blasts. Adaptive loudness control with four listening modes and local audio processing. **[Explore →](https://github.com/Conroy1988/Level-Smart-Volume-for-Brave#readme)** |
 
-## 02 · Mission operations
+### Media, presence & research
 
-One suite now covers the decision layer, the moving fleet and the incident map.
+| Project | What it does |
+| :--- | :--- |
+| **[Emby Best Episodes](https://github.com/Conroy1988/Emby-Best-Episodes)** | Builds rating-sorted season playlists across your Emby library without changing episode metadata or original season order. |
+| **[Discord Game Emulator](https://github.com/Conroy1988/Discord-Game-Emulator)** | An experimental Windows utility for cosmetic game presence through Discord's local Rich Presence connection. It does not prove gameplay, complete Quests or earn Orbs. |
+| **[GitHub Achievement Encyclopedia](https://conroy1988.github.io/Achievements/)** | An evidence-led reference for GitHub achievements, with research records and a static API. Official facts, reproduced behaviour and uncertain claims stay distinguishable. **[Source →](https://github.com/Conroy1988/Achievements)** |
 
-### [MissionChief Map Command Toolkit](https://github.com/Conroy1988/missionchief-toolkit-assets)
+## Behind the systems
 
-The Toolkit turns MissionChief's scattered signals into one responsive command environment: incident priority, resource pressure, fleet state, patient transport, map intelligence, coverage, financial reconciliation, diagnostics and safe recovery.
+Some work is public to use; some exists to keep everything else running. These private projects are described at portfolio level.
 
-It does not replace MissionChief's authority. It makes the operational picture legible and reaches the correct native controls. Incomplete evidence fails closed.
+| Private project | Purpose & my role |
+| :--- | :--- |
+| **TKB Discord Bot / ConroyMedia** | Community progression, member tools, service monitoring and recovery. **Technical owner and operator.** |
+| **Investor Matrix** | Market research, portfolio accounting, paper trading and explainable decision support. **Project lead and delivery direction.** |
+| **UK Fire Command** | A persistent Fire and Rescue Service management game with stations, crews, training and map-based operations. **Creator and product owner.** |
 
-[![Live release](https://img.shields.io/github/v/release/Conroy1988/missionchief-toolkit-assets?display_name=release&label=LIVE%20RELEASE&color=35C8FF&labelColor=071017)](https://github.com/Conroy1988/missionchief-toolkit-assets/releases/latest)
-[![Canonical build](https://github.com/Conroy1988/missionchief-toolkit-assets/actions/workflows/validate-userscript.yml/badge.svg)](https://github.com/Conroy1988/missionchief-toolkit-assets/actions/workflows/validate-userscript.yml)
+### Collaboration, with proper credit
 
-[**Install or update from TKB Scripts**](https://tkb-gaming.scot/mission-chief-scripts/map-command-toolkit/) · [**Open the field guide**](https://conroy1988.github.io/missionchief-toolkit-assets/) · [**Explore eight interfaces**](https://conroy1988.github.io/missionchief-toolkit-assets/themes/) · [**Inspect release control**](https://github.com/Conroy1988/missionchief-toolkit-assets/blob/release-state/status/README.md)
+**[MissionChief Command Nexus](https://github.com/Team-Killing-Bastards/MissionChief-Command-Nexus)** is **MartyBlyth's project**. Marty is its developer, creator and technical owner. **I assist** with documentation, repository infrastructure, validation, operations and scoped compatibility work. It is not counted as one of my products.
 
-> **TKB Scripts is the sole supported public installation and update route.** GitHub is the canonical source, release archive and engineering record.
+**Blyth Control Centre and other Marty-owned systems** remain Marty's work. I provide organisational and delivery support.
 
-### [TKB UK Emergency Fleet — Animated](https://github.com/Conroy1988/missionchief-uk-animated-graphics)
+**[LSSM V.4](https://github.com/Conroy1988/LSSM-V.4)** is my upstream contribution workspace. Contributions include [monospaced notes](https://github.com/LSS-Manager/LSSM-V.4/pull/3982) and [alliance-member loading and sorting](https://github.com/LSS-Manager/LSSM-V.4/pull/3988); the upstream maintainers control review and release.
 
-A complete original UK emergency-services vehicle pack with static and animated map assets, independent emergency-light rhythms, helicopter rotor motion, specialist silhouettes and automated visibility testing.
+### How I work
 
-[![Release](https://img.shields.io/github/v/release/Conroy1988/missionchief-uk-animated-graphics?label=release&color=9E82FF&labelColor=071017)](https://github.com/Conroy1988/missionchief-uk-animated-graphics/releases/latest)
-[![MissionChief pack](https://img.shields.io/badge/MISSIONCHIEF-PACK%205897-5CE1D6?labelColor=071017)](https://www.missionchief.co.uk/vehicle_graphics/5897)
+Start with a real use case. Make the interface clear. Verify the change. Keep maintaining it after release.
 
-[**Preview the complete fleet**](https://github.com/Conroy1988/missionchief-uk-animated-graphics/blob/main/GALLERY.md) · [**Use vehicle pack 5897 in MissionChief**](https://www.missionchief.co.uk/vehicle_graphics/5897)
+Across these projects I work with **JavaScript / TypeScript, Python, C#, Rust and PowerShell**, supported by browser extensions, desktop frameworks, web applications, Docker and GitHub Actions. The technology follows the job.
 
-### [UK Emergency Response Icons Reborn 2026](https://github.com/Conroy1988/UK-Emergency-Response-Icons-Reborn-2026)
+<details>
+<summary><strong>Portfolio register & project history</strong></summary>
 
-Every mapped UK mission receives a compact incident marker and a permanent **TKB Response Level 1–5**. MissionChief's native red, amber and green states remain independent, so priority and live progress never become the same signal.
+The [project register](data/portfolio.json) tracks fourteen first-party systems: eleven public products and three private platforms. TKB's guides and Soundscape are grouped under TKB Gaming. Collaborations, forks and recovery mirrors are recorded separately from original products.
 
-[![Automated QA](https://img.shields.io/badge/AUTOMATED%20QA-PASSING-22C55E?labelColor=071017)](https://github.com/Conroy1988/UK-Emergency-Response-Icons-Reborn-2026/blob/main/data/qa-report.json)
-[![MissionChief pack](https://img.shields.io/badge/MISSIONCHIEF-PACK%20539-FFB84D?labelColor=071017)](https://www.missionchief.co.uk/mission_graphics/539)
-
-[**Browse every mission slot**](https://github.com/Conroy1988/UK-Emergency-Response-Icons-Reborn-2026/blob/main/GALLERY.md) · [**Use mission pack 539 in MissionChief**](https://www.missionchief.co.uk/mission_graphics/539)
-
----
-
-## 03 · Product lab
-
-The product lab starts with recurring annoyances that should not require a subscription, a developer-operated server or an invasion of privacy to solve. Six products now cover **presence, sound, language, time, evidence and media**—each with an explicit trust boundary.
-
-### [Discord Game Emulator](https://github.com/Conroy1988/Discord-Game-Emulator) · newest public product
-
-A polished Windows utility for choosing a recognised game identity, shaping optional activity text and publishing cosmetic game presence through Discord's local Rich Presence connection. The Rust backend resolves selections against the active detectable-game catalogue rather than accepting arbitrary application IDs.
-
-It is experimental and unofficial: presence is cosmetic only, cannot prove ownership or genuine gameplay, and does not complete Quests, earn Orbs or access Discord account data.
-
-[![Release](https://img.shields.io/github/v/release/Conroy1988/Discord-Game-Emulator?label=WINDOWS%20RELEASE&color=765FFF&labelColor=071017)](https://github.com/Conroy1988/Discord-Game-Emulator/releases/latest)
-[![CI](https://github.com/Conroy1988/Discord-Game-Emulator/actions/workflows/ci.yml/badge.svg)](https://github.com/Conroy1988/Discord-Game-Emulator/actions/workflows/ci.yml)
-[![Stack](https://img.shields.io/badge/TAURI%20%2B%20RUST-LOCAL%20IPC-5CE1D6?labelColor=071017)](https://github.com/Conroy1988/Discord-Game-Emulator)
-
-[**Download the Windows release**](https://github.com/Conroy1988/Discord-Game-Emulator/releases/latest) · [**Inspect privacy and capability boundaries**](https://github.com/Conroy1988/Discord-Game-Emulator/blob/main/SECURITY.md)
-
-### [Level — Smart Volume for Brave](https://github.com/Conroy1988/Level-Smart-Volume-for-Brave)
-
-Level is an automatic loudness leveller rather than a blunt volume booster. It lifts sustained quiet material gradually, reduces loud changes quickly, shapes dialogue when requested and catches peaks across four tuned listening modes.
-
-Audio processing is transient and local. There is no server, recording, account, advertising, analytics or tracking; website preferences stay in extension storage.
-
-[![Version](https://img.shields.io/badge/VERSION-1.0.0-9E82FF?labelColor=071017)](https://github.com/Conroy1988/Level-Smart-Volume-for-Brave)
-[![Manifest V3](https://img.shields.io/badge/MANIFEST-V3-5CE1D6?labelColor=071017)](https://github.com/Conroy1988/Level-Smart-Volume-for-Brave)
-[![Audio](https://img.shields.io/badge/AUDIO-100%25%20LOCAL-22C55E?labelColor=071017)](https://github.com/Conroy1988/Level-Smart-Volume-for-Brave/blob/main/docs/ARCHITECTURE.md)
-
-[**Open the project**](https://github.com/Conroy1988/Level-Smart-Volume-for-Brave) · [**Read the architecture**](https://github.com/Conroy1988/Level-Smart-Volume-for-Brave/blob/main/docs/ARCHITECTURE.md) · [**Inspect the privacy policy**](https://github.com/Conroy1988/Level-Smart-Volume-for-Brave/blob/main/docs/PRIVACY.md)
-
-### [Private Auto Page Translator](https://github.com/Conroy1988/Brave-Auto-Page-Translator)
-
-A privacy-conscious Manifest V3 extension for Brave and Chromium. It translates readable text inside the original page, preserves the site's real session and interactive state, masks common private values before approved external translation, and keeps automatic behaviour explicitly site-scoped.
-
-[![Chrome Web Store](https://img.shields.io/badge/CHROME%20WEB%20STORE-INSTALL-4285F4?style=flat&logo=googlechrome&logoColor=white)](https://chromewebstore.google.com/detail/auto-page-translator-for/pilpighhgdglgngmakjepoadacbhpoeo)
-[![Manifest V3](https://img.shields.io/badge/MANIFEST-V3-9E82FF?labelColor=071017)](https://github.com/Conroy1988/Brave-Auto-Page-Translator)
-[![Privacy](https://img.shields.io/badge/PRIVACY-FIREWALL-22C55E?labelColor=071017)](https://github.com/Conroy1988/Brave-Auto-Page-Translator/blob/main/PRIVACY.md)
-
-[**Install from the Chrome Web Store**](https://chromewebstore.google.com/detail/auto-page-translator-for/pilpighhgdglgngmakjepoadacbhpoeo) · [**Inspect the public source**](https://github.com/Conroy1988/Brave-Auto-Page-Translator)
-
-### [ChatTime for ChatGPT](https://github.com/Conroy1988/ChatTime-for-ChatGPT)
-
-ChatTime reveals the original creation date and time of messages on `chatgpt.com`. It supports local time or UTC, 12-hour or 24-hour clocks, optional dates and seconds, placement above or below messages, and independent user/reply visibility.
-
-The extension uses message time already loaded in the page. It has no server, analytics, advertising, account, remote code or network requests; its only extension permission stores display preferences.
-
-[![Release](https://img.shields.io/github/v/release/Conroy1988/ChatTime-for-ChatGPT?label=release&color=9E82FF&labelColor=071017)](https://github.com/Conroy1988/ChatTime-for-ChatGPT/releases/latest)
-[![Manifest V3](https://img.shields.io/badge/MANIFEST-V3-5CE1D6?labelColor=071017)](https://github.com/Conroy1988/ChatTime-for-ChatGPT)
-[![Privacy](https://img.shields.io/badge/NETWORK%20REQUESTS-NONE-22C55E?labelColor=071017)](https://github.com/Conroy1988/ChatTime-for-ChatGPT/blob/main/PRIVACY.md)
-
-[**Open the project**](https://github.com/Conroy1988/ChatTime-for-ChatGPT) · [**Read the privacy policy**](https://github.com/Conroy1988/ChatTime-for-ChatGPT/blob/main/PRIVACY.md)
-
-### [GitHub Achievement Encyclopedia](https://conroy1988.github.io/Achievements/)
-
-An evidence-led reference that separates official documentation, reproduced behaviour, historical records, community claims and unknowns. Human-readable guidance sits beside privacy-safe evidence records, verification timelines, bounded research tasks and a validated static API.
-
-[![Release](https://img.shields.io/github/v/release/Conroy1988/Achievements?label=release&color=FFB84D&labelColor=071017)](https://github.com/Conroy1988/Achievements/releases/latest)
-[![Content quality](https://github.com/Conroy1988/Achievements/actions/workflows/content-quality.yml/badge.svg)](https://github.com/Conroy1988/Achievements/actions/workflows/content-quality.yml)
-
-[**Explore the encyclopedia**](https://conroy1988.github.io/Achievements/) · [**Search the research**](https://conroy1988.github.io/Achievements/search/) · [**Inspect the evidence register**](https://github.com/Conroy1988/Achievements/blob/main/docs/evidence-register.md) · [**Use the static API**](https://github.com/Conroy1988/Achievements/blob/main/docs/api-reference.md)
-
-### [Emby Best Episodes](https://github.com/Conroy1988/Emby-Best-Episodes)
-
-An Emby Server plugin that builds best-rated playlists for each TV season without changing season order, episode metadata, ratings or watched state. It can rank one show, selected shows or the full visible library, then refresh after scans or on a schedule.
-
-[![Build](https://github.com/Conroy1988/Emby-Best-Episodes/actions/workflows/build.yml/badge.svg)](https://github.com/Conroy1988/Emby-Best-Episodes/actions/workflows/build.yml)
-[![Platform](https://img.shields.io/badge/PLATFORM-EMBY%20SERVER-5CE1D6?labelColor=071017)](https://github.com/Conroy1988/Emby-Best-Episodes)
-
-[**Open the repository**](https://github.com/Conroy1988/Emby-Best-Episodes) · [**Read the Emby community release thread**](https://emby.media/community/topic/148991-plugin-best-episodes-%E2%80%93-highest-rated-episode-playlists-by-season/)
-
----
-
-## 04 · Private command
-
-These systems are private by design. Credentials, deployment topology, member data, market records and unreleased game state do not belong on a public profile.
-
-| System | Operational mission | My authority |
-| --- | --- | --- |
-| **TKB Discord Bot and ConroyMedia Operations** | Community progression, Passport and member surfaces, private health intelligence, GitHub integration, service monitoring, host telemetry, incident correlation, HTTPS gateways, deployment and recovery. | Technical owner · Maintainer · Security authority · Live operator |
-| **Investor Matrix** | US and UK market intelligence, portfolio accounting, Paper Trading Laboratory, explainable research prioritisation, auditing and human-controlled risk decisions. No broker execution. | Project lead · Admin authority · Architecture and delivery direction |
-| **UK Fire Command** | Persistent Fire and Rescue Service management across Scotland or England: stations, appliances, crews, training, qualification-valid mobilisation, real roads and server-authoritative escalation. | Creator · Product owner · Architecture authority |
-
-Public descriptions explain purpose and boundaries. They do not expose secrets, member information, recovery material or enough topology to weaken the live estate.
-
----
-
-## Collaboration without blurred ownership
-
-Good collaboration should make authorship clearer—not absorb somebody else's work into my portfolio count.
-
-### [MissionChief Command Nexus](https://github.com/Team-Killing-Bastards/MissionChief-Command-Nexus)
-
-**MartyBlyth is the developer, creator, principal userscript author, technical owner and release authority. Command Nexus remains Marty's project.**
-
-I am the **project helper** for repository infrastructure, documentation, validation and general operations. With Marty's permission, I also contributed scoped iOS Safari compatibility work. The Resource Administration and Mission Finder engines remain Marty's work.
-
-[![Release](https://img.shields.io/github/v/release/Team-Killing-Bastards/MissionChief-Command-Nexus?label=release&color=9E82FF&labelColor=071017)](https://github.com/Team-Killing-Bastards/MissionChief-Command-Nexus/releases/latest)
-[![Install](https://img.shields.io/greasyfork/v/587702?label=install&color=5CE1D6&labelColor=071017)](https://greasyfork.org/en/scripts/587702-missionchief-command-nexus)
-[![Validation](https://github.com/Team-Killing-Bastards/MissionChief-Command-Nexus/actions/workflows/validate-userscript.yml/badge.svg)](https://github.com/Team-Killing-Bastards/MissionChief-Command-Nexus/actions/workflows/validate-userscript.yml)
-
-### Marty-owned private systems
-
-I provide organisation, portfolio and delivery support around **Blyth Control Centre** and other Marty-owned work. Marty remains their creator, product owner and primary technical authority.
-
-### LSSM V.4 · upstream contributions
-
-My public LSSM fork is a contribution workspace—not a first-party product. Both changes remain under upstream maintainer authority, with their live review state left to the pull-request pages.
-
-| Pull request | Contribution |
-| --- | --- |
-| [**#3982**](https://github.com/LSS-Manager/LSSM-V.4/pull/3982) | Optional monospaced notes across native and redesigned editors, documentation and supported locales. |
-| [**#3988**](https://github.com/LSS-Manager/LSSM-V.4/pull/3988) | Complete alliance-member loading plus role, activity and local sorting controls. |
-
----
-
-## ConroyMedia
-
-<img src="./assets/profile-operations-estate.webp" alt="A self-hosted operations environment with a server rack, service dashboards and Edinburgh at night" width="100%">
-
-**ConroyMedia** is where architectural claims meet operating reality.
-
-It connects Docker services, Caddy routing, DDNS, media automation, service monitoring, Windows telemetry, GitHub Apps and isolated runners, Home Assistant integrations, deployment controls, backups and tested recovery paths.
-
-```mermaid
-flowchart LR
-    Idea[Product intent] --> Proof[Evidence and validation]
-    Proof --> Release[Immutable release]
-    Release --> Operate[Live operation]
-    Services[Services and infrastructure] --> Observe[Monitoring and telemetry]
-    Operate --> Observe
-    Observe --> Control[Bounded control]
-    Control --> Recover[Backup · restore · rollback]
-```
-
-> A dependable system can explain its state, identify its authority and show the route home when something fails.
-
----
-
-## Working stack
-
-<div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-071017?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-071017?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Python](https://img.shields.io/badge/Python-071017?style=for-the-badge&logo=python&logoColor=3776AB)
-![PowerShell](https://img.shields.io/badge/PowerShell-071017?style=for-the-badge&logo=powershell&logoColor=5391FE)
-![Rust](https://img.shields.io/badge/Rust-071017?style=for-the-badge&logo=rust&logoColor=F4F1EB)
-![C Sharp](https://img.shields.io/badge/C%23-071017?style=for-the-badge&logo=dotnet&logoColor=512BD4)
-
-![Astro](https://img.shields.io/badge/Astro-071017?style=for-the-badge&logo=astro&logoColor=BC52EE)
-![Next.js](https://img.shields.io/badge/Next.js-071017?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-071017?style=for-the-badge&logo=fastapi&logoColor=009688)
-![NestJS](https://img.shields.io/badge/NestJS-071017?style=for-the-badge&logo=nestjs&logoColor=E0234E)
-![React](https://img.shields.io/badge/React-071017?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tauri](https://img.shields.io/badge/Tauri-071017?style=for-the-badge&logo=tauri&logoColor=FFC131)
-
-![Docker](https://img.shields.io/badge/Docker-071017?style=for-the-badge&logo=docker&logoColor=2496ED)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-071017?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-071017?style=for-the-badge&logo=githubactions&logoColor=2088FF)
-![Playwright](https://img.shields.io/badge/Playwright-071017?style=for-the-badge&logo=playwright&logoColor=2EAD33)
-
-</div>
-
----
+- [Crimson-Desert-Guide](https://github.com/Conroy1988/Crimson-Desert-Guide) and [MissionChief-UK](https://github.com/Conroy1988/MissionChief-UK) are archived sources; the maintained public guides are linked above.
+- [RED4ext](https://github.com/Conroy1988/RED4ext) is a third-party fork.
+- The private Toolkit recovery repository is infrastructure, not a separate product.
+- The organisation profile and demo repository support the community and development workflow.
+
+</details>
 
 ## Public activity
+
+<details>
+<summary><strong>Explore the public development snapshot</strong></summary>
 
 <div align="center">
 
 <img width="95%" src="./assets/profile-cards/overview.svg" alt="Conroy1988 repository-owned profile operations snapshot">
 
-<img width="47%" src="./assets/profile-cards/languages-repos.svg" alt="Languages across Conroy1988 public first-party repositories">
-<img width="47%" src="./assets/profile-cards/languages-volume.svg" alt="Language code volume across Conroy1988 public first-party repositories">
+<img width="47%" src="./assets/profile-cards/languages-repos.svg" alt="Primary languages across public source repositories">
+<img width="47%" src="./assets/profile-cards/languages-volume.svg" alt="Language volume across public source repositories">
 
-<img width="47%" src="./assets/profile-cards/public-activity.svg" alt="Conroy1988 recent public GitHub activity">
-<img width="47%" src="./assets/profile-cards/activity-rhythm.svg" alt="Conroy1988 public GitHub activity rhythm">
-
-<sub>Repository-owned cards regenerate from GitHub's API. Private work and some organisation activity remain intentionally outside public statistics.</sub>
+<img width="47%" src="./assets/profile-cards/public-activity.svg" alt="Recent sampled public GitHub activity">
+<img width="47%" src="./assets/profile-cards/activity-rhythm.svg" alt="Public event activity by hour">
 
 </div>
 
----
-
-## Project history and contribution workspaces
-
-<details>
-<summary><strong>Archived sources, mirrors, forks and non-product repositories</strong></summary>
-
-<br>
-
-- [`Crimson-Desert-Guide`](https://github.com/Conroy1988/Crimson-Desert-Guide) — archived source history; maintained successor is the TKB Website estate.
-- [`MissionChief-UK`](https://github.com/Conroy1988/MissionChief-UK) — archived source history; maintained successor is the TKB Website estate.
-- [`LSSM-V.4`](https://github.com/Conroy1988/LSSM-V.4) — public fork used for upstream contribution work.
-- `missionchief-map-command-toolkit-private` — private recovery authority, not a second public product.
-- `RED4ext` — third-party fork, not presented as original work.
-- `demo-repository` — organisation test infrastructure, not a portfolio product.
+Cards refresh from GitHub's API. Activity is a sample of recent public events, not a complete contribution count. Private work is excluded; the language sample also includes public TKB organisation repositories.
 
 </details>
 
 ---
 
-## Beyond the build
+Away from the projects: PC gaming, handheld tinkering, self-hosting and cinematic music. **Eli and Nala** supervise keyboard access.
 
-Usually: PC gaming, Linux and handheld tinkering, self-hosted infrastructure, interface concepts, game worlds or cinematic music experiments.
-
-Development is supervised by **Eli and Nala**, who contribute no code but retain decisive control over keyboard availability.
-
----
-
-<div align="center">
-
-### Build useful systems. Make authority visible. Stay after launch
-
-[![GitHub](https://img.shields.io/badge/OPEN-CONROY1988-5CE1D6?style=for-the-badge&logo=github&logoColor=white&labelColor=071017)](https://github.com/Conroy1988)
-[![TKB](https://img.shields.io/badge/EXPLORE-TEAM_KILLING_BASTARDS-9E82FF?style=for-the-badge&logo=github&logoColor=white&labelColor=071017)](https://github.com/Team-Killing-Bastards)
-[![Website](https://img.shields.io/badge/VISIT-TKB_GAMING-FFB84D?style=for-the-badge&labelColor=071017)](https://tkb-gaming.scot/)
-[![Ko-fi](https://img.shields.io/badge/SUPPORT-KO--FI-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white&labelColor=071017)](https://ko-fi.com/D4P124RWI9)
-
-<sub>Independent projects and community systems. Third-party product names and trademarks remain the property of their respective owners.</sub>
-
-</div>
+<p align="center">
+  <strong>Made to be used. Built to keep improving.</strong><br><br>
+  <a href="https://tkb-gaming.scot/">Explore TKB Gaming</a> ·
+  <a href="https://github.com/Team-Killing-Bastards">Meet the organisation</a> ·
+  <a href="https://ko-fi.com/D4P124RWI9">Support the projects</a>
+</p>

@@ -6,6 +6,7 @@ on:
     paths:
       - data/portfolio.json
       - scripts/generate_profile_cards.py
+      - scripts/build_identity.py
       - .github/workflows/profile-cards.yml
   schedule:
     - cron: "17 3 * * *"
@@ -38,6 +39,9 @@ jobs:
           PROFILE_ORGANISATION: Team-Killing-Bastards
           PROFILE_UTC_OFFSET: "1"
         run: python scripts/generate_profile_cards.py
+
+      - name: Refresh portfolio identity
+        run: python scripts/build_identity.py
 
       - name: Validate generated SVG files
         run: |
@@ -76,12 +80,12 @@ jobs:
 
       - name: Commit refreshed cards
         run: |
-          if git diff --quiet -- README.md scripts/generate_profile_cards.py assets/profile-cards; then
+          if git diff --quiet -- README.md scripts/generate_profile_cards.py assets/profile-cards assets/identity; then
             echo "Profile cards are already current."
             exit 0
           fi
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add README.md scripts/generate_profile_cards.py assets/profile-cards
+          git add README.md scripts/generate_profile_cards.py assets/profile-cards assets/identity
           git commit -m "Refresh repository-owned profile cards"
           git push
