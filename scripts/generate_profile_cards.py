@@ -239,7 +239,7 @@ def language_repo_svg(data: dict[str, Any]) -> str:
   <rect x="126" y="{y}" width="{width}" height="13" rx="6" fill="{color}"/>
   <text x="400" y="{y + 11}" text-anchor="end" fill="{color}" font-family="Segoe UI, Arial, sans-serif" font-size="12" font-weight="700">{amount}</text>'''
         )
-    return svg_shell(430, 270, "Languages by Repository", "Primary language across public first-party source repositories", "\n".join(rows))
+    return svg_shell(430, 270, "Languages by Repository", "Primary language across public personal and TKB source repos", "\n".join(rows))
 
 
 def ring_segments(items: list[tuple[str, int]], cx: int, cy: int, radius: int) -> str:
@@ -303,7 +303,7 @@ def activity_svg(data: dict[str, Any]) -> str:
   <text x="{x + 15}" y="{y + 50}" fill="{color}" font-family="Segoe UI, Arial, sans-serif" font-size="25" font-weight="800">{value}</text>
   <text x="{x + 56}" y="{y + 49}" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="10">{detail}</text>'''
         )
-    return svg_shell(430, 270, "Public Development Activity", "Recent public GitHub events; private work is intentionally excluded", "\n".join(blocks))
+    return svg_shell(430, 270, "Public Development Activity", "Sample of up to 100 recent public events; private work excluded", "\n".join(blocks))
 
 
 def productive_time_svg(data: dict[str, Any]) -> str:
@@ -378,9 +378,8 @@ def main() -> int:
         data = collect_profile_data()
         source = "GitHub API"
     except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError, json.JSONDecodeError) as error:
-        print(f"GitHub API unavailable; generating safe fallback cards: {error}", file=sys.stderr)
-        data = fallback_data()
-        source = "fallback"
+        print(f"GitHub API unavailable; keeping last verified cards: {error}", file=sys.stderr)
+        return 1
 
     write_svg(OUTPUT_DIR / "overview.svg", overview_svg(data))
     write_svg(OUTPUT_DIR / "languages-repos.svg", language_repo_svg(data))

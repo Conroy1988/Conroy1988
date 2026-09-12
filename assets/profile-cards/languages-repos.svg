@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="430" height="270" viewBox="0 0 430 270" role="img" aria-labelledby="card-title card-desc">
   <title id="card-title">Languages by Repository</title>
-  <desc id="card-desc">Primary language across public first-party source repositories</desc>
+  <desc id="card-desc">Primary language across public personal and TKB source repos</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#071017"/>
@@ -17,7 +17,7 @@
   <rect x="1" y="1" width="428" height="5" rx="3" fill="url(#accent)"/>
   <circle cx="29" cy="36" r="7" fill="#58E6D9"/>
   <text x="48" y="43" fill="#F4F1EB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="22" font-weight="800">Languages by Repository</text>
-  <text x="28" y="67" fill="#8E9CAB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">Primary language across public first-party source repositories</text>
+  <text x="28" y="67" fill="#8E9CAB" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12">Primary language across public personal and TKB source repos</text>
   <text x="28" y="105" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="12">JavaScript</text>
   <rect x="126" y="94" width="260" height="13" rx="6" fill="#1B2730"/>
   <rect x="126" y="94" width="250" height="13" rx="6" fill="#f7df1e"/>

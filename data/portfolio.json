@@ -13,7 +13,7 @@
       "name": "MissionChief Map Command Toolkit",
       "visibility": "public",
       "repository": "Conroy1988/missionchief-toolkit-assets",
-      "url": "https://github.com/Conroy1988/missionchief-toolkit-assets"
+      "url": "https://chromewebstore.google.com/detail/missionchief-map-command/lmnojpchebgcochdfnfjmnficicnaaoc"
     },
     {
       "id": "uk-emergency-fleet",
@@ -28,6 +28,13 @@
       "visibility": "public",
       "repository": "Conroy1988/UK-Emergency-Response-Icons-Reborn-2026",
       "url": "https://github.com/Conroy1988/UK-Emergency-Response-Icons-Reborn-2026"
+    },
+    {
+      "id": "achievement-relay",
+      "name": "Achievement Relay",
+      "visibility": "public",
+      "repository": "Conroy1988/Achievement-Relay",
+      "url": "https://github.com/Conroy1988/Achievement-Relay/releases/latest"
     },
     {
       "id": "chattime-for-chatgpt",
