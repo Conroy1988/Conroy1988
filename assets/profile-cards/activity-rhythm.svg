@@ -22,7 +22,7 @@
   <line x1="28" y1="100" x2="28" y2="220" stroke="#293640"/>
   <rect x="30" y="160" width="10" height="60" rx="3" fill="#9A7CFF" opacity="1"/>
   <rect x="45" y="175" width="10" height="45" rx="3" fill="#9A7CFF" opacity="1"/>
-  <rect x="60" y="190" width="10" height="30" rx="3" fill="#9A7CFF" opacity="1"/>
+  <rect x="60" y="183" width="10" height="37" rx="3" fill="#9A7CFF" opacity="1"/>
   <rect x="75" y="183" width="10" height="37" rx="3" fill="#9A7CFF" opacity="1"/>
   <rect x="90" y="213" width="10" height="7" rx="3" fill="#9A7CFF" opacity="1"/>
   <rect x="105" y="220" width="10" height="2" rx="3" fill="#9A7CFF" opacity="0.18"/>
@@ -33,7 +33,7 @@
   <rect x="180" y="220" width="10" height="2" rx="3" fill="#9A7CFF" opacity="0.18"/>
   <rect x="195" y="220" width="10" height="2" rx="3" fill="#9A7CFF" opacity="0.18"/>
   <rect x="210" y="183" width="10" height="37" rx="3" fill="#9A7CFF" opacity="1"/>
-  <rect x="225" y="145" width="10" height="75" rx="3" fill="#9A7CFF" opacity="1"/>
+  <rect x="225" y="175" width="10" height="45" rx="3" fill="#9A7CFF" opacity="1"/>
   <rect x="240" y="198" width="10" height="22" rx="3" fill="#9A7CFF" opacity="1"/>
   <rect x="255" y="190" width="10" height="30" rx="3" fill="#9A7CFF" opacity="1"/>
   <rect x="270" y="175" width="10" height="45" rx="3" fill="#9A7CFF" opacity="1"/>
@@ -42,7 +42,7 @@
   <rect x="315" y="175" width="10" height="45" rx="3" fill="#9A7CFF" opacity="1"/>
   <rect x="330" y="123" width="10" height="97" rx="3" fill="#9A7CFF" opacity="1"/>
   <rect x="345" y="198" width="10" height="22" rx="3" fill="#9A7CFF" opacity="1"/>
-  <rect x="360" y="190" width="10" height="30" rx="3" fill="#9A7CFF" opacity="1"/>
+  <rect x="360" y="168" width="10" height="52" rx="3" fill="#9A7CFF" opacity="1"/>
   <rect x="375" y="175" width="10" height="45" rx="3" fill="#9A7CFF" opacity="1"/>
   <text x="35" y="242" text-anchor="middle" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="9">0</text>  <text x="125" y="242" text-anchor="middle" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="9">6</text>  <text x="215" y="242" text-anchor="middle" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="9">12</text>  <text x="305" y="242" text-anchor="middle" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="9">18</text>  <text x="380" y="242" text-anchor="middle" fill="#8b949e" font-family="Segoe UI, Arial, sans-serif" font-size="9">23</text>
   <text x="28" y="260" fill="#58E6D9" font-family="Segoe UI, Arial, sans-serif" font-size="10">Peak public activity: 17:00–18:00</text>
