@@ -33,8 +33,8 @@
   <rect x="180" y="220" width="10" height="2" rx="3" fill="#9A7CFF" opacity="0.18"/>
   <rect x="195" y="220" width="10" height="2" rx="3" fill="#9A7CFF" opacity="0.18"/>
   <rect x="210" y="183" width="10" height="37" rx="3" fill="#9A7CFF" opacity="1"/>
-  <rect x="225" y="175" width="10" height="45" rx="3" fill="#9A7CFF" opacity="1"/>
-  <rect x="240" y="198" width="10" height="22" rx="3" fill="#9A7CFF" opacity="1"/>
+  <rect x="225" y="160" width="10" height="60" rx="3" fill="#9A7CFF" opacity="1"/>
+  <rect x="240" y="213" width="10" height="7" rx="3" fill="#9A7CFF" opacity="1"/>
   <rect x="255" y="190" width="10" height="30" rx="3" fill="#9A7CFF" opacity="1"/>
   <rect x="270" y="175" width="10" height="45" rx="3" fill="#9A7CFF" opacity="1"/>
   <rect x="285" y="100" width="10" height="120" rx="3" fill="#58E6D9" opacity="1"/>
