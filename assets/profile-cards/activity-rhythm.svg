@@ -31,10 +31,10 @@
   <rect x="150" y="220" width="10" height="2" rx="3" fill="#9A7CFF" opacity="0.18"/>
   <rect x="165" y="220" width="10" height="2" rx="3" fill="#9A7CFF" opacity="0.18"/>
   <rect x="180" y="185" width="10" height="35" rx="3" fill="#9A7CFF" opacity="1"/>
-  <rect x="195" y="199" width="10" height="21" rx="3" fill="#9A7CFF" opacity="1"/>
-  <rect x="210" y="122" width="10" height="98" rx="3" fill="#9A7CFF" opacity="1"/>
-  <rect x="225" y="143" width="10" height="77" rx="3" fill="#9A7CFF" opacity="1"/>
-  <rect x="240" y="150" width="10" height="70" rx="3" fill="#9A7CFF" opacity="1"/>
+  <rect x="195" y="213" width="10" height="7" rx="3" fill="#9A7CFF" opacity="1"/>
+  <rect x="210" y="185" width="10" height="35" rx="3" fill="#9A7CFF" opacity="1"/>
+  <rect x="225" y="206" width="10" height="14" rx="3" fill="#9A7CFF" opacity="1"/>
+  <rect x="240" y="199" width="10" height="21" rx="3" fill="#9A7CFF" opacity="1"/>
   <rect x="255" y="185" width="10" height="35" rx="3" fill="#9A7CFF" opacity="1"/>
   <rect x="270" y="220" width="10" height="2" rx="3" fill="#9A7CFF" opacity="0.18"/>
   <rect x="285" y="185" width="10" height="35" rx="3" fill="#9A7CFF" opacity="1"/>
