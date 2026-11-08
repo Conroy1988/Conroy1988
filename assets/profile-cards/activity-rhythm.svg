@@ -30,9 +30,9 @@
   <rect x="135" y="220" width="10" height="2" rx="3" fill="#9A7CFF" opacity="0.18"/>
   <rect x="150" y="220" width="10" height="2" rx="3" fill="#9A7CFF" opacity="0.18"/>
   <rect x="165" y="220" width="10" height="2" rx="3" fill="#9A7CFF" opacity="0.18"/>
-  <rect x="180" y="154" width="10" height="66" rx="3" fill="#9A7CFF" opacity="1"/>
-  <rect x="195" y="207" width="10" height="13" rx="3" fill="#9A7CFF" opacity="1"/>
-  <rect x="210" y="180" width="10" height="40" rx="3" fill="#9A7CFF" opacity="1"/>
+  <rect x="180" y="120" width="10" height="100" rx="3" fill="#9A7CFF" opacity="1"/>
+  <rect x="195" y="200" width="10" height="20" rx="3" fill="#9A7CFF" opacity="1"/>
+  <rect x="210" y="160" width="10" height="60" rx="3" fill="#9A7CFF" opacity="1"/>
   <rect x="225" y="220" width="10" height="2" rx="3" fill="#9A7CFF" opacity="0.18"/>
   <rect x="240" y="220" width="10" height="2" rx="3" fill="#9A7CFF" opacity="0.18"/>
   <rect x="255" y="220" width="10" height="2" rx="3" fill="#9A7CFF" opacity="0.18"/>
